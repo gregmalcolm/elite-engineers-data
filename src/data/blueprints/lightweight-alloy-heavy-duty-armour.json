@@ -124,7 +124,7 @@
             "components": {
                 "vanadium": 1,
                 "shielding-sensors": 3,
-                "proprietary-components": 2,
+                "proprietary-composites": 2,
                 "reinforced-mounting-plate": 1
             },
             "effects": {

@@ -39,8 +39,7 @@
                 "heat-conduction-wiring": 2,
                 "manganese": 2,
                 "phase-alloys": 1,
-                "cmm-composite": 1,
-                "heat-condution-wiring": 2
+                "cmm-composite": 1
             },
             "effects": {
                 "mass": {
@@ -74,10 +73,8 @@
                 "heat-conduction-wiring": 1,
                 "manganese": 1,
                 "conductive-ceramics": 2,
-                "proto-alloys": 1,
-                "cmm-composite": 1,
-                "heat-condution-wiring": 1,
-                "proto-light-alloys": 1
+                "proto-light-alloys": 1,
+                "cmm-composite": 1
             },
             "effects": {
                 "mass": {

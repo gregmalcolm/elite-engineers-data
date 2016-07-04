@@ -572,8 +572,7 @@
                     "specialised-legacy-firmware": 2,
                     "mechanical-equipment": 2,
                     "chemical-distillery": 1,
-                    "modular-terminals": 1,
-                    "specialsed-legacy-firmware": 2
+                    "modular-terminals": 1
                 },
                 "effects": {
                     "optimal-multiplier": {
@@ -3992,8 +3991,7 @@
                     "heat-conduction-wiring": 2,
                     "manganese": 2,
                     "phase-alloys": 1,
-                    "cmm-composite": 1,
-                    "heat-condution-wiring": 2
+                    "cmm-composite": 1
                 },
                 "effects": {
                     "mass": {
@@ -4027,10 +4025,8 @@
                     "heat-conduction-wiring": 1,
                     "manganese": 1,
                     "conductive-ceramics": 2,
-                    "proto-alloys": 1,
-                    "cmm-composite": 1,
-                    "heat-condution-wiring": 1,
-                    "proto-light-alloys": 1
+                    "proto-light-alloys": 1,
+                    "cmm-composite": 1
                 },
                 "effects": {
                     "mass": {
@@ -9590,8 +9586,7 @@
                     "chromium": 3,
                     "conductive-ceramics": 2,
                     "polymer-capacitors": 1,
-                    "platinum": 1,
-                    "polmer-capacitors": 1
+                    "platinum": 1
                 },
                 "effects": {
                     "maximum-range": {
@@ -10239,9 +10234,8 @@
         "recipes": {
             "1": {
                 "components": {
-                    "phosporus": 2,
-                    "galvanising-alloys": 1,
-                    "phosphorus": 2
+                    "phosphorus": 2,
+                    "galvanising-alloys": 1
                 },
                 "effects": {
                     "mass": {
@@ -10458,8 +10452,7 @@
                     "nickel": 2,
                     "modified-consumer-firmware": 2,
                     "electrochemical-arrays": 1,
-                    "insulating-membrane": 1,
-                    "insulatnig-membrane": 1
+                    "insulating-membrane": 1
                 },
                 "effects": {
                     "maximum-range": {
@@ -11419,7 +11412,7 @@
                 "components": {
                     "vanadium": 1,
                     "shielding-sensors": 3,
-                    "proprietary-components": 2,
+                    "proprietary-composites": 2,
                     "reinforced-mounting-plate": 1
                 },
                 "effects": {

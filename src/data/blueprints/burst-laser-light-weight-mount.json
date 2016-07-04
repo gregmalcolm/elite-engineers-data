@@ -4,9 +4,8 @@
     "recipes": {
         "1": {
             "components": {
-                "phosporus": 2,
-                "galvanising-alloys": 1,
-                "phosphorus": 2
+                "phosphorus": 2,
+                "galvanising-alloys": 1
             },
             "effects": {
                 "mass": {

@@ -45,8 +45,7 @@
                 "specialised-legacy-firmware": 2,
                 "mechanical-equipment": 2,
                 "chemical-distillery": 1,
-                "modular-terminals": 1,
-                "specialsed-legacy-firmware": 2
+                "modular-terminals": 1
             },
             "effects": {
                 "optimal-multiplier": {

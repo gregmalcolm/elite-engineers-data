@@ -39,8 +39,7 @@
                 "nickel": 2,
                 "modified-consumer-firmware": 2,
                 "electrochemical-arrays": 1,
-                "insulating-membrane": 1,
-                "insulatnig-membrane": 1
+                "insulating-membrane": 1
             },
             "effects": {
                 "maximum-range": {

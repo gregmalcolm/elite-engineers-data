@@ -81,8 +81,7 @@
                 "chromium": 3,
                 "conductive-ceramics": 2,
                 "polymer-capacitors": 1,
-                "platinum": 1,
-                "polmer-capacitors": 1
+                "platinum": 1
             },
             "effects": {
                 "maximum-range": {
