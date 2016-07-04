@@ -9,8 +9,7 @@ http://github.com/gregmalcolm/elite-engineers
 Installation
 ------------
 
-npm install elite-engineers-data https://github.com/gregmalcolm/elite-engineeers-data.git --save-dev
-
+npm install git+https://github.com/gregmalcolm/elite-engineers-data.git --save-dev
 
 NPM Debugging
 -------------
