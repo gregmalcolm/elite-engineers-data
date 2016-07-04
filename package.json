@@ -1,0 +1,24 @@
+{
+  "name": "elite-engineers-data",
+  "version": "1.0.0",
+  "description": "Elite Engineers json store",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/gregmalcolm/elite-engineers-data.git"
+  },
+  "keywords": [
+    "elite",
+    "dangerous",
+    "engineers"
+  ],
+  "author": "Greg Malcolm",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gregmalcolm/elite-engineers-data/issues"
+  },
+  "homepage": "https://github.com/gregmalcolm/elite-engineers-data#readme"
+}
