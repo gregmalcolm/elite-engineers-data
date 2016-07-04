@@ -421,6 +421,39 @@ function objComponent () {
   this.shipType = null;
 }
 
+// Module ship DB item
+
+function objEquipmentShip () {
+  this.blueprints = [];
+}
+
+// Ships modules match
+var shipModsMatch = {
+    "FSD"                 : "frame_shift_drive",
+    "Thrusters"           : "thrusters",
+    "Booster (Shield)"    : "shield_booster",
+    "Power Plant"         : "power_plant",
+    "Interdictor"         : null,
+    "Cell Banks"          : "shield_cell_bank",
+    "Shield Generator"    : "shield_generator",
+    "Hull Reinforcement"  : "hull_reinforcement_package",
+    "Mine Launcher"       : "mine_launcher",
+    "Seeker Missile Rack" : "missile_rack",
+    "Armour"              : null,
+    "Torpedo Pylon"       : "torpedo_pylon",
+    "Cannon"              : "cannon",
+    "Frag Cannon"         : "fragment_cannon",
+    "Multi-Cannon"        : "multi_cannon",
+    "Rail Gun"            : "rail_gun",
+    "Distributor"         : "power_distributor",
+    "Pulse Laser"         : "pulse_laser",
+    "Burst Laser"         : "burst_laser",
+    "Beam Laser"          : "beam_laser",
+    "Lightweight Alloy"   : null,
+    "Plasma Accelerators" : "plasma_accelerator",
+    "Interdictor (FSD)"   : "frame_shift_drive_interdictor"
+};
+
 /**
  * Convert rarity name to an integer
  *
@@ -454,6 +487,7 @@ function improveJsonEngineers(rowsData, rowsDataInfos, rowsComponents) {
     engineers:  {},
     blueprints: {},
     components:  {},
+    shipsEquipment: {},
     errors: []
   };
 
@@ -532,6 +566,20 @@ function improveJsonEngineers(rowsData, rowsDataInfos, rowsComponents) {
     if(objE.blueprints.indexOf(idBlu) == -1) {
       objE.blueprints.push(idBlu);
     }
+
+    //-- Add blueprint to ships modules list
+    var moduleId = (shipModsMatch[row.module] != undefined) ? shipModsMatch[row.module] : false;
+    if(moduleId != false) {
+      if(fullStruct.shipsEquipment[moduleId] == undefined) {
+         fullStruct.shipsEquipment[moduleId] = new objEquipmentShip();
+      }
+      if(fullStruct.shipsEquipment[moduleId].blueprints.indexOf(idBlu) == -1) {
+        fullStruct.shipsEquipment[moduleId].blueprints.push(idBlu);
+      }
+
+
+    }
+
 
     //-- Conponent
     //-- Attach components to blueprints
@@ -636,8 +684,16 @@ function saveTo (json) {
   var filename = 'engineers-fullpack.min.json';
   setFile(filename,json,folder,true);
 
+
+  // Save 3 separate file for each main part
+  displayLinkText_('Work in progress... Step1: Engineer/Blueprint/Components packages');
+  setFile('db-engineers.json',json.engineers,folder);
+  setFile('db-blueprints.json',json.blueprints,folder);
+  setFile('db-components.json',json.components,folder);
+  setFile('db-ship-equipments.json',json.shipsEquipment ,folder);
+
   // Save engineers into separate files
-  displayLinkText_('Work in progress... Step1: Engineers');
+  displayLinkText_('Work in progress... Step2: Engineers');
   var folderEng = getFolder("engineers",folder);
 
   for(var idEng in json.engineers) {
@@ -648,7 +704,7 @@ function saveTo (json) {
   }
 
   // Save blueprints into separate files
-  displayLinkText_('Work in progress... Step2: Blueprints');
+  displayLinkText_('Work in progress... Step3: Blueprints');
   var folderBlueprint = getFolder("blueprints",folder);
 
   for(var idBlp in json.blueprints) {
@@ -659,7 +715,7 @@ function saveTo (json) {
   }
 
   // Save components into separate files
-  displayLinkText_('Work in progress... Step3: Components');
+  displayLinkText_('Work in progress... Step4: Components');
   var folderComponents = getFolder("components",folder);
 
   for(var idBlp in json.components) {
@@ -669,11 +725,6 @@ function saveTo (json) {
 
   }
 
-  // Save also 3 separate file for each main part
-  displayLinkText_('Work in progress... Step4: Engineer/Blueprint/Components packages');
-  setFile('db-engineers.json',json.engineers,folder);
-  setFile('db-blueprints.json',json.blueprints,folder);
-  setFile('db-components.json',json.components,folder);
 
 
 

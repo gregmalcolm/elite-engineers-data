@@ -1,0 +1,168 @@
+{
+    "frame_shift_drive": {
+        "blueprints": [
+            "fsd-faster-fsd-boot-sequence",
+            "fsd-increased-fsd-range",
+            "fsd-shielded-fsd"
+        ]
+    },
+    "thrusters": {
+        "blueprints": [
+            "thrusters-dirty-drive-tuning",
+            "thrusters-drive-strengthening",
+            "thrusters-clean-drive-tuning"
+        ]
+    },
+    "shield_booster": {
+        "blueprints": [
+            "booster-shield-blast-resistant-shield-booster",
+            "booster-shield-heavy-duty-shield-booster",
+            "booster-shield-kinetic-resistant-shield-booster",
+            "booster-shield-resistance-augmented-shield-booster",
+            "booster-shield-thermal-resistant-shield-booster"
+        ]
+    },
+    "power_plant": {
+        "blueprints": [
+            "power-plant-armoured-power-plant",
+            "power-plant-overcharged-power-plant",
+            "power-plant-low-emissions-power-plant"
+        ]
+    },
+    "shield_cell_bank": {
+        "blueprints": [
+            "cell-banks-rapid-charge-shield-cell-bank",
+            "cell-banks-specialised-shield-cell-bank"
+        ]
+    },
+    "shield_generator": {
+        "blueprints": [
+            "shield-generator-kinetic-resistant-shields",
+            "shield-generator-enhanced-low-power-shields",
+            "shield-generator-reinforced-shields",
+            "shield-generator-thermal-resistant-shields"
+        ]
+    },
+    "hull_reinforcement_package": {
+        "blueprints": [
+            "hull-reinforcement-light-weight-hull-reinforcement",
+            "hull-reinforcement-blast-resistant-hull-reinforcement",
+            "hull-reinforcement-heavy-duty-hull-reinforcement",
+            "hull-reinforcement-kinetic-resistant-hull-reinforcement",
+            "hull-reinforcement-thermal-resistant-hull-reinforcement",
+            "hull-reinforcement-lightweight-hull-reinforcement"
+        ]
+    },
+    "mine_launcher": {
+        "blueprints": [
+            "mine-launcher-high-capacity-magazine",
+            "mine-launcher-rapid-fire-modification",
+            "mine-launcher-light-weight-mount",
+            "mine-launcher-sturdy-mount"
+        ]
+    },
+    "missile_rack": {
+        "blueprints": [
+            "seeker-missile-rack-high-capacity-magazine",
+            "seeker-missile-rack-rapid-fire-modification",
+            "seeker-missile-rack-light-weight-mount",
+            "seeker-missile-rack-sturdy-mount"
+        ]
+    },
+    "torpedo_pylon": {
+        "blueprints": [
+            "torpedo-pylon-light-weight-mount",
+            "torpedo-pylon-sturdy-mount"
+        ]
+    },
+    "cannon": {
+        "blueprints": [
+            "cannon-efficient-weapon",
+            "cannon-high-capacity-magazine",
+            "cannon-long-range-weapon",
+            "cannon-short-range-blaster",
+            "cannon-overcharged-weapon"
+        ]
+    },
+    "fragment_cannon": {
+        "blueprints": [
+            "frag-cannon-double-shot",
+            "frag-cannon-efficient-weapon",
+            "frag-cannon-high-capacity-magazine",
+            "frag-cannon-light-weight-mount",
+            "frag-cannon-overcharged-weapon",
+            "frag-cannon-sturdy-mount"
+        ]
+    },
+    "multi_cannon": {
+        "blueprints": [
+            "multi-cannon-efficient-weapon",
+            "multi-cannon-high-capacity-magazine",
+            "multi-cannon-light-weight-mount",
+            "multi-cannon-overcharged-weapon",
+            "multi-cannon-short-range-blaster",
+            "multi-cannon-sturdy-mount"
+        ]
+    },
+    "rail_gun": {
+        "blueprints": [
+            "rail-gun-high-capacity-magazine",
+            "rail-gun-light-weight-mount",
+            "rail-gun-long-range-weapon",
+            "rail-gun-short-range-blaster",
+            "rail-gun-sturdy-mount"
+        ]
+    },
+    "power_distributor": {
+        "blueprints": [
+            "distributor-high-charge-capacity-power-distributor",
+            "distributor-charge-enhanced-power-distributor",
+            "distributor-engine-focused-power-distributor",
+            "distributor-system-focused-power-distributor",
+            "distributor-weapon-focused-power-distributor",
+            "distributor-shielded-power-distributor"
+        ]
+    },
+    "pulse_laser": {
+        "blueprints": [
+            "pulse-laser-efficient-weapon",
+            "pulse-laser-focused-weapon",
+            "pulse-laser-light-weight-mount",
+            "pulse-laser-sturdy-mount",
+            "pulse-laser-overcharged-weapon"
+        ]
+    },
+    "burst_laser": {
+        "blueprints": [
+            "burst-laser-efficient-weapon",
+            "burst-laser-light-weight-mount",
+            "burst-laser-sturdy-mount",
+            "burst-laser-short-range-blaster",
+            "burst-laser-long-range-weapon",
+            "burst-laser-overcharged-weapon"
+        ]
+    },
+    "beam_laser": {
+        "blueprints": [
+            "beam-laser-light-weight-mount",
+            "beam-laser-long-range-weapon",
+            "beam-laser-short-range-blaster",
+            "beam-laser-sturdy-mount"
+        ]
+    },
+    "plasma_accelerator": {
+        "blueprints": [
+            "plasma-accelerators-efficient-weapon",
+            "plasma-accelerators-focused-weapon",
+            "plasma-accelerators-light-weight-mount",
+            "plasma-accelerators-overcharged-weapon",
+            "plasma-accelerators-rapid-fire-modification",
+            "plasma-accelerators-sturdy-mount"
+        ]
+    },
+    "frame_shift_drive_interdictor": {
+        "blueprints": [
+            "interdictor-fsd-interdictor-fsd"
+        ]
+    }
+}
