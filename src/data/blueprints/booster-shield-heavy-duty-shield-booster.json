@@ -1,0 +1,174 @@
+{
+    "name": "Heavy Duty Shield Booster",
+    "module": "Booster (Shield)",
+    "recipes": {
+        "1": {
+            "components": {
+                "Grid Resistors": 1,
+                "Germanium": 2
+            },
+            "effects": {
+                "shield-boost": {
+                    "name": "Shield Boost",
+                    "isPercent": true,
+                    "min": 0,
+                    "max": 56
+                },
+                "mass": {
+                    "name": "Mass",
+                    "isPercent": true,
+                    "min": 100,
+                    "max": 50
+                },
+                "integrity": {
+                    "name": "Integrity",
+                    "isPercent": true,
+                    "min": 0,
+                    "max": 2
+                },
+                "power-draw": {
+                    "name": "Power Draw",
+                    "isPercent": true,
+                    "min": 4,
+                    "max": 0
+                }
+            }
+        },
+        "2": {
+            "components": {
+                "Distorted Shield Cycle Recordings": 1,
+                "Hybrid Capacitors": 2,
+                "Niobium": 2,
+                "CMM Composite": 1
+            },
+            "effects": {
+                "shield-boost": {
+                    "name": "Shield Boost",
+                    "isPercent": true,
+                    "min": 46,
+                    "max": 112
+                },
+                "mass": {
+                    "name": "Mass",
+                    "isPercent": true,
+                    "min": 150,
+                    "max": 100
+                },
+                "integrity": {
+                    "name": "Integrity",
+                    "isPercent": true,
+                    "min": 2,
+                    "max": 5
+                },
+                "power-draw": {
+                    "name": "Power Draw",
+                    "isPercent": true,
+                    "min": 10,
+                    "max": 4
+                }
+            }
+        },
+        "3": {
+            "components": {
+                "Distorted Shield Cycle Recordings": 1,
+                "Hybrid Capacitors": 3,
+                "Niobium": 3,
+                "Magnetic Emitter Coil": 1
+            },
+            "effects": {
+                "shield-boost": {
+                    "name": "Shield Boost",
+                    "isPercent": true,
+                    "min": 93,
+                    "max": 168
+                },
+                "mass": {
+                    "name": "Mass",
+                    "isPercent": true,
+                    "min": 200,
+                    "max": 150
+                },
+                "integrity": {
+                    "name": "Integrity",
+                    "isPercent": true,
+                    "min": 5,
+                    "max": 9
+                },
+                "power-draw": {
+                    "name": "Power Draw",
+                    "isPercent": true,
+                    "min": 14,
+                    "max": 10
+                }
+            }
+        },
+        "4": {
+            "components": {
+                "Inconsistent Shield Soak Analysis": 1,
+                "Electrochemical Arrays": 3,
+                "Tin": 2,
+                "Emergency Power Cells": 1
+            },
+            "effects": {
+                "shield-boost": {
+                    "name": "Shield Boost",
+                    "isPercent": true,
+                    "min": 140,
+                    "max": 225
+                },
+                "mass": {
+                    "name": "Mass",
+                    "isPercent": true,
+                    "min": 250,
+                    "max": 200
+                },
+                "integrity": {
+                    "name": "Integrity",
+                    "isPercent": true,
+                    "min": 9,
+                    "max": 11
+                },
+                "power-draw": {
+                    "name": "Power Draw",
+                    "isPercent": true,
+                    "min": 20,
+                    "max": 14
+                }
+            }
+        },
+        "5": {
+            "components": {
+                "Untypical Shield Scans": 1,
+                "Polymer Capacitors": 2,
+                "Antimony": 2,
+                "Emergency Power Cells": 1
+            },
+            "effects": {
+                "shield-boost": {
+                    "name": "Shield Boost",
+                    "isPercent": true,
+                    "min": 187,
+                    "max": 279
+                },
+                "mass": {
+                    "name": "Mass",
+                    "isPercent": true,
+                    "min": 300,
+                    "max": 250
+                },
+                "integrity": {
+                    "name": "Integrity",
+                    "isPercent": true,
+                    "min": 11,
+                    "max": 14
+                },
+                "power-draw": {
+                    "name": "Power Draw",
+                    "isPercent": true,
+                    "min": 25,
+                    "max": 20
+                }
+            }
+        }
+    }
+}

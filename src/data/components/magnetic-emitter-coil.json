@@ -1,0 +1,8 @@
+{
+    "name": "Magnetic Emitter Coil",
+    "type": "Com",
+    "subtype": "Commodity",
+    "rarity": "Std",
+    "location": [],
+    "missionReward": true
+}

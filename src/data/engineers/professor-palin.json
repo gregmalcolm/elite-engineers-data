@@ -1,0 +1,25 @@
+{
+    "name": "Professor Palin",
+    "location": {
+        "system": "Maia",
+        "planet": "A 3"
+    },
+    "allegiance": "Independent",
+    "specialization": "Exploration",
+    "welcomeGift": "25x Unknown Fragments",
+    "requirements": "Havinge travelled 5000ly from your start system / Invitation from Qwent",
+    "modules": {
+        "Cargo Rack": 2,
+        "FSD": 3,
+        "Thrusters": 5
+    },
+    "blueprints": [
+        "cargo-rack-corrosion-resistant",
+        "fsd-faster-fsd-boot-sequence",
+        "fsd-increased-fsd-range",
+        "fsd-shielded-fsd",
+        "thrusters-dirty-drive-tuning",
+        "thrusters-drive-strengthening",
+        "thrusters-clean-drive-tuning"
+    ]
+}

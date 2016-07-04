@@ -1,0 +1,89 @@
+{
+    "name": "Kinetic Resistant Hull Reinforcement",
+    "module": "Hull Reinforcement",
+    "recipes": {
+        "1": {
+            "components": {
+                "Nickel": 2,
+                "Vanadium": 1
+            },
+            "effects": {
+                "kinetic-resistance": {
+                    "name": "Kinetic Resistance",
+                    "isPercent": false,
+                    "min": 5,
+                    "max": 8
+                },
+                "thermal-resistance": {
+                    "name": "Thermal Resistance",
+                    "isPercent": false,
+                    "min": -4,
+                    "max": -2
+                },
+                "explosive-resistance": {
+                    "name": "Explosive Resistance",
+                    "isPercent": false,
+                    "min": -4,
+                    "max": -2
+                }
+            }
+        },
+        "2": {
+            "components": {
+                "Nickel": 2,
+                "Vanadium": 2,
+                "Tungsten": 1,
+                "Micro-Weave Cooling Hoses": 1
+            },
+            "effects": {
+                "kinetic-resistance": {
+                    "name": "Kinetic Resistance",
+                    "isPercent": false,
+                    "min": 10,
+                    "max": 16
+                },
+                "thermal-resistance": {
+                    "name": "Thermal Resistance",
+                    "isPercent": false,
+                    "min": -8,
+                    "max": -4
+                },
+                "explosive-resistance": {
+                    "name": "Explosive Resistance",
+                    "isPercent": false,
+                    "min": -8,
+                    "max": -4
+                }
+            }
+        },
+        "3": {
+            "components": {
+                "Nickel": 1,
+                "Vanadium": 1,
+                "High Density Composites": 2,
+                "Molybdenum": 1,
+                "CMM Composite": 1
+            },
+            "effects": {
+                "kinetic-resistance": {
+                    "name": "Kinetic Resistance",
+                    "isPercent": false,
+                    "min": 15,
+                    "max": 24
+                },
+                "thermal-resistance": {
+                    "name": "Thermal Resistance",
+                    "isPercent": false,
+                    "min": -12,
+                    "max": -6
+                },
+                "explosive-resistance": {
+                    "name": "Explosive Resistance",
+                    "isPercent": false,
+                    "min": -12,
+                    "max": -6
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Grid Resistors",
+    "type": "Man",
+    "subtype": "Capacitor",
+    "rarity": "VCom",
+    "location": [],
+    "missionReward": true
+}

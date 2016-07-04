@@ -1,0 +1,113 @@
+{
+    "name": "Kinetic Resistant Shields",
+    "module": "Shield Generator",
+    "recipes": {
+        "1": {
+            "components": {
+                "Distorted Shield Cycle Recordings": 2,
+                "Modified Consumer Firmware": 1
+            },
+            "effects": {
+                "kinetic-resistance": {
+                    "name": "Kinetic Resistance",
+                    "isPercent": false,
+                    "min": 1,
+                    "max": 6
+                },
+                "thermal-resistance": {
+                    "name": "Thermal Resistance",
+                    "isPercent": false,
+                    "min": -6,
+                    "max": 0
+                }
+            }
+        },
+        "2": {
+            "components": {
+                "Distorted Shield Cycle Recordings": 2,
+                "Modified Consumer Firmware": 2,
+                "Zirconium": 1,
+                "Micro-Weave Cooling Hoses": 1
+            },
+            "effects": {
+                "kinetic-resistance": {
+                    "name": "Kinetic Resistance",
+                    "isPercent": false,
+                    "min": 2,
+                    "max": 12
+                },
+                "thermal-resistance": {
+                    "name": "Thermal Resistance",
+                    "isPercent": false,
+                    "min": -12,
+                    "max": -2
+                }
+            }
+        },
+        "3": {
+            "components": {
+                "Distorted Shield Cycle Recordings": 1,
+                "Modified Consumer Firmware": 1,
+                "Selenium": 2,
+                "Mercury": 1,
+                "Micro-Weave Cooling Hoses": null
+            },
+            "effects": {
+                "kinetic-resistance": {
+                    "name": "Kinetic Resistance",
+                    "isPercent": false,
+                    "min": 4,
+                    "max": 18
+                },
+                "thermal-resistance": {
+                    "name": "Thermal Resistance",
+                    "isPercent": false,
+                    "min": -18,
+                    "max": -5
+                }
+            }
+        },
+        "4": {
+            "components": {
+                "Untypical Shield Scans": 2,
+                "Refined Focus Crystals": 2,
+                "Ion Distributor": 1
+            },
+            "effects": {
+                "kinetic-resistance": {
+                    "name": "Kinetic Resistance",
+                    "isPercent": false,
+                    "min": 4,
+                    "max": 24
+                },
+                "thermal-resistance": {
+                    "name": "Thermal Resistance",
+                    "isPercent": false,
+                    "min": -24,
+                    "max": -7
+                }
+            }
+        },
+        "5": {
+            "components": {
+                "Aberrant Shield Pattern Analysis": 2,
+                "Exquisite Focus Crystals": 1,
+                "Ion Distributor": 1
+            },
+            "effects": {
+                "kinetic-resistance": {
+                    "name": "Kinetic Resistance",
+                    "isPercent": false,
+                    "min": 6,
+                    "max": 30
+                },
+                "thermal-resistance": {
+                    "name": "Thermal Resistance",
+                    "isPercent": false,
+                    "min": -30,
+                    "max": -10
+                }
+            }
+        }
+    }
+}

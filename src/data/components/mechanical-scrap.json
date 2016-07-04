@@ -1,0 +1,8 @@
+{
+    "name": "Mechanical Scrap",
+    "type": "Man",
+    "subtype": "Mechanical Component",
+    "rarity": "VCom",
+    "location": [],
+    "missionReward": true
+}

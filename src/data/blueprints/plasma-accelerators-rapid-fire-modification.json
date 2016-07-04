@@ -1,0 +1,84 @@
+{
+    "name": "Rapid Fire Modification",
+    "module": "Plasma Accelerators",
+    "recipes": {
+        "1": {
+            "components": {
+                "Mechanical Scrap": 2,
+                "Heat Dispersion Plate": 2
+            },
+            "effects": {
+                "damage-per-second": {
+                    "name": "Damage Per Second",
+                    "isPercent": true,
+                    "min": -22,
+                    "max": 5
+                },
+                "rate-of-fire": {
+                    "name": "Rate Of Fire",
+                    "isPercent": true,
+                    "min": 5,
+                    "max": 25
+                },
+                "damage": {
+                    "name": "Damage",
+                    "isPercent": true,
+                    "min": -26,
+                    "max": -16
+                },
+                "jitter": {
+                    "name": "Jitter",
+                    "isPercent": false,
+                    "min": 2,
+                    "max": 1
+                },
+                "distributor-draw": {
+                    "name": "Distributor Draw",
+                    "isPercent": true,
+                    "min": 0,
+                    "max": 0
+                }
+            }
+        },
+        "2": {
+            "components": {
+                "Mechanical Scrap": 3,
+                "Heat Dispersion Plate": 2,
+                "Tungsten": 1,
+                "HN Shock Mount": 1
+            },
+            "effects": {
+                "damage-per-second": {
+                    "name": "Damage Per Second",
+                    "isPercent": true,
+                    "min": -12,
+                    "max": 17
+                },
+                "rate-of-fire": {
+                    "name": "Rate Of Fire",
+                    "isPercent": true,
+                    "min": 11,
+                    "max": 34
+                },
+                "damage": {
+                    "name": "Damage",
+                    "isPercent": true,
+                    "min": -20,
+                    "max": -13
+                },
+                "jitter": {
+                    "name": "Jitter",
+                    "isPercent": false,
+                    "min": 2,
+                    "max": 1
+                },
+                "distributor-draw": {
+                    "name": "Distributor Draw",
+                    "isPercent": true,
+                    "min": 0,
+                    "max": -20
+                }
+            }
+        }
+    }
+}

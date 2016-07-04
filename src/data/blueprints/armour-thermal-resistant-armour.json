@@ -1,0 +1,32 @@
+{
+    "name": "Thermal Resistant Armour",
+    "module": "Armour",
+    "recipes": {
+        "1": {
+            "components": {
+                "Heat Conduction Wiring": 2,
+                "Vanadium": 1
+            },
+            "effects": {
+                "thermal-resistance": {
+                    "name": "Thermal Resistance",
+                    "isPercent": false,
+                    "min": 5,
+                    "max": 8
+                },
+                "explosive-resistance": {
+                    "name": "Explosive Resistance",
+                    "isPercent": false,
+                    "min": -6,
+                    "max": -3
+                },
+                "kinetic-resistance": {
+                    "name": "Kinetic Resistance",
+                    "isPercent": false,
+                    "min": 5,
+                    "max": 2
+                }
+            }
+        }
+    }
+}

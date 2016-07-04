@@ -1,0 +1,8 @@
+{
+    "name": "Modified Consumer Firmware",
+    "type": "Data",
+    "subtype": "Firmware",
+    "rarity": "Com",
+    "location": [],
+    "missionReward": true
+}

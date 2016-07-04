@@ -1,0 +1,8 @@
+{
+    "name": "Heat Vanes",
+    "type": "Man",
+    "subtype": "Heat Exchanger",
+    "rarity": "Rare",
+    "location": [],
+    "missionReward": true
+}

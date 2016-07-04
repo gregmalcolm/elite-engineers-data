@@ -1,0 +1,32 @@
+{
+    "name": "Expanded FSD Interdictor Capture Arc",
+    "module": "Interdictor",
+    "recipes": {
+        "1": {
+            "components": {
+                "Mechanical Scrap": 2,
+                "Anomalous FSD Telemetry": 1
+            },
+            "effects": {
+                "facing-limit": {
+                    "name": "Facing Limit",
+                    "isPercent": true,
+                    "min": 0,
+                    "max": 20
+                },
+                "power-draw": {
+                    "name": "Power Draw",
+                    "isPercent": true,
+                    "min": 14,
+                    "max": 0
+                },
+                "range": {
+                    "name": "Range",
+                    "isPercent": true,
+                    "min": 11,
+                    "max": 0
+                }
+            }
+        }
+    }
+}

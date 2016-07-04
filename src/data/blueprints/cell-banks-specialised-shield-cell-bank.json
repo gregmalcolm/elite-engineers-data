@@ -1,0 +1,39 @@
+{
+    "name": "Specialised Shield Cell Bank",
+    "module": "Cell Banks",
+    "recipes": {
+        "1": {
+            "components": {
+                "Specialised Legacy Firmware": 2,
+                "Conductive Components": 1,
+                "Arsenic": 1
+            },
+            "effects": {
+                "boot-time": {
+                    "name": "Boot Time",
+                    "isPercent": true,
+                    "min": 0,
+                    "max": -9
+                },
+                "thermal-load": {
+                    "name": "Thermal Load",
+                    "isPercent": true,
+                    "min": -6,
+                    "max": 0
+                },
+                "power-draw": {
+                    "name": "Power Draw",
+                    "isPercent": true,
+                    "min": 10,
+                    "max": 0
+                },
+                "integrity": {
+                    "name": "Integrity",
+                    "isPercent": true,
+                    "min": -10,
+                    "max": 0
+                }
+            }
+        }
+    }
+}

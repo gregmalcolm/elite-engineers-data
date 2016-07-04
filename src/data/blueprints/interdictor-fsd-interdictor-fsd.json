@@ -1,0 +1,139 @@
+{
+    "name": "Interdictor (FSD)",
+    "module": "Interdictor (FSD)",
+    "recipes": {
+        "1": {
+            "components": {
+                "Mechanical Scrap": 2,
+                "Anomalous FSD Telemetry": 1,
+                "Iron": 2,
+                "Tagged Encryption Codes": 1
+            },
+            "effects": {
+                "facing-limit": {
+                    "name": "Facing Limit",
+                    "isPercent": true,
+                    "min": -11,
+                    "max": 0
+                },
+                "power-draw": {
+                    "name": "Power Draw",
+                    "isPercent": true,
+                    "min": 14,
+                    "max": 0
+                },
+                "range": {
+                    "name": "Range",
+                    "isPercent": true,
+                    "min": 0,
+                    "max": 10
+                },
+                "mass": {
+                    "name": "Mass",
+                    "isPercent": true,
+                    "min": 10,
+                    "max": 0
+                }
+            }
+        },
+        "2": {
+            "components": {
+                "Grid Resistors": 2,
+                "Mechanical Equipment": 2,
+                "Strange Wake Solutions": 1,
+                "Anomalous FSD Telemetry": 2,
+                "Open Symmetric Keys": 1
+            },
+            "effects": {
+                "facing-limit": {
+                    "name": "Facing Limit",
+                    "isPercent": true,
+                    "min": -21,
+                    "max": -6
+                },
+                "power-draw": {
+                    "name": "Power Draw",
+                    "isPercent": true,
+                    "min": 31,
+                    "max": 10
+                },
+                "range": {
+                    "name": "Range",
+                    "isPercent": true,
+                    "min": 4,
+                    "max": 20
+                },
+                "mass": {
+                    "name": "Mass",
+                    "isPercent": true,
+                    "min": 20,
+                    "max": 5
+                }
+            }
+        },
+        "3": {
+            "components": {
+                "Grid Resistors": 1,
+                "Hybrid Capacitors": 1,
+                "Mechanical Components": 2,
+                "Eccentric Hyperspace Trajectories": 1,
+                "Iron": 1,
+                "Strange Wake Solutions": 2,
+                "Atypical Encryption Archives": 1,
+                "Nanobreakers": 1
+            },
+            "effects": {
+                "facing-limit": {
+                    "name": "Facing Limit",
+                    "isPercent": true,
+                    "min": -31,
+                    "max": -11
+                },
+                "power-draw": {
+                    "name": "Power Draw",
+                    "isPercent": true,
+                    "min": 45,
+                    "max": 20
+                },
+                "range": {
+                    "name": "Range",
+                    "isPercent": true,
+                    "min": 10,
+                    "max": 29
+                },
+                "mass": {
+                    "name": "Mass",
+                    "isPercent": true,
+                    "min": 31,
+                    "max": 10
+                }
+            }
+        },
+        "4": {
+            "components": {
+                "Mechanical Components": 2,
+                "Eccentric Hyperspace Trajectories": 2
+            },
+            "effects": {
+                "facing-limit": {
+                    "name": "Facing Limit",
+                    "isPercent": true,
+                    "min": 29,
+                    "max": 79
+                },
+                "power-draw": {
+                    "name": "Power Draw",
+                    "isPercent": true,
+                    "min": 61,
+                    "max": 31
+                },
+                "range": {
+                    "name": "Range",
+                    "isPercent": true,
+                    "min": -40,
+                    "max": -15
+                }
+            }
+        }
+    }
+}

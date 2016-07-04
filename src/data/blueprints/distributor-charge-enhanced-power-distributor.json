@@ -1,0 +1,236 @@
+{
+    "name": "Charge Enhanced Power Distributor",
+    "module": "Distributor",
+    "recipes": {
+        "1": {
+            "components": {
+                "Specialised Legacy Firmware": 2,
+                "Chemical Processors": 2
+            },
+            "effects": {
+                "weapons-recharge": {
+                    "name": "Weapons Recharge",
+                    "isPercent": true,
+                    "min": 0,
+                    "max": 5
+                },
+                "engines-recharge": {
+                    "name": "Engines Recharge",
+                    "isPercent": true,
+                    "min": 0,
+                    "max": 5
+                },
+                "systems-recharge": {
+                    "name": "Systems Recharge",
+                    "isPercent": true,
+                    "min": 0,
+                    "max": 5
+                },
+                "weapons-capacity": {
+                    "name": "Weapons Capacity",
+                    "isPercent": true,
+                    "min": -3,
+                    "max": 0
+                },
+                "engines-capacity": {
+                    "name": "Engines Capacity",
+                    "isPercent": true,
+                    "min": -3,
+                    "max": 0
+                },
+                "systems-capacity": {
+                    "name": "Systems Capacity",
+                    "isPercent": true,
+                    "min": -3,
+                    "max": 0
+                }
+            }
+        },
+        "2": {
+            "components": {
+                "Specialised Legacy Firmware": 2,
+                "Chemical Processors": 2,
+                "Focus Crystals": 1,
+                "Nanobreakers": 1
+            },
+            "effects": {
+                "weapons-recharge": {
+                    "name": "Weapons Recharge",
+                    "isPercent": true,
+                    "min": 3,
+                    "max": 12
+                },
+                "engines-recharge": {
+                    "name": "Engines Recharge",
+                    "isPercent": true,
+                    "min": 3,
+                    "max": 12
+                },
+                "systems-recharge": {
+                    "name": "Systems Recharge",
+                    "isPercent": true,
+                    "min": 3,
+                    "max": 12
+                },
+                "weapons-capacity": {
+                    "name": "Weapons Capacity",
+                    "isPercent": true,
+                    "min": -6,
+                    "max": -1
+                },
+                "engines-capacity": {
+                    "name": "Engines Capacity",
+                    "isPercent": true,
+                    "min": -6,
+                    "max": -1
+                },
+                "systems-capacity": {
+                    "name": "Systems Capacity",
+                    "isPercent": true,
+                    "min": -6,
+                    "max": -1
+                }
+            }
+        },
+        "3": {
+            "components": {
+                "Grid Resistors": 1,
+                "Modified Consumer Firmware": 2,
+                "Chemical Distillery": 2,
+                "Refined Focus Crystals": 1,
+                "Praseodymium": 1
+            },
+            "effects": {
+                "weapons-recharge": {
+                    "name": "Weapons Recharge",
+                    "isPercent": true,
+                    "min": 8,
+                    "max": 18
+                },
+                "engines-recharge": {
+                    "name": "Engines Recharge",
+                    "isPercent": true,
+                    "min": 8,
+                    "max": 18
+                },
+                "systems-recharge": {
+                    "name": "Systems Recharge",
+                    "isPercent": true,
+                    "min": 8,
+                    "max": 18
+                },
+                "weapons-capacity": {
+                    "name": "Weapons Capacity",
+                    "isPercent": true,
+                    "min": -9,
+                    "max": -2
+                },
+                "engines-capacity": {
+                    "name": "Engines Capacity",
+                    "isPercent": true,
+                    "min": -9,
+                    "max": -2
+                },
+                "systems-capacity": {
+                    "name": "Systems Capacity",
+                    "isPercent": true,
+                    "min": -9,
+                    "max": -2
+                }
+            }
+        },
+        "4": {
+            "components": {
+                "Hybrid Capacitors": 1,
+                "Cracked Industrial Firmware": 2,
+                "Chemical Manipulators": 2,
+                "Exquisite Focus Crystals": 1,
+                "Ion Distributor": 1
+            },
+            "effects": {
+                "weapons-recharge": {
+                    "name": "Weapons Recharge",
+                    "isPercent": true,
+                    "min": 12,
+                    "max": 23
+                },
+                "engines-recharge": {
+                    "name": "Engines Recharge",
+                    "isPercent": true,
+                    "min": 12,
+                    "max": 23
+                },
+                "systems-recharge": {
+                    "name": "Systems Recharge",
+                    "isPercent": true,
+                    "min": 12,
+                    "max": 23
+                },
+                "weapons-capacity": {
+                    "name": "Weapons Capacity",
+                    "isPercent": true,
+                    "min": -12,
+                    "max": -3
+                },
+                "engines-capacity": {
+                    "name": "Engines Capacity",
+                    "isPercent": true,
+                    "min": -12,
+                    "max": -3
+                },
+                "systems-capacity": {
+                    "name": "Systems Capacity",
+                    "isPercent": true,
+                    "min": -12,
+                    "max": -3
+                }
+            }
+        },
+        "5": {
+            "components": {
+                "Cracked Industrial Firmware": 3,
+                "Chemical Manipulators": 2,
+                "Exquisite Focus Crystals": 2,
+                "Ion Distributor": 1
+            },
+            "effects": {
+                "weapons-recharge": {
+                    "name": "Weapons Recharge",
+                    "isPercent": true,
+                    "min": 17,
+                    "max": 29
+                },
+                "engines-recharge": {
+                    "name": "Engines Recharge",
+                    "isPercent": true,
+                    "min": 17,
+                    "max": 29
+                },
+                "systems-recharge": {
+                    "name": "Systems Recharge",
+                    "isPercent": true,
+                    "min": 17,
+                    "max": 29
+                },
+                "weapons-capacity": {
+                    "name": "Weapons Capacity",
+                    "isPercent": true,
+                    "min": -15,
+                    "max": -4
+                },
+                "engines-capacity": {
+                    "name": "Engines Capacity",
+                    "isPercent": true,
+                    "min": -15,
+                    "max": -4
+                },
+                "systems-capacity": {
+                    "name": "Systems Capacity",
+                    "isPercent": true,
+                    "min": -15,
+                    "max": -4
+                }
+            }
+        }
+    }
+}

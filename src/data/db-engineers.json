@@ -1,0 +1,467 @@
+{
+    "felicity-farseer": {
+        "name": "Felicity Farseer",
+        "location": {
+            "system": "Deciat",
+            "planet": "6 A",
+            "base": "Farseer Inc."
+        },
+        "allegiance": "Federation",
+        "specialization": "Exploration",
+        "welcomeGift": "1x Metal Alloy",
+        "requirements": "Scout Explorer rank",
+        "modules": {
+            "FSD": 5,
+            "Thrusters": 3,
+            "Booster (Shield)": 1,
+            "Power Plant": 1,
+            "Interdictor": 1
+        },
+        "blueprints": [
+            "fsd-faster-fsd-boot-sequence",
+            "fsd-increased-fsd-range",
+            "fsd-shielded-fsd",
+            "thrusters-dirty-drive-tuning",
+            "thrusters-drive-strengthening",
+            "thrusters-clean-drive-tuning",
+            "booster-shield-blast-resistant-shield-booster",
+            "booster-shield-heavy-duty-shield-booster",
+            "booster-shield-kinetic-resistant-shield-booster",
+            "booster-shield-resistance-augmented-shield-booster",
+            "booster-shield-thermal-resistant-shield-booster",
+            "power-plant-armoured-power-plant",
+            "power-plant-overcharged-power-plant",
+            "power-plant-low-emissions-power-plant",
+            "interdictor-expanded-fsd-interdictor-capture-arc",
+            "interdictor-longer-range-fsd-interdictor"
+        ]
+    },
+    "elvira-martuuk": {
+        "name": "Elvira Martuuk",
+        "location": {
+            "system": "Khun",
+            "planet": "5",
+            "base": "Long Sight Base"
+        },
+        "allegiance": "Independent",
+        "specialization": "Exploration",
+        "welcomeGift": "3x Soontil Relics",
+        "requirements": "Having travelled 300ly",
+        "modules": {
+            "FSD": 5,
+            "Cell Banks": 1,
+            "Shield Generator": 3,
+            "Thrusters": 2
+        },
+        "blueprints": [
+            "fsd-faster-fsd-boot-sequence",
+            "fsd-increased-fsd-range",
+            "fsd-shielded-fsd",
+            "cell-banks-rapid-charge-shield-cell-bank",
+            "cell-banks-specialised-shield-cell-bank",
+            "shield-generator-kinetic-resistant-shields",
+            "shield-generator-enhanced-low-power-shields",
+            "shield-generator-reinforced-shields",
+            "shield-generator-thermal-resistant-shields",
+            "thrusters-dirty-drive-tuning",
+            "thrusters-drive-strengthening",
+            "thrusters-clean-drive-tuning"
+        ]
+    },
+    "liz-ryder": {
+        "name": "Liz Ryder",
+        "location": {
+            "system": "Euribia",
+            "planet": "Makalu"
+        },
+        "allegiance": "Empire",
+        "specialization": "Weapons",
+        "welcomeGift": "200x Landmines",
+        "requirements": "Cordial reputation rank with Eurybia Blue Mafia",
+        "modules": {
+            "Hull Reinforcement": 1,
+            "Mine Launcher": 3,
+            "Seeker Missile Rack": 4,
+            "Armour": 1,
+            "Torpedo Pylon": 4
+        },
+        "blueprints": [
+            "hull-reinforcement-light-weight-hull-reinforcement",
+            "hull-reinforcement-blast-resistant-hull-reinforcement",
+            "hull-reinforcement-heavy-duty-hull-reinforcement",
+            "hull-reinforcement-kinetic-resistant-hull-reinforcement",
+            "hull-reinforcement-thermal-resistant-hull-reinforcement",
+            "mine-launcher-high-capacity-magazine",
+            "mine-launcher-rapid-fire-modification",
+            "mine-launcher-light-weight-mount",
+            "mine-launcher-sturdy-mount",
+            "seeker-missile-rack-high-capacity-magazine",
+            "seeker-missile-rack-rapid-fire-modification",
+            "seeker-missile-rack-light-weight-mount",
+            "seeker-missile-rack-sturdy-mount",
+            "armour-light-weight-armour",
+            "armour-blast-resistant-armour",
+            "armour-heavy-duty-armour",
+            "armour-kinetic-resistant-armour",
+            "armour-thermal-resistant-armour",
+            "torpedo-pylon-light-weight-mount",
+            "torpedo-pylon-sturdy-mount"
+        ]
+    },
+    "tod-the-blaster-mcquinn": {
+        "name": "Tod 'The Blaster' McQuinn",
+        "location": {
+            "system": "Wolf  397",
+            "planet": "Trus Madi"
+        },
+        "allegiance": "Alliance",
+        "specialization": "Weapons",
+        "welcomeGift": "100,000 Cr in bounty claims",
+        "requirements": "Alliance aligned / 15 bounty vouchers to reveal the contact",
+        "modules": {
+            "Cannon": 2,
+            "Frag Cannon": 3,
+            "Multi-Cannon": 5,
+            "Rail Gun": 2
+        },
+        "blueprints": [
+            "cannon-efficient-weapon",
+            "cannon-high-capacity-magazine",
+            "cannon-long-range-weapon",
+            "cannon-short-range-blaster",
+            "cannon-overcharged-weapon",
+            "frag-cannon-double-shot",
+            "frag-cannon-efficient-weapon",
+            "frag-cannon-high-capacity-magazine",
+            "frag-cannon-light-weight-mount",
+            "frag-cannon-overcharged-weapon",
+            "frag-cannon-sturdy-mount",
+            "multi-cannon-efficient-weapon",
+            "multi-cannon-high-capacity-magazine",
+            "multi-cannon-light-weight-mount",
+            "multi-cannon-overcharged-weapon",
+            "multi-cannon-short-range-blaster",
+            "multi-cannon-sturdy-mount",
+            "rail-gun-high-capacity-magazine",
+            "rail-gun-light-weight-mount",
+            "rail-gun-long-range-weapon",
+            "rail-gun-short-range-blaster",
+            "rail-gun-sturdy-mount"
+        ]
+    },
+    "professor-palin": {
+        "name": "Professor Palin",
+        "location": {
+            "system": "Maia",
+            "planet": "A 3"
+        },
+        "allegiance": "Independent",
+        "specialization": "Exploration",
+        "welcomeGift": "25x Unknown Fragments",
+        "requirements": "Havinge travelled 5000ly from your start system / Invitation from Qwent",
+        "modules": {
+            "Cargo Rack": 2,
+            "FSD": 3,
+            "Thrusters": 5
+        },
+        "blueprints": [
+            "cargo-rack-corrosion-resistant",
+            "fsd-faster-fsd-boot-sequence",
+            "fsd-increased-fsd-range",
+            "fsd-shielded-fsd",
+            "thrusters-dirty-drive-tuning",
+            "thrusters-drive-strengthening",
+            "thrusters-clean-drive-tuning"
+        ]
+    },
+    "the-dweller": {
+        "name": "The Dweller",
+        "location": {
+            "system": "Wyrd",
+            "planet": "A 2"
+        },
+        "allegiance": "Independent",
+        "specialization": "Ship/Weapons",
+        "welcomeGift": "500,000 Cr donation",
+        "requirements": "Have dealt with at least 5 Black Markets",
+        "modules": {
+            "Distributor": 5,
+            "Pulse Laser": 3,
+            "Burst Laser": 2,
+            "Beam Laser": 2
+        },
+        "blueprints": [
+            "distributor-high-charge-capacity-power-distributor",
+            "distributor-charge-enhanced-power-distributor",
+            "distributor-engine-focused-power-distributor",
+            "distributor-system-focused-power-distributor",
+            "distributor-weapon-focused-power-distributor",
+            "distributor-shielded-power-distributor",
+            "pulse-laser-efficient-weapon",
+            "pulse-laser-focused-weapon",
+            "pulse-laser-light-weight-mount",
+            "pulse-laser-sturdy-mount",
+            "pulse-laser-overcharged-weapon",
+            "burst-laser-efficient-weapon",
+            "burst-laser-light-weight-mount",
+            "burst-laser-sturdy-mount",
+            "burst-laser-short-range-blaster",
+            "burst-laser-long-range-weapon",
+            "burst-laser-overcharged-weapon",
+            "beam-laser-light-weight-mount",
+            "beam-laser-long-range-weapon",
+            "beam-laser-short-range-blaster",
+            "beam-laser-sturdy-mount"
+        ]
+    },
+    "marco-qwent": {
+        "name": "Marco Qwent",
+        "location": {
+            "system": "Sirius",
+            "planet": "Lucifer"
+        },
+        "allegiance": "Independent",
+        "specialization": "Ship",
+        "welcomeGift": "25x Modular Terminals",
+        "requirements": "Sirius Corporation Invite / From Elvira Martuuk (Rank 3 ~30%)",
+        "modules": {
+            "Power Plant": 4,
+            "Distributor": 3
+        },
+        "blueprints": [
+            "power-plant-armoured-power-plant",
+            "power-plant-overcharged-power-plant",
+            "power-plant-low-emissions-power-plant",
+            "distributor-high-charge-capacity-power-distributor",
+            "distributor-charge-enhanced-power-distributor",
+            "distributor-engine-focused-power-distributor",
+            "distributor-system-focused-power-distributor",
+            "distributor-weapon-focused-power-distributor",
+            "distributor-shielded-power-distributor"
+        ]
+    },
+    "selene-jean": {
+        "name": "Selene Jean",
+        "location": {
+            "system": "Kuk",
+            "planet": "B 3"
+        },
+        "allegiance": "Alliance",
+        "specialization": "Ship",
+        "welcomeGift": "10x Painite",
+        "requirements": "Mining 500T of ore / From Tod McQuinn (Rank 3)",
+        "modules": {
+            "Lightweight Alloy": 5,
+            "Hull Reinforcement": 5
+        },
+        "blueprints": [
+            "lightweight-alloy-lightweight-armour",
+            "lightweight-alloy-blast-resistant-armour",
+            "lightweight-alloy-heavy-duty-armour",
+            "lightweight-alloy-kinetic-resistant-armour",
+            "lightweight-alloy-thermal-resistant-armour",
+            "hull-reinforcement-lightweight-hull-reinforcement",
+            "hull-reinforcement-light-weight-hull-reinforcement",
+            "hull-reinforcement-blast-resistant-hull-reinforcement",
+            "hull-reinforcement-heavy-duty-hull-reinforcement",
+            "hull-reinforcement-kinetic-resistant-hull-reinforcement",
+            "hull-reinforcement-thermal-resistant-hull-reinforcement"
+        ]
+    },
+    "zacariah-nemo": {
+        "name": "Zacariah Nemo",
+        "location": {
+            "system": "Yoru",
+            "planet": "4"
+        },
+        "allegiance": "Empire",
+        "specialization": "Weapons",
+        "welcomeGift": "25x Xihe Companions",
+        "requirements": "Friend with Party of Yoru / From Elvira (Rank 3 ~30%) / Outsider rank with the Empire",
+        "modules": {
+            "Multi-Cannon": 3,
+            "Frag Cannon": 4,
+            "Plasma Accelerators": 2
+        },
+        "blueprints": [
+            "multi-cannon-efficient-weapon",
+            "multi-cannon-high-capacity-magazine",
+            "multi-cannon-light-weight-mount",
+            "multi-cannon-overcharged-weapon",
+            "multi-cannon-short-range-blaster",
+            "multi-cannon-sturdy-mount",
+            "frag-cannon-double-shot",
+            "frag-cannon-efficient-weapon",
+            "frag-cannon-high-capacity-magazine",
+            "frag-cannon-light-weight-mount",
+            "frag-cannon-overcharged-weapon",
+            "frag-cannon-sturdy-mount",
+            "plasma-accelerators-efficient-weapon",
+            "plasma-accelerators-focused-weapon",
+            "plasma-accelerators-light-weight-mount",
+            "plasma-accelerators-overcharged-weapon",
+            "plasma-accelerators-rapid-fire-modification",
+            "plasma-accelerators-sturdy-mount"
+        ]
+    },
+    "lei-cheung": {
+        "name": "Lei Cheung",
+        "location": {
+            "system": "Laksak",
+            "planet": "1 A"
+        },
+        "allegiance": "Independent",
+        "specialization": "Ship",
+        "welcomeGift": "200x Gold",
+        "requirements": "Have traded with 50 markets / From The Dweller (Rank 3, 30%)",
+        "modules": {
+            "Shield Generator": 5,
+            "Booster (Shield)": 3
+        },
+        "blueprints": [
+            "shield-generator-kinetic-resistant-shields",
+            "shield-generator-enhanced-low-power-shields",
+            "shield-generator-reinforced-shields",
+            "shield-generator-thermal-resistant-shields",
+            "booster-shield-blast-resistant-shield-booster",
+            "booster-shield-heavy-duty-shield-booster",
+            "booster-shield-kinetic-resistant-shield-booster",
+            "booster-shield-resistance-augmented-shield-booster",
+            "booster-shield-thermal-resistant-shield-booster"
+        ]
+    },
+    "didi-vatermann": {
+        "name": "Didi Vatermann",
+        "location": {
+            "system": "Leesti",
+            "planet": "1 A"
+        },
+        "allegiance": "Alliance",
+        "specialization": "Ship",
+        "welcomeGift": "200x Lavian Brandy",
+        "requirements": "Alliance alligned / From Selene Jean (Rank 3) / 'Merchant' trade rank",
+        "modules": {
+            "Shield Generator": 3,
+            "Booster (Shield)": 5
+        },
+        "blueprints": [
+            "shield-generator-kinetic-resistant-shields",
+            "shield-generator-enhanced-low-power-shields",
+            "shield-generator-reinforced-shields",
+            "shield-generator-thermal-resistant-shields",
+            "booster-shield-blast-resistant-shield-booster",
+            "booster-shield-heavy-duty-shield-booster",
+            "booster-shield-kinetic-resistant-shield-booster",
+            "booster-shield-resistance-augmented-shield-booster",
+            "booster-shield-thermal-resistant-shield-booster"
+        ]
+    },
+    "hera-tani": {
+        "name": "Hera Tani",
+        "location": {
+            "system": "Kuwemaki",
+            "planet": "Kuwemaki"
+        },
+        "allegiance": "Empire",
+        "specialization": "Ship",
+        "welcomeGift": "50x Kamitra cigars",
+        "requirements": "Empire alligned / From Liz Ryder (Rank 3) / 'Outsider' or higher with the Empire.",
+        "modules": {
+            "Distributor": 3,
+            "Power Plant": 5
+        },
+        "blueprints": [
+            "distributor-high-charge-capacity-power-distributor",
+            "distributor-charge-enhanced-power-distributor",
+            "distributor-engine-focused-power-distributor",
+            "distributor-system-focused-power-distributor",
+            "distributor-weapon-focused-power-distributor",
+            "distributor-shielded-power-distributor",
+            "power-plant-armoured-power-plant",
+            "power-plant-overcharged-power-plant",
+            "power-plant-low-emissions-power-plant"
+        ]
+    },
+    "juri-ishmaak": {
+        "name": "Juri Ishmaak",
+        "location": {
+            "system": "Giryak",
+            "planet": "2 A"
+        },
+        "allegiance": "Federation",
+        "specialization": "Weapons",
+        "welcomeGift": "1,000,000 Cr in combat bonds",
+        "requirements": "Federation alligned / From Felicity Farseer (Rank 3 ~50%) / Have claimed at least 50 combat bonds",
+        "modules": {
+            "Mine Launcher": 4,
+            "Torpedo Pylon": 3,
+            "Seeker Missile Rack": 4
+        },
+        "blueprints": [
+            "mine-launcher-high-capacity-magazine",
+            "mine-launcher-rapid-fire-modification",
+            "mine-launcher-light-weight-mount",
+            "mine-launcher-sturdy-mount",
+            "torpedo-pylon-light-weight-mount",
+            "torpedo-pylon-sturdy-mount",
+            "seeker-missile-rack-high-capacity-magazine",
+            "seeker-missile-rack-rapid-fire-modification",
+            "seeker-missile-rack-light-weight-mount",
+            "seeker-missile-rack-sturdy-mount"
+        ]
+    },
+    "col-bris-dekker": {
+        "name": "Col. Bris Dekker",
+        "location": {
+            "system": "Sol",
+            "planet": "Sol"
+        },
+        "allegiance": "Federation",
+        "specialization": "Exploration",
+        "welcomeGift": "10,000,000 Cr in combat bonds",
+        "requirements": "Federation alligned /  From Juri Ishmaak (Rank 2 (3?)) / Need to be friendly with the Federation",
+        "modules": {
+            "FSD": 3,
+            "Interdictor (FSD)": 4
+        },
+        "blueprints": [
+            "fsd-faster-fsd-boot-sequence",
+            "fsd-increased-fsd-range",
+            "fsd-shielded-fsd",
+            "interdictor-fsd-interdictor-fsd"
+        ]
+    },
+    "broo-tarquin": {
+        "name": "Broo Tarquin",
+        "location": {
+            "system": "Muang",
+            "planet": "Muang"
+        },
+        "allegiance": "Federation",
+        "specialization": "Weapons",
+        "welcomeGift": "100x Fujin tea",
+        "requirements": "Federation alligned / From Hera Tani (Rank 3) / 'Competent' combat rank",
+        "modules": {
+            "Burst Laser": 3,
+            "Pulse Laser": 4,
+            "Beam Laser": 1
+        },
+        "blueprints": [
+            "burst-laser-efficient-weapon",
+            "burst-laser-light-weight-mount",
+            "burst-laser-long-range-weapon",
+            "burst-laser-overcharged-weapon",
+            "burst-laser-short-range-blaster",
+            "burst-laser-sturdy-mount",
+            "pulse-laser-efficient-weapon",
+            "pulse-laser-focused-weapon",
+            "pulse-laser-light-weight-mount",
+            "pulse-laser-overcharged-weapon",
+            "pulse-laser-sturdy-mount",
+            "beam-laser-light-weight-mount",
+            "beam-laser-long-range-weapon",
+            "beam-laser-short-range-blaster",
+            "beam-laser-sturdy-mount"
+        ]
+    }
+}

@@ -1,0 +1,96 @@
+{
+    "name": "Long Range Weapon",
+    "module": "Rail Gun",
+    "recipes": {
+        "1": {
+            "components": {
+                "Sulphur": 2,
+                "Modified Consumer Firmware": 1
+            },
+            "effects": {
+                "maximum-range": {
+                    "name": "Maximum Range",
+                    "isPercent": true,
+                    "min": 10,
+                    "max": 20
+                },
+                "damage-per-second": {
+                    "name": "Damage Per Second",
+                    "isPercent": true,
+                    "min": -6,
+                    "max": -3
+                },
+                "damage": {
+                    "name": "Damage",
+                    "isPercent": true,
+                    "min": 6,
+                    "max": 3
+                },
+                "distributor-draw": {
+                    "name": "Distributor Draw",
+                    "isPercent": true,
+                    "min": 10,
+                    "max": 0
+                },
+                "mass": {
+                    "name": "Mass",
+                    "isPercent": true,
+                    "min": 10,
+                    "max": 0
+                },
+                "power-draw": {
+                    "name": "Power Draw",
+                    "isPercent": true,
+                    "min": 0,
+                    "max": 0
+                }
+            }
+        },
+        "2": {
+            "components": {
+                "Sulphur": 2,
+                "Modified Consumer Firmware": 2,
+                "Focus Crystals": 1,
+                "Insulating Membrane": 1
+            },
+            "effects": {
+                "maximum-range": {
+                    "name": "Maximum Range",
+                    "isPercent": true,
+                    "min": 20,
+                    "max": 39
+                },
+                "damage-per-second": {
+                    "name": "Damage Per Second",
+                    "isPercent": true,
+                    "min": -10,
+                    "max": -6
+                },
+                "damage": {
+                    "name": "Damage",
+                    "isPercent": true,
+                    "min": 10,
+                    "max": 6
+                },
+                "distributor-draw": {
+                    "name": "Distributor Draw",
+                    "isPercent": true,
+                    "min": 20,
+                    "max": 4
+                },
+                "mass": {
+                    "name": "Mass",
+                    "isPercent": true,
+                    "min": 20,
+                    "max": 4
+                },
+                "power-draw": {
+                    "name": "Power Draw",
+                    "isPercent": true,
+                    "min": 4,
+                    "max": 0
+                }
+            }
+        }
+    }
+}

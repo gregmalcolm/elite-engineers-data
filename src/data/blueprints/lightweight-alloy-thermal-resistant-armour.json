@@ -1,0 +1,89 @@
+{
+    "name": "Thermal Resistant Armour",
+    "module": "Lightweight Alloy",
+    "recipes": {
+        "1": {
+            "components": {
+                "Heat Conduction Wiring": 2,
+                "Vanadium": 1
+            },
+            "effects": {
+                "thermal-resistance": {
+                    "name": "Thermal Resistance",
+                    "isPercent": false,
+                    "min": 5,
+                    "max": 8
+                },
+                "explosive-resistance": {
+                    "name": "Explosive Resistance",
+                    "isPercent": false,
+                    "min": -6,
+                    "max": -3
+                },
+                "kinetic-resistance": {
+                    "name": "Kinetic Resistance",
+                    "isPercent": false,
+                    "min": -5,
+                    "max": -2
+                }
+            }
+        },
+        "2": {
+            "components": {
+                "Nickel": 2,
+                "Heat Dispersion Plate": 2,
+                "Tungsten": 1,
+                "Neofabric Insulation": 1
+            },
+            "effects": {
+                "thermal-resistance": {
+                    "name": "Thermal Resistance",
+                    "isPercent": false,
+                    "min": 10,
+                    "max": 16
+                },
+                "explosive-resistance": {
+                    "name": "Explosive Resistance",
+                    "isPercent": false,
+                    "min": -11,
+                    "max": -6
+                },
+                "kinetic-resistance": {
+                    "name": "Kinetic Resistance",
+                    "isPercent": false,
+                    "min": -10,
+                    "max": -5
+                }
+            }
+        },
+        "3": {
+            "components": {
+                "Nickel": 1,
+                "Zinc": 1,
+                "Heat Exchangers": 2,
+                "Molybdenum": 1,
+                "Bromellite": 1
+            },
+            "effects": {
+                "thermal-resistance": {
+                    "name": "Thermal Resistance",
+                    "isPercent": false,
+                    "min": 15,
+                    "max": 24
+                },
+                "explosive-resistance": {
+                    "name": "Explosive Resistance",
+                    "isPercent": false,
+                    "min": -17,
+                    "max": -8
+                },
+                "kinetic-resistance": {
+                    "name": "Kinetic Resistance",
+                    "isPercent": false,
+                    "min": -15,
+                    "max": -7
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Mechanical Equipment",
+    "type": "Man",
+    "subtype": "Mechanical Component",
+    "rarity": "Com",
+    "location": [],
+    "missionReward": true
+}

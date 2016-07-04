@@ -1,0 +1,32 @@
+{
+    "name": "Elvira Martuuk",
+    "location": {
+        "system": "Khun",
+        "planet": "5",
+        "base": "Long Sight Base"
+    },
+    "allegiance": "Independent",
+    "specialization": "Exploration",
+    "welcomeGift": "3x Soontil Relics",
+    "requirements": "Having travelled 300ly",
+    "modules": {
+        "FSD": 5,
+        "Cell Banks": 1,
+        "Shield Generator": 3,
+        "Thrusters": 2
+    },
+    "blueprints": [
+        "fsd-faster-fsd-boot-sequence",
+        "fsd-increased-fsd-range",
+        "fsd-shielded-fsd",
+        "cell-banks-rapid-charge-shield-cell-bank",
+        "cell-banks-specialised-shield-cell-bank",
+        "shield-generator-kinetic-resistant-shields",
+        "shield-generator-enhanced-low-power-shields",
+        "shield-generator-reinforced-shields",
+        "shield-generator-thermal-resistant-shields",
+        "thrusters-dirty-drive-tuning",
+        "thrusters-drive-strengthening",
+        "thrusters-clean-drive-tuning"
+    ]
+}

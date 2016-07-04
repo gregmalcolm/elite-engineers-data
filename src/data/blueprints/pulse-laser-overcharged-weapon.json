@@ -1,0 +1,186 @@
+{
+    "name": "Overcharged Weapon",
+    "module": "Pulse Laser",
+    "recipes": {
+        "1": {
+            "components": {
+                "Nickel": 1,
+                "Hybrid Capacitors": 1,
+                "Cracked Industrial Firmware": 1
+            },
+            "effects": {
+                "damage-per-second": {
+                    "name": "Damage Per Second",
+                    "isPercent": true,
+                    "min": 1,
+                    "max": 14
+                },
+                "damage": {
+                    "name": "Damage",
+                    "isPercent": true,
+                    "min": 10,
+                    "max": 14
+                },
+                "distributor-draw": {
+                    "name": "Distributor Draw",
+                    "isPercent": true,
+                    "min": 90,
+                    "max": 45
+                },
+                "rate-of-fire": {
+                    "name": "Rate Of Fire",
+                    "isPercent": false,
+                    "min": -8,
+                    "max": 0
+                },
+                "jitter": {
+                    "name": "Jitter",
+                    "isPercent": false,
+                    "min": 2,
+                    "max": 1
+                },
+                "thermal-load": {
+                    "name": "Thermal Load",
+                    "isPercent": false,
+                    "min": 45,
+                    "max": 29
+                }
+            }
+        },
+        "2": {
+            "components": {
+                "Nickel": 1,
+                "Conductive Components": 2,
+                "Electrochemical Arrays": 1,
+                "Security Firmware Patch": 1,
+                "Praseodymium": 1
+            },
+            "effects": {
+                "damage-per-second": {
+                    "name": "Damage Per Second",
+                    "isPercent": true,
+                    "min": 8,
+                    "max": 26
+                },
+                "damage": {
+                    "name": "Damage",
+                    "isPercent": true,
+                    "min": 14,
+                    "max": 20
+                },
+                "distributor-draw": {
+                    "name": "Distributor Draw",
+                    "isPercent": true,
+                    "min": 79,
+                    "max": 39
+                },
+                "rate-of-fire": {
+                    "name": "Rate Of Fire",
+                    "isPercent": false,
+                    "min": -6,
+                    "max": 5
+                },
+                "jitter": {
+                    "name": "Jitter",
+                    "isPercent": false,
+                    "min": 1,
+                    "max": 0
+                },
+                "thermal-load": {
+                    "name": "Thermal Load",
+                    "isPercent": false,
+                    "min": 29,
+                    "max": 14
+                }
+            }
+        },
+        "3": {
+            "components": {
+                "Nickel": 1,
+                "Conductive Components": 2,
+                "Electrochemical Arrays": 2,
+                "Security Firmware Patch": 2,
+                "Articulation Motors": 1
+            },
+            "effects": {
+                "damage-per-second": {
+                    "name": "Damage Per Second",
+                    "isPercent": true,
+                    "min": 15,
+                    "max": 38
+                },
+                "damage": {
+                    "name": "Damage",
+                    "isPercent": true,
+                    "min": 20,
+                    "max": 25
+                },
+                "distributor-draw": {
+                    "name": "Distributor Draw",
+                    "isPercent": true,
+                    "min": 70,
+                    "max": 35
+                },
+                "rate-of-fire": {
+                    "name": "Rate Of Fire",
+                    "isPercent": false,
+                    "min": -4,
+                    "max": 11
+                },
+                "jitter": {
+                    "name": "Jitter",
+                    "isPercent": false,
+                    "min": 1,
+                    "max": 0
+                },
+                "thermal-load": {
+                    "name": "Thermal Load",
+                    "isPercent": false,
+                    "min": 14,
+                    "max": 0
+                }
+            }
+        },
+        "4": {
+            "components": {
+                "Zinc": 1,
+                "Conductive Ceramics": 2,
+                "Polymer Capacitors": 2,
+                "Modified Embedded Firmware": 1,
+                "Articulation Motors": 1
+            },
+            "effects": {
+                "damage-per-second": {
+                    "name": "Damage Per Second",
+                    "isPercent": true,
+                    "min": 22,
+                    "max": 52
+                },
+                "damage": {
+                    "name": "Damage",
+                    "isPercent": true,
+                    "min": 25,
+                    "max": 29
+                },
+                "distributor-draw": {
+                    "name": "Distributor Draw",
+                    "isPercent": true,
+                    "min": 61,
+                    "max": 29
+                },
+                "rate-of-fire": {
+                    "name": "Rate Of Fire",
+                    "isPercent": false,
+                    "min": -2,
+                    "max": 17
+                },
+                "jitter": {
+                    "name": "Jitter",
+                    "isPercent": false,
+                    "min": 0,
+                    "max": 0
+                }
+            }
+        }
+    }
+}

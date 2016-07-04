@@ -1,0 +1,238 @@
+{
+    "name": "High Charge Capacity Power Distributor",
+    "module": "Distributor",
+    "recipes": {
+        "1": {
+            "components": {
+                "Sulphur": 2,
+                "Zinc": 1,
+                "Electrochemical Arrays": 1
+            },
+            "effects": {
+                "weapons-capacity": {
+                    "name": "Weapons Capacity",
+                    "isPercent": true,
+                    "min": 0,
+                    "max": 4
+                },
+                "engines-capacity": {
+                    "name": "Engines Capacity",
+                    "isPercent": true,
+                    "min": 0,
+                    "max": 4
+                },
+                "systems-capacity": {
+                    "name": "Systems Capacity",
+                    "isPercent": true,
+                    "min": 0,
+                    "max": 4
+                },
+                "weapons-recharge": {
+                    "name": "Weapons Recharge",
+                    "isPercent": true,
+                    "min": -6,
+                    "max": 0
+                },
+                "engines-recharge": {
+                    "name": "Engines Recharge",
+                    "isPercent": true,
+                    "min": -6,
+                    "max": 0
+                },
+                "systems-recharge": {
+                    "name": "Systems Recharge",
+                    "isPercent": true,
+                    "min": -6,
+                    "max": 0
+                }
+            }
+        },
+        "2": {
+            "components": {
+                "Specialised Legacy Firmware": 2,
+                "Chromium": 2,
+                "High Density Composites": 1,
+                "Polymer Capacitors": 1,
+                "Platinum": 1
+            },
+            "effects": {
+                "weapons-capacity": {
+                    "name": "Weapons Capacity",
+                    "isPercent": true,
+                    "min": 3,
+                    "max": 10
+                },
+                "engines-capacity": {
+                    "name": "Engines Capacity",
+                    "isPercent": true,
+                    "min": 3,
+                    "max": 10
+                },
+                "systems-capacity": {
+                    "name": "Systems Capacity",
+                    "isPercent": true,
+                    "min": 3,
+                    "max": 10
+                },
+                "weapons-recharge": {
+                    "name": "Weapons Recharge",
+                    "isPercent": true,
+                    "min": -11,
+                    "max": -5
+                },
+                "engines-recharge": {
+                    "name": "Engines Recharge",
+                    "isPercent": true,
+                    "min": -11,
+                    "max": -5
+                },
+                "systems-recharge": {
+                    "name": "Systems Recharge",
+                    "isPercent": true,
+                    "min": -11,
+                    "max": -5
+                }
+            }
+        },
+        "3": {
+            "components": {
+                "Specialised Legacy Firmware": 1,
+                "Chromium": 3,
+                "High Density Composites": 2,
+                "Polymer Capacitors": 2,
+                "Modular Terminals": 1
+            },
+            "effects": {
+                "weapons-capacity": {
+                    "name": "Weapons Capacity",
+                    "isPercent": true,
+                    "min": 8,
+                    "max": 14
+                },
+                "engines-capacity": {
+                    "name": "Engines Capacity",
+                    "isPercent": true,
+                    "min": 8,
+                    "max": 14
+                },
+                "systems-capacity": {
+                    "name": "Systems Capacity",
+                    "isPercent": true,
+                    "min": 8,
+                    "max": 14
+                },
+                "weapons-recharge": {
+                    "name": "Weapons Recharge",
+                    "isPercent": true,
+                    "min": -15,
+                    "max": -8
+                },
+                "engines-recharge": {
+                    "name": "Engines Recharge",
+                    "isPercent": true,
+                    "min": -15,
+                    "max": -8
+                },
+                "systems-recharge": {
+                    "name": "Systems Recharge",
+                    "isPercent": true,
+                    "min": -15,
+                    "max": -8
+                }
+            }
+        },
+        "4": {
+            "components": {
+                "Modified Consumer Firmware": 2,
+                "Selenium": 2,
+                "Proprietary Composites": 2,
+                "Military Supercapacitors": 1,
+                "Modular Terminals": 1
+            },
+            "effects": {
+                "weapons-capacity": {
+                    "name": "Weapons Capacity",
+                    "isPercent": true,
+                    "min": 11,
+                    "max": 20
+                },
+                "engines-capacity": {
+                    "name": "Engines Capacity",
+                    "isPercent": true,
+                    "min": 11,
+                    "max": 20
+                },
+                "systems-capacity": {
+                    "name": "Systems Capacity",
+                    "isPercent": true,
+                    "min": 11,
+                    "max": 20
+                },
+                "weapons-recharge": {
+                    "name": "Weapons Recharge",
+                    "isPercent": true,
+                    "min": -20,
+                    "max": -12
+                },
+                "engines-recharge": {
+                    "name": "Engines Recharge",
+                    "isPercent": true,
+                    "min": -20,
+                    "max": -12
+                },
+                "systems-recharge": {
+                    "name": "Systems Recharge",
+                    "isPercent": true,
+                    "min": -20,
+                    "max": -12
+                }
+            }
+        },
+        "5": {
+            "components": {
+                "Cracked Industrial Firmware": 2,
+                "Proprietary Composites": 2,
+                "Military Supercapacitors": 2,
+                "Emergency Power Cells": 1
+            },
+            "effects": {
+                "weapons-capacity": {
+                    "name": "Weapons Capacity",
+                    "isPercent": true,
+                    "min": 17,
+                    "max": 25
+                },
+                "engines-capacity": {
+                    "name": "Engines Capacity",
+                    "isPercent": true,
+                    "min": 17,
+                    "max": 25
+                },
+                "systems-capacity": {
+                    "name": "Systems Capacity",
+                    "isPercent": true,
+                    "min": 17,
+                    "max": 25
+                },
+                "weapons-recharge": {
+                    "name": "Weapons Recharge",
+                    "isPercent": true,
+                    "min": -25,
+                    "max": -16
+                },
+                "engines-recharge": {
+                    "name": "Engines Recharge",
+                    "isPercent": true,
+                    "min": -25,
+                    "max": -16
+                },
+                "systems-recharge": {
+                    "name": "Systems Recharge",
+                    "isPercent": true,
+                    "min": -25,
+                    "max": -16
+                }
+            }
+        }
+    }
+}

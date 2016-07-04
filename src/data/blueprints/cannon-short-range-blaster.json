@@ -1,0 +1,84 @@
+{
+    "name": "Short Range Blaster",
+    "module": "Cannon",
+    "recipes": {
+        "1": {
+            "components": {
+                "Nickel": 2,
+                "Modified Consumer Firmware": 1
+            },
+            "effects": {
+                "maximum-range": {
+                    "name": "Maximum Range",
+                    "isPercent": true,
+                    "min": -36,
+                    "max": -11
+                },
+                "damage-per-second": {
+                    "name": "Damage Per Second",
+                    "isPercent": true,
+                    "min": 3,
+                    "max": 8
+                },
+                "damage": {
+                    "name": "Damage",
+                    "isPercent": true,
+                    "min": 3,
+                    "max": 8
+                },
+                "distributor-draw": {
+                    "name": "Distributor Draw",
+                    "isPercent": true,
+                    "min": 10,
+                    "max": -10
+                },
+                "thermal-load": {
+                    "name": "Thermal Load",
+                    "isPercent": true,
+                    "min": 0,
+                    "max": 0
+                }
+            }
+        },
+        "2": {
+            "components": {
+                "Nickel": 2,
+                "Modified Consumer Firmware": 2,
+                "Electrochemical Arrays": 1,
+                "Insulating Membrane": 1
+            },
+            "effects": {
+                "maximum-range": {
+                    "name": "Maximum Range",
+                    "isPercent": true,
+                    "min": -45,
+                    "max": -20
+                },
+                "damage-per-second": {
+                    "name": "Damage Per Second",
+                    "isPercent": true,
+                    "min": 8,
+                    "max": 15
+                },
+                "damage": {
+                    "name": "Damage",
+                    "isPercent": true,
+                    "min": 8,
+                    "max": 15
+                },
+                "distributor-draw": {
+                    "name": "Distributor Draw",
+                    "isPercent": true,
+                    "min": 14,
+                    "max": -6
+                },
+                "thermal-load": {
+                    "name": "Thermal Load",
+                    "isPercent": true,
+                    "min": 20,
+                    "max": 10
+                }
+            }
+        }
+    }
+}

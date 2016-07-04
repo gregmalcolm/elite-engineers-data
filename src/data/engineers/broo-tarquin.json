@@ -1,0 +1,33 @@
+{
+    "name": "Broo Tarquin",
+    "location": {
+        "system": "Muang",
+        "planet": "Muang"
+    },
+    "allegiance": "Federation",
+    "specialization": "Weapons",
+    "welcomeGift": "100x Fujin tea",
+    "requirements": "Federation alligned / From Hera Tani (Rank 3) / 'Competent' combat rank",
+    "modules": {
+        "Burst Laser": 3,
+        "Pulse Laser": 4,
+        "Beam Laser": 1
+    },
+    "blueprints": [
+        "burst-laser-efficient-weapon",
+        "burst-laser-light-weight-mount",
+        "burst-laser-long-range-weapon",
+        "burst-laser-overcharged-weapon",
+        "burst-laser-short-range-blaster",
+        "burst-laser-sturdy-mount",
+        "pulse-laser-efficient-weapon",
+        "pulse-laser-focused-weapon",
+        "pulse-laser-light-weight-mount",
+        "pulse-laser-overcharged-weapon",
+        "pulse-laser-sturdy-mount",
+        "beam-laser-light-weight-mount",
+        "beam-laser-long-range-weapon",
+        "beam-laser-short-range-blaster",
+        "beam-laser-sturdy-mount"
+    ]
+}

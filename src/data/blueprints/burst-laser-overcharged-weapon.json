@@ -1,0 +1,145 @@
+{
+    "name": "Overcharged Weapon",
+    "module": "Burst Laser",
+    "recipes": {
+        "1": {
+            "components": {
+                "Nickel": 1,
+                "Hybrid Capacitors": 1,
+                "Cracked Industrial Firmware": 1
+            },
+            "effects": {
+                "damage-per-second": {
+                    "name": "Damage Per Second",
+                    "isPercent": true,
+                    "min": 3,
+                    "max": 15
+                },
+                "damage": {
+                    "name": "Damage",
+                    "isPercent": true,
+                    "min": 10,
+                    "max": 14
+                },
+                "distributor-draw": {
+                    "name": "Distributor Draw",
+                    "isPercent": true,
+                    "min": 89,
+                    "max": 45
+                },
+                "rate-of-fire": {
+                    "name": "Rate Of Fire",
+                    "isPercent": true,
+                    "min": -6,
+                    "max": 0
+                },
+                "jitter": {
+                    "name": "Jitter",
+                    "isPercent": false,
+                    "min": 2,
+                    "max": 1
+                },
+                "thermal-load": {
+                    "name": "Thermal Load",
+                    "isPercent": true,
+                    "min": 44,
+                    "max": 29
+                }
+            }
+        },
+        "2": {
+            "components": {
+                "Nickel": 1,
+                "Conductive Components": 2,
+                "Electrochemical Arrays": 1,
+                "Security Firmware Patch": 1,
+                "Praseodymium": 1
+            },
+            "effects": {
+                "damage-per-second": {
+                    "name": "Damage Per Second",
+                    "isPercent": true,
+                    "min": 9,
+                    "max": 25
+                },
+                "damage": {
+                    "name": "Damage",
+                    "isPercent": true,
+                    "min": 14,
+                    "max": 20
+                },
+                "distributor-draw": {
+                    "name": "Distributor Draw",
+                    "isPercent": true,
+                    "min": 79,
+                    "max": 39
+                },
+                "rate-of-fire": {
+                    "name": "Rate Of Fire",
+                    "isPercent": true,
+                    "min": -5,
+                    "max": 4
+                },
+                "jitter": {
+                    "name": "Jitter",
+                    "isPercent": false,
+                    "min": 1,
+                    "max": 0
+                },
+                "thermal-load": {
+                    "name": "Thermal Load",
+                    "isPercent": true,
+                    "min": 29,
+                    "max": 14
+                }
+            }
+        },
+        "3": {
+            "components": {
+                "Nickel": 1,
+                "Conductive Components": 2,
+                "Electrochemical Arrays": 2,
+                "Security Firmware Patch": 2,
+                "Articulation Motors": 1
+            },
+            "effects": {
+                "damage-per-second": {
+                    "name": "Damage Per Second",
+                    "isPercent": true,
+                    "min": 17,
+                    "max": 35
+                },
+                "damage": {
+                    "name": "Damage",
+                    "isPercent": true,
+                    "min": 20,
+                    "max": 25
+                },
+                "distributor-draw": {
+                    "name": "Distributor Draw",
+                    "isPercent": true,
+                    "min": 70,
+                    "max": 35
+                },
+                "rate-of-fire": {
+                    "name": "Rate Of Fire",
+                    "isPercent": true,
+                    "min": -4,
+                    "max": 8
+                },
+                "jitter": {
+                    "name": "Jitter",
+                    "isPercent": false,
+                    "min": 1,
+                    "max": 0
+                },
+                "thermal-load": {
+                    "name": "Thermal Load",
+                    "isPercent": true,
+                    "min": 14,
+                    "max": 0
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,184 @@
+{
+    "name": "Rapid Fire Modification",
+    "module": "Mine Launcher",
+    "recipes": {
+        "1": {
+            "components": {
+                "Mechanical Scrap": 2,
+                "Heat Dispersion Plate": 2
+            },
+            "effects": {
+                "damage-per-second": {
+                    "name": "Damage Per Second",
+                    "isPercent": true,
+                    "min": -22,
+                    "max": 4
+                },
+                "rate-of-fire": {
+                    "name": "Rate Of Fire",
+                    "isPercent": true,
+                    "min": 5,
+                    "max": 25
+                },
+                "damage": {
+                    "name": "Damage",
+                    "isPercent": true,
+                    "min": -25,
+                    "max": -16
+                },
+                "jitter": {
+                    "name": "Jitter",
+                    "isPercent": false,
+                    "min": 2,
+                    "max": 1
+                },
+                "distributor-draw": {
+                    "name": "Distributor Draw",
+                    "isPercent": true,
+                    "min": 0,
+                    "max": 0
+                },
+                "armour-piercing": {
+                    "name": "Armour Piercing",
+                    "isPercent": true,
+                    "min": 0,
+                    "max": 0
+                }
+            }
+        },
+        "2": {
+            "components": {
+                "Mechanical Scrap": 3,
+                "Heat Dispersion Plate": 2,
+                "Tungsten": 1,
+                "HN Shock Mount": 1
+            },
+            "effects": {
+                "damage-per-second": {
+                    "name": "Damage Per Second",
+                    "isPercent": true,
+                    "min": -12,
+                    "max": 17
+                },
+                "rate-of-fire": {
+                    "name": "Rate Of Fire",
+                    "isPercent": true,
+                    "min": 11,
+                    "max": 34
+                },
+                "damage": {
+                    "name": "Damage",
+                    "isPercent": true,
+                    "min": -20,
+                    "max": -12
+                },
+                "jitter": {
+                    "name": "Jitter",
+                    "isPercent": false,
+                    "min": 2,
+                    "max": 1
+                },
+                "distributor-draw": {
+                    "name": "Distributor Draw",
+                    "isPercent": true,
+                    "min": 0,
+                    "max": 0
+                },
+                "armour-piercing": {
+                    "name": "Armour Piercing",
+                    "isPercent": true,
+                    "min": 0,
+                    "max": 0
+                }
+            }
+        },
+        "3": {
+            "components": {
+                "Specialised Legacy Firmware": 2,
+                "Mechanical Equipment": 2,
+                "Precipitated Alloys": 1,
+                "Molybdenum": 1,
+                "Osmium": 1
+            },
+            "effects": {
+                "damage-per-second": {
+                    "name": "Damage Per Second",
+                    "isPercent": true,
+                    "min": 0,
+                    "max": 31
+                },
+                "rate-of-fire": {
+                    "name": "Rate Of Fire",
+                    "isPercent": true,
+                    "min": 17,
+                    "max": 42
+                },
+                "damage": {
+                    "name": "Damage",
+                    "isPercent": true,
+                    "min": -15,
+                    "max": -8
+                },
+                "jitter": {
+                    "name": "Jitter",
+                    "isPercent": false,
+                    "min": 1,
+                    "max": 0
+                },
+                "distributor-draw": {
+                    "name": "Distributor Draw",
+                    "isPercent": true,
+                    "min": 0,
+                    "max": 0
+                },
+                "armour-piercing": {
+                    "name": "Armour Piercing",
+                    "isPercent": true,
+                    "min": 0,
+                    "max": 10
+                }
+            }
+        },
+        "4": {
+            "components": {
+                "Modified Consumer Firmware": 1,
+                "Mechanical Components": 1,
+                "Thermic Alloys": 2,
+                "Technetium": 1,
+                "Telemetry Suite": 1
+            },
+            "effects": {
+                "damage-per-second": {
+                    "name": "Damage Per Second",
+                    "isPercent": true,
+                    "min": 12,
+                    "max": 47
+                },
+                "rate-of-fire": {
+                    "name": "Rate Of Fire",
+                    "isPercent": true,
+                    "min": 25,
+                    "max": 53
+                },
+                "damage": {
+                    "name": "Damage",
+                    "isPercent": true,
+                    "min": -11,
+                    "max": -5
+                },
+                "jitter": {
+                    "name": "Jitter",
+                    "isPercent": false,
+                    "min": 1,
+                    "max": 0
+                },
+                "armour-piercing": {
+                    "name": "Armour Piercing",
+                    "isPercent": true,
+                    "min": 4,
+                    "max": 20
+                }
+            }
+        }
+    }
+}

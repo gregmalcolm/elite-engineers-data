@@ -1,0 +1,114 @@
+{
+    "name": "Shielded Power Distributor",
+    "module": "Distributor",
+    "recipes": {
+        "1": {
+            "components": {
+                "Worn Shield Emitters": 1,
+                "Vanadium": 2
+            },
+            "effects": {
+                "integrity": {
+                    "name": "Integrity",
+                    "isPercent": true,
+                    "min": 0,
+                    "max": 20
+                },
+                "mass": {
+                    "name": "Mass",
+                    "isPercent": true,
+                    "min": 4,
+                    "max": 0
+                }
+            }
+        },
+        "2": {
+            "components": {
+                "Carbon": 2,
+                "Shield Emitters": 2,
+                "High Density Composites": 1,
+                "CMM Composite": 1
+            },
+            "effects": {
+                "integrity": {
+                    "name": "Integrity",
+                    "isPercent": true,
+                    "min": 10,
+                    "max": 39
+                },
+                "mass": {
+                    "name": "Mass",
+                    "isPercent": true,
+                    "min": 10,
+                    "max": 2
+                }
+            }
+        },
+        "3": {
+            "components": {
+                "Carbon": 1,
+                "Shield Emitters": 3,
+                "High Density Composites": 2,
+                "Osmium": 1
+            },
+            "effects": {
+                "integrity": {
+                    "name": "Integrity",
+                    "isPercent": true,
+                    "min": 20,
+                    "max": 61
+                },
+                "mass": {
+                    "name": "Mass",
+                    "isPercent": true,
+                    "min": 14,
+                    "max": 5
+                }
+            }
+        },
+        "4": {
+            "components": {
+                "Vanadium": 1,
+                "Shielding Sensors": 3,
+                "Proprietary Composites": 2,
+                "Reinforced Mounting Plate": 1
+            },
+            "effects": {
+                "integrity": {
+                    "name": "Integrity",
+                    "isPercent": true,
+                    "min": 31,
+                    "max": 81
+                },
+                "mass": {
+                    "name": "Mass",
+                    "isPercent": true,
+                    "min": 20,
+                    "max": 9
+                }
+            }
+        },
+        "5": {
+            "components": {
+                "Tungsten": 1,
+                "Compound Shielding": 3,
+                "Core Dynamics Composites": 1,
+                "Reinforced Mounting Plate": 1
+            },
+            "effects": {
+                "integrity": {
+                    "name": "Integrity",
+                    "isPercent": true,
+                    "min": 39,
+                    "max": 100
+                },
+                "mass": {
+                    "name": "Mass",
+                    "isPercent": true,
+                    "min": 25,
+                    "max": 11
+                }
+            }
+        }
+    }
+}

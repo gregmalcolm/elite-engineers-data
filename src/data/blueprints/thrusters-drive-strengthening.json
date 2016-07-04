@@ -1,0 +1,174 @@
+{
+    "name": "Drive Strengthening",
+    "module": "Thrusters",
+    "recipes": {
+        "1": {
+            "components": {
+                "Carbon": 1,
+                "Shield Emitters": 2
+            },
+            "effects": {
+                "mass": {
+                    "name": "Mass",
+                    "isPercent": true,
+                    "min": 10,
+                    "max": 0
+                },
+                "integrity": {
+                    "name": "Integrity",
+                    "isPercent": true,
+                    "min": 10,
+                    "max": 20
+                },
+                "thermal-load": {
+                    "name": "Thermal Load",
+                    "isPercent": true,
+                    "min": 0,
+                    "max": -11
+                },
+                "optimal-multiplier": {
+                    "name": "Optimal Multiplier",
+                    "isPercent": true,
+                    "min": -3,
+                    "max": 0
+                }
+            }
+        },
+        "2": {
+            "components": {
+                "Heat Conduction Wiring": 2,
+                "Vanadium": 2,
+                "Shielding Sensors": 1,
+                "Osmium": 1
+            },
+            "effects": {
+                "mass": {
+                    "name": "Mass",
+                    "isPercent": true,
+                    "min": 20,
+                    "max": 5
+                },
+                "integrity": {
+                    "name": "Integrity",
+                    "isPercent": true,
+                    "min": 20,
+                    "max": 39
+                },
+                "thermal-load": {
+                    "name": "Thermal Load",
+                    "isPercent": true,
+                    "min": -6,
+                    "max": -20
+                },
+                "optimal-multiplier": {
+                    "name": "Optimal Multiplier",
+                    "isPercent": true,
+                    "min": -5,
+                    "max": -2
+                }
+            }
+        },
+        "3": {
+            "components": {
+                "Heat Conduction Wiring": 1,
+                "Vanadium": 3,
+                "Shielding Sensors": 2,
+                "CMM Composite": 1
+            },
+            "effects": {
+                "mass": {
+                    "name": "Mass",
+                    "isPercent": true,
+                    "min": 31,
+                    "max": 10
+                },
+                "integrity": {
+                    "name": "Integrity",
+                    "isPercent": true,
+                    "min": 31,
+                    "max": 61
+                },
+                "thermal-load": {
+                    "name": "Thermal Load",
+                    "isPercent": true,
+                    "min": -11,
+                    "max": -31
+                },
+                "optimal-multiplier": {
+                    "name": "Optimal Multiplier",
+                    "isPercent": true,
+                    "min": -6,
+                    "max": -3
+                }
+            }
+        },
+        "4": {
+            "components": {
+                "Heat Dispersion Plate": 1,
+                "High Density Composites": 3,
+                "Compound Shielding": 1,
+                "CMM Composite": 1
+            },
+            "effects": {
+                "mass": {
+                    "name": "Mass",
+                    "isPercent": true,
+                    "min": 39,
+                    "max": 14
+                },
+                "integrity": {
+                    "name": "Integrity",
+                    "isPercent": true,
+                    "min": 39,
+                    "max": 81
+                },
+                "thermal-load": {
+                    "name": "Thermal Load",
+                    "isPercent": true,
+                    "min": -15,
+                    "max": -40
+                },
+                "optimal-multiplier": {
+                    "name": "Optimal Multiplier",
+                    "isPercent": true,
+                    "min": -9,
+                    "max": -4
+                }
+            }
+        },
+        "5": {
+            "components": {
+                "Heat Exchangers": 1,
+                "Proprietary Composites": 2,
+                "Imperial Shielding": 1,
+                "Articulation Motors": 1
+            },
+            "effects": {
+                "mass": {
+                    "name": "Mass",
+                    "isPercent": true,
+                    "min": 50,
+                    "max": 20
+                },
+                "integrity": {
+                    "name": "Integrity",
+                    "isPercent": true,
+                    "min": 50,
+                    "max": 100
+                },
+                "thermal-load": {
+                    "name": "Thermal Load",
+                    "isPercent": true,
+                    "min": -20,
+                    "max": -50
+                },
+                "optimal-multiplier": {
+                    "name": "Optimal Multiplier",
+                    "isPercent": true,
+                    "min": -11,
+                    "max": -5
+                }
+            }
+        }
+    }
+}

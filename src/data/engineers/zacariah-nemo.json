@@ -1,0 +1,36 @@
+{
+    "name": "Zacariah Nemo",
+    "location": {
+        "system": "Yoru",
+        "planet": "4"
+    },
+    "allegiance": "Empire",
+    "specialization": "Weapons",
+    "welcomeGift": "25x Xihe Companions",
+    "requirements": "Friend with Party of Yoru / From Elvira (Rank 3 ~30%) / Outsider rank with the Empire",
+    "modules": {
+        "Multi-Cannon": 3,
+        "Frag Cannon": 4,
+        "Plasma Accelerators": 2
+    },
+    "blueprints": [
+        "multi-cannon-efficient-weapon",
+        "multi-cannon-high-capacity-magazine",
+        "multi-cannon-light-weight-mount",
+        "multi-cannon-overcharged-weapon",
+        "multi-cannon-short-range-blaster",
+        "multi-cannon-sturdy-mount",
+        "frag-cannon-double-shot",
+        "frag-cannon-efficient-weapon",
+        "frag-cannon-high-capacity-magazine",
+        "frag-cannon-light-weight-mount",
+        "frag-cannon-overcharged-weapon",
+        "frag-cannon-sturdy-mount",
+        "plasma-accelerators-efficient-weapon",
+        "plasma-accelerators-focused-weapon",
+        "plasma-accelerators-light-weight-mount",
+        "plasma-accelerators-overcharged-weapon",
+        "plasma-accelerators-rapid-fire-modification",
+        "plasma-accelerators-sturdy-mount"
+    ]
+}

@@ -1,0 +1,264 @@
+{
+    "name": "Reinforced Shields",
+    "module": "Shield Generator",
+    "recipes": {
+        "1": {
+            "components": {
+                "Phosphorus": 1,
+                "Conductive Components": 2
+            },
+            "effects": {
+                "optimal-strength": {
+                    "name": "Optimal Strength",
+                    "isPercent": true,
+                    "min": 0,
+                    "max": 4
+                },
+                "kinetic-resistance": {
+                    "name": "Kinetic Resistance",
+                    "isPercent": false,
+                    "min": 0,
+                    "max": 2
+                },
+                "thermal-resistance": {
+                    "name": "Thermal Resistance",
+                    "isPercent": false,
+                    "min": 0,
+                    "max": 3
+                },
+                "explosive-resistance": {
+                    "name": "Explosive Resistance",
+                    "isPercent": false,
+                    "min": 0,
+                    "max": 1
+                },
+                "broken-regen-rate": {
+                    "name": "Broken Regen Rate",
+                    "isPercent": true,
+                    "min": -21,
+                    "max": 15
+                },
+                "regen-rate": {
+                    "name": "Regen Rate",
+                    "isPercent": true,
+                    "min": 0,
+                    "max": 0
+                },
+                "distributor-draw": {
+                    "name": "Distributor Draw",
+                    "isPercent": true,
+                    "min": 0,
+                    "max": 0
+                }
+            }
+        },
+        "2": {
+            "components": {
+                "Phosphorus": 2,
+                "Conductive Components": 2,
+                "Mechanical Components": 1,
+                "Modular Terminals": 1
+            },
+            "effects": {
+                "optimal-strength": {
+                    "name": "Optimal Strength",
+                    "isPercent": true,
+                    "min": 1,
+                    "max": 10
+                },
+                "kinetic-resistance": {
+                    "name": "Kinetic Resistance",
+                    "isPercent": false,
+                    "min": 1,
+                    "max": 4
+                },
+                "thermal-resistance": {
+                    "name": "Thermal Resistance",
+                    "isPercent": false,
+                    "min": 2,
+                    "max": 8
+                },
+                "explosive-resistance": {
+                    "name": "Explosive Resistance",
+                    "isPercent": false,
+                    "min": 1,
+                    "max": 3
+                },
+                "broken-regen-rate": {
+                    "name": "Broken Regen Rate",
+                    "isPercent": true,
+                    "min": -24,
+                    "max": 12
+                },
+                "regen-rate": {
+                    "name": "Regen Rate",
+                    "isPercent": true,
+                    "min": -6,
+                    "max": -5
+                },
+                "distributor-draw": {
+                    "name": "Distributor Draw",
+                    "isPercent": true,
+                    "min": 0,
+                    "max": 0
+                }
+            }
+        },
+        "3": {
+            "components": {
+                "Phosphorus": 1,
+                "Conductive Components": 2,
+                "Mechanical Components": 2,
+                "Magnetic Emitter Coil": 1
+            },
+            "effects": {
+                "optimal-strength": {
+                    "name": "Optimal Strength",
+                    "isPercent": true,
+                    "min": 3,
+                    "max": 14
+                },
+                "kinetic-resistance": {
+                    "name": "Kinetic Resistance",
+                    "isPercent": false,
+                    "min": 2,
+                    "max": 6
+                },
+                "thermal-resistance": {
+                    "name": "Thermal Resistance",
+                    "isPercent": false,
+                    "min": 5,
+                    "max": 11
+                },
+                "explosive-resistance": {
+                    "name": "Explosive Resistance",
+                    "isPercent": false,
+                    "min": 2,
+                    "max": 4
+                },
+                "broken-regen-rate": {
+                    "name": "Broken Regen Rate",
+                    "isPercent": true,
+                    "min": -27,
+                    "max": 10
+                },
+                "regen-rate": {
+                    "name": "Regen Rate",
+                    "isPercent": true,
+                    "min": -10,
+                    "max": -3
+                },
+                "distributor-draw": {
+                    "name": "Distributor Draw",
+                    "isPercent": true,
+                    "min": 4,
+                    "max": 0
+                }
+            }
+        },
+        "4": {
+            "components": {
+                "Manganese": 1,
+                "Conductive Ceramics": 2,
+                "Configurable Components": 2,
+                "Magnetic Emitter Coil": 1
+            },
+            "effects": {
+                "optimal-strength": {
+                    "name": "Optimal Strength",
+                    "isPercent": true,
+                    "min": 5,
+                    "max": 19
+                },
+                "kinetic-resistance": {
+                    "name": "Kinetic Resistance",
+                    "isPercent": false,
+                    "min": 4,
+                    "max": 8
+                },
+                "thermal-resistance": {
+                    "name": "Thermal Resistance",
+                    "isPercent": false,
+                    "min": 7,
+                    "max": 15
+                },
+                "explosive-resistance": {
+                    "name": "Explosive Resistance",
+                    "isPercent": false,
+                    "min": 3,
+                    "max": 6
+                },
+                "broken-regen-rate": {
+                    "name": "Broken Regen Rate",
+                    "isPercent": true,
+                    "min": -31,
+                    "max": -6
+                },
+                "regen-rate": {
+                    "name": "Regen Rate",
+                    "isPercent": true,
+                    "min": -12,
+                    "max": -2
+                },
+                "distributor-draw": {
+                    "name": "Distributor Draw",
+                    "isPercent": true,
+                    "min": 10,
+                    "max": 4
+                }
+            }
+        },
+        "5": {
+            "components": {
+                "Arsenic": 1,
+                "Conductive Polymers": 2,
+                "Improvised Components": 1,
+                "Ion Distributor": 1
+            },
+            "effects": {
+                "optimal-strength": {
+                    "name": "Optimal Strength",
+                    "isPercent": true,
+                    "min": 8,
+                    "max": 25
+                },
+                "kinetic-resistance": {
+                    "name": "Kinetic Resistance",
+                    "isPercent": false,
+                    "min": 5,
+                    "max": 9
+                },
+                "thermal-resistance": {
+                    "name": "Thermal Resistance",
+                    "isPercent": false,
+                    "min": 10,
+                    "max": 18
+                },
+                "explosive-resistance": {
+                    "name": "Explosive Resistance",
+                    "isPercent": false,
+                    "min": 4,
+                    "max": 7
+                },
+                "broken-regen-rate": {
+                    "name": "Broken Regen Rate",
+                    "isPercent": true,
+                    "min": -34,
+                    "max": -3
+                },
+                "regen-rate": {
+                    "name": "Regen Rate",
+                    "isPercent": true,
+                    "min": -15,
+                    "max": -1
+                },
+                "distributor-draw": {
+                    "name": "Distributor Draw",
+                    "isPercent": true,
+                    "min": 14,
+                    "max": 10
+                }
+            }
+        }
+    }
+}

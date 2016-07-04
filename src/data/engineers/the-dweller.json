@@ -1,0 +1,40 @@
+{
+    "name": "The Dweller",
+    "location": {
+        "system": "Wyrd",
+        "planet": "A 2"
+    },
+    "allegiance": "Independent",
+    "specialization": "Ship/Weapons",
+    "welcomeGift": "500,000 Cr donation",
+    "requirements": "Have dealt with at least 5 Black Markets",
+    "modules": {
+        "Distributor": 5,
+        "Pulse Laser": 3,
+        "Burst Laser": 2,
+        "Beam Laser": 2
+    },
+    "blueprints": [
+        "distributor-high-charge-capacity-power-distributor",
+        "distributor-charge-enhanced-power-distributor",
+        "distributor-engine-focused-power-distributor",
+        "distributor-system-focused-power-distributor",
+        "distributor-weapon-focused-power-distributor",
+        "distributor-shielded-power-distributor",
+        "pulse-laser-efficient-weapon",
+        "pulse-laser-focused-weapon",
+        "pulse-laser-light-weight-mount",
+        "pulse-laser-sturdy-mount",
+        "pulse-laser-overcharged-weapon",
+        "burst-laser-efficient-weapon",
+        "burst-laser-light-weight-mount",
+        "burst-laser-sturdy-mount",
+        "burst-laser-short-range-blaster",
+        "burst-laser-long-range-weapon",
+        "burst-laser-overcharged-weapon",
+        "beam-laser-light-weight-mount",
+        "beam-laser-long-range-weapon",
+        "beam-laser-short-range-blaster",
+        "beam-laser-sturdy-mount"
+    ]
+}

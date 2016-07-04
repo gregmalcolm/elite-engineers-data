@@ -1,0 +1,8 @@
+{
+    "name": "Anomalous FSD Telemetry",
+    "type": "Data",
+    "subtype": "Scan Data",
+    "rarity": "Com",
+    "location": [],
+    "missionReward": true
+}

@@ -1,0 +1,142 @@
+{
+    "name": "System Focused Power Distributor",
+    "module": "Distributor",
+    "recipes": {
+        "1": {
+            "components": {
+                "Sulphur": 2,
+                "Conductive Components": 1
+            },
+            "effects": {
+                "systems-capacity": {
+                    "name": "Systems Capacity",
+                    "isPercent": true,
+                    "min": 0,
+                    "max": 10
+                },
+                "systems-recharge": {
+                    "name": "Systems Recharge",
+                    "isPercent": true,
+                    "min": 0,
+                    "max": 4
+                },
+                "engines-capacity": {
+                    "name": "Engines Capacity",
+                    "isPercent": true,
+                    "min": -6,
+                    "max": 0
+                },
+                "engines-recharge": {
+                    "name": "Engines Recharge",
+                    "isPercent": true,
+                    "min": -2,
+                    "max": 0
+                },
+                "weapons-capacity": {
+                    "name": "Weapons Capacity",
+                    "isPercent": true,
+                    "min": -6,
+                    "max": 0
+                },
+                "weapons-recharge": {
+                    "name": "Weapons Recharge",
+                    "isPercent": true,
+                    "min": -6,
+                    "max": 0
+                }
+            }
+        },
+        "2": {
+            "components": {
+                "Sulphur": 2,
+                "Conductive Components": 2,
+                "Electrochemical Arrays": 1,
+                "Nanobreakers": 1
+            },
+            "effects": {
+                "systems-capacity": {
+                    "name": "Systems Capacity",
+                    "isPercent": true,
+                    "min": 4,
+                    "max": 20
+                },
+                "systems-recharge": {
+                    "name": "Systems Recharge",
+                    "isPercent": true,
+                    "min": 1,
+                    "max": 10
+                },
+                "engines-capacity": {
+                    "name": "Engines Capacity",
+                    "isPercent": true,
+                    "min": -11,
+                    "max": -2
+                },
+                "engines-recharge": {
+                    "name": "Engines Recharge",
+                    "isPercent": true,
+                    "min": -5,
+                    "max": -1
+                },
+                "weapons-capacity": {
+                    "name": "Weapons Capacity",
+                    "isPercent": true,
+                    "min": -11,
+                    "max": -2
+                },
+                "weapons-recharge": {
+                    "name": "Weapons Recharge",
+                    "isPercent": true,
+                    "min": -11,
+                    "max": -2
+                }
+            }
+        },
+        "3": {
+            "components": {
+                "Conductive Components": 1,
+                "Selenium": 2,
+                "Polymer Capacitors": 1,
+                "Nanobreakers": 1
+            },
+            "effects": {
+                "systems-capacity": {
+                    "name": "Systems Capacity",
+                    "isPercent": true,
+                    "min": 10,
+                    "max": 29
+                },
+                "systems-recharge": {
+                    "name": "Systems Recharge",
+                    "isPercent": true,
+                    "min": 3,
+                    "max": 14
+                },
+                "engines-capacity": {
+                    "name": "Engines Capacity",
+                    "isPercent": true,
+                    "min": -15,
+                    "max": -5
+                },
+                "engines-recharge": {
+                    "name": "Engines Recharge",
+                    "isPercent": true,
+                    "min": -6,
+                    "max": -2
+                },
+                "weapons-capacity": {
+                    "name": "Weapons Capacity",
+                    "isPercent": true,
+                    "min": -15,
+                    "max": -5
+                },
+                "weapons-recharge": {
+                    "name": "Weapons Recharge",
+                    "isPercent": true,
+                    "min": -15,
+                    "max": -5
+                }
+            }
+        }
+    }
+}

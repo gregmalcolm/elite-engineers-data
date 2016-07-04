@@ -1,0 +1,8 @@
+{
+    "name": "Heat Exchangers",
+    "type": "Man",
+    "subtype": "Heat Exchanger",
+    "rarity": "Std",
+    "location": [],
+    "missionReward": false
+}

@@ -1,0 +1,86 @@
+{
+    "name": "High Capacity Magazine",
+    "module": "Rail Gun",
+    "recipes": {
+        "1": {
+            "components": {
+                "Mechanical Scrap": 2,
+                "Vanadium": 1,
+                "Electrochemical Arrays": 1
+            },
+            "effects": {
+                "ammo-clip-size": {
+                    "name": "Ammo Clip Size",
+                    "isPercent": true,
+                    "min": 0,
+                    "max": 0
+                },
+                "ammo-maximum": {
+                    "name": "Ammo Maximum",
+                    "isPercent": true,
+                    "min": 10,
+                    "max": 61
+                },
+                "mass": {
+                    "name": "Mass",
+                    "isPercent": true,
+                    "min": 25,
+                    "max": 10
+                },
+                "reload-time": {
+                    "name": "Reload Time",
+                    "isPercent": true,
+                    "min": 20,
+                    "max": 0
+                },
+                "power-draw": {
+                    "name": "Power Draw",
+                    "isPercent": true,
+                    "min": 20,
+                    "max": 10
+                }
+            }
+        },
+        "2": {
+            "components": {
+                "Mechanical Scrap": 2,
+                "Vanadium": 2,
+                "Niobium": 1,
+                "Polymer Capacitors": 1,
+                "CMM Composite": 1
+            },
+            "effects": {
+                "ammo-clip-size": {
+                    "name": "Ammo Clip Size",
+                    "isPercent": true,
+                    "min": 0,
+                    "max": 0
+                },
+                "ammo-maximum": {
+                    "name": "Ammo Maximum",
+                    "isPercent": true,
+                    "min": 20,
+                    "max": 70
+                },
+                "mass": {
+                    "name": "Mass",
+                    "isPercent": true,
+                    "min": 50,
+                    "max": 20
+                },
+                "reload-time": {
+                    "name": "Reload Time",
+                    "isPercent": true,
+                    "min": 39,
+                    "max": 10
+                },
+                "power-draw": {
+                    "name": "Power Draw",
+                    "isPercent": true,
+                    "min": 25,
+                    "max": 14
+                }
+            }
+        }
+    }
+}

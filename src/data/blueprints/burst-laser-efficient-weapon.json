@@ -1,0 +1,124 @@
+{
+    "name": "Efficient Weapon",
+    "module": "Burst Laser",
+    "recipes": {
+        "1": {
+            "components": {
+                "Sulphur": 1,
+                "Heat Dispersion Plate": 2
+            },
+            "effects": {
+                "thermal-load": {
+                    "name": "Thermal Load",
+                    "isPercent": true,
+                    "min": -11,
+                    "max": -50
+                },
+                "damage-per-second": {
+                    "name": "Damage Per Second",
+                    "isPercent": true,
+                    "min": -21,
+                    "max": -2
+                },
+                "rate-of-fire": {
+                    "name": "Rate Of Fire",
+                    "isPercent": true,
+                    "min": -17,
+                    "max": -6
+                },
+                "damage": {
+                    "name": "Damage",
+                    "isPercent": true,
+                    "min": -6,
+                    "max": 4
+                }
+            }
+        },
+        "2": {
+            "components": {
+                "Sulphur": 1,
+                "Heat Dispersion Plate": 2,
+                "Heat Exchangers": 1,
+                "Micro-Weave Cooling Hoses": 1
+            },
+            "effects": {
+                "thermal-load": {
+                    "name": "Thermal Load",
+                    "isPercent": true,
+                    "min": -21,
+                    "max": -61
+                },
+                "damage-per-second": {
+                    "name": "Damage Per Second",
+                    "isPercent": true,
+                    "min": -18,
+                    "max": 1
+                },
+                "rate-of-fire": {
+                    "name": "Rate Of Fire",
+                    "isPercent": true,
+                    "min": -14,
+                    "max": -5
+                },
+                "damage": {
+                    "name": "Damage",
+                    "isPercent": true,
+                    "min": -5,
+                    "max": 5
+                },
+                "power-draw": {
+                    "name": "Power Draw",
+                    "isPercent": true,
+                    "min": 0,
+                    "max": -11
+                }
+            }
+        },
+        "3": {
+            "components": {
+                "Heat Conduction Wiring": 2,
+                "Chromium": 2,
+                "Heat Exchangers": 2,
+                "Samarium": 1
+            },
+            "effects": {
+                "thermal-load": {
+                    "name": "Thermal Load",
+                    "isPercent": true,
+                    "min": -31,
+                    "max": -70
+                },
+                "damage-per-second": {
+                    "name": "Damage Per Second",
+                    "isPercent": true,
+                    "min": -14,
+                    "max": 3
+                },
+                "rate-of-fire": {
+                    "name": "Rate Of Fire",
+                    "isPercent": true,
+                    "min": -11,
+                    "max": -4
+                },
+                "damage": {
+                    "name": "Damage",
+                    "isPercent": true,
+                    "min": -4,
+                    "max": 7
+                },
+                "power-draw": {
+                    "name": "Power Draw",
+                    "isPercent": true,
+                    "min": -6,
+                    "max": -20
+                },
+                "distributor-draw": {
+                    "name": "Distributor Draw",
+                    "isPercent": true,
+                    "min": -6,
+                    "max": -20
+                }
+            }
+        }
+    }
+}

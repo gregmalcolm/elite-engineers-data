@@ -1,0 +1,208 @@
+{
+    "name": "Resistance Augmented Shield Booster",
+    "module": "Booster (Shield)",
+    "recipes": {
+        "1": {
+            "components": {
+                "Phosphorus": 2,
+                "Germanium": 1,
+                "Shielding Sensors": 1
+            },
+            "effects": {
+                "power-draw": {
+                    "name": "Power Draw",
+                    "isPercent": true,
+                    "min": 8,
+                    "max": 0
+                },
+                "kinetic-resistance": {
+                    "name": "Kinetic Resistance",
+                    "isPercent": false,
+                    "min": 0,
+                    "max": 2
+                },
+                "thermal-resistance": {
+                    "name": "Thermal Resistance",
+                    "isPercent": false,
+                    "min": 0,
+                    "max": 2
+                },
+                "explosive-resistance": {
+                    "name": "Explosive Resistance",
+                    "isPercent": false,
+                    "min": 0,
+                    "max": 2
+                },
+                "integrity": {
+                    "name": "Integrity",
+                    "isPercent": true,
+                    "min": -4,
+                    "max": 0
+                }
+            }
+        },
+        "2": {
+            "components": {
+                "Phosphorus": 1,
+                "Conductive Components": 2,
+                "Focus Crystals": 2,
+                "Compound Shielding": 1,
+                "Praseodymium": null
+            },
+            "effects": {
+                "power-draw": {
+                    "name": "Power Draw",
+                    "isPercent": true,
+                    "min": 15,
+                    "max": 3
+                },
+                "kinetic-resistance": {
+                    "name": "Kinetic Resistance",
+                    "isPercent": false,
+                    "min": 2,
+                    "max": 5
+                },
+                "thermal-resistance": {
+                    "name": "Thermal Resistance",
+                    "isPercent": false,
+                    "min": 2,
+                    "max": 5
+                },
+                "explosive-resistance": {
+                    "name": "Explosive Resistance",
+                    "isPercent": false,
+                    "min": 2,
+                    "max": 5
+                },
+                "integrity": {
+                    "name": "Integrity",
+                    "isPercent": true,
+                    "min": -8,
+                    "max": -2
+                }
+            }
+        },
+        "3": {
+            "components": {
+                "Phosphorus": 1,
+                "Conductive Components": 3,
+                "Focus Crystals": 2,
+                "Compound Shielding": 2,
+                "Modular Terminals": null
+            },
+            "effects": {
+                "power-draw": {
+                    "name": "Power Draw",
+                    "isPercent": true,
+                    "min": 23,
+                    "max": 8
+                },
+                "kinetic-resistance": {
+                    "name": "Kinetic Resistance",
+                    "isPercent": false,
+                    "min": 5,
+                    "max": 7
+                },
+                "thermal-resistance": {
+                    "name": "Thermal Resistance",
+                    "isPercent": false,
+                    "min": 5,
+                    "max": 7
+                },
+                "explosive-resistance": {
+                    "name": "Explosive Resistance",
+                    "isPercent": false,
+                    "min": 5,
+                    "max": 7
+                },
+                "integrity": {
+                    "name": "Integrity",
+                    "isPercent": true,
+                    "min": -12,
+                    "max": -4
+                }
+            }
+        },
+        "4": {
+            "components": {
+                "Manganese": 2,
+                "Conductive Ceramics": 3,
+                "Refined Focus Crystals": 2,
+                "Imperial Shielding": 1,
+                "Radiation Baffle": 1
+            },
+            "effects": {
+                "power-draw": {
+                    "name": "Power Draw",
+                    "isPercent": true,
+                    "min": 31,
+                    "max": 11
+                },
+                "kinetic-resistance": {
+                    "name": "Kinetic Resistance",
+                    "isPercent": false,
+                    "min": 7,
+                    "max": 10
+                },
+                "thermal-resistance": {
+                    "name": "Thermal Resistance",
+                    "isPercent": false,
+                    "min": 7,
+                    "max": 10
+                },
+                "explosive-resistance": {
+                    "name": "Explosive Resistance",
+                    "isPercent": false,
+                    "min": 7,
+                    "max": 10
+                },
+                "integrity": {
+                    "name": "Integrity",
+                    "isPercent": true,
+                    "min": -16,
+                    "max": -6
+                }
+            }
+        },
+        "5": {
+            "components": {
+                "Conductive Ceramics": 2,
+                "Refined Focus Crystals": 3,
+                "Imperial Shielding": 2,
+                "Radiation Baffle": 1
+            },
+            "effects": {
+                "power-draw": {
+                    "name": "Power Draw",
+                    "isPercent": true,
+                    "min": 39,
+                    "max": 15
+                },
+                "kinetic-resistance": {
+                    "name": "Kinetic Resistance",
+                    "isPercent": false,
+                    "min": 10,
+                    "max": 12
+                },
+                "thermal-resistance": {
+                    "name": "Thermal Resistance",
+                    "isPercent": false,
+                    "min": 10,
+                    "max": 12
+                },
+                "explosive-resistance": {
+                    "name": "Explosive Resistance",
+                    "isPercent": false,
+                    "min": 10,
+                    "max": 12
+                },
+                "integrity": {
+                    "name": "Integrity",
+                    "isPercent": true,
+                    "min": -20,
+                    "max": -8
+                }
+            }
+        }
+    }
+}

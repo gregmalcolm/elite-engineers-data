@@ -1,0 +1,48 @@
+{
+    "name": "Sturdy Mount",
+    "module": "Beam Laser",
+    "recipes": {
+        "1": {
+            "components": {
+                "Nickel": 2,
+                "Vanadium": 1
+            },
+            "effects": {
+                "mass": {
+                    "name": "Mass",
+                    "isPercent": true,
+                    "min": 50,
+                    "max": 0
+                },
+                "integrity": {
+                    "name": "Integrity",
+                    "isPercent": true,
+                    "min": 10,
+                    "max": 25
+                }
+            }
+        },
+        "2": {
+            "components": {
+                "Nickel": 2,
+                "Shield Emitters": 2,
+                "Tungsten": 1,
+                "HN Shock Mount": 1
+            },
+            "effects": {
+                "mass": {
+                    "name": "Mass",
+                    "isPercent": true,
+                    "min": 100,
+                    "max": 50
+                },
+                "integrity": {
+                    "name": "Integrity",
+                    "isPercent": true,
+                    "min": 20,
+                    "max": 50
+                }
+            }
+        }
+    }
+}

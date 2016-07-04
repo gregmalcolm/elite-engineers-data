@@ -1,0 +1,26 @@
+{
+    "name": "Hera Tani",
+    "location": {
+        "system": "Kuwemaki",
+        "planet": "Kuwemaki"
+    },
+    "allegiance": "Empire",
+    "specialization": "Ship",
+    "welcomeGift": "50x Kamitra cigars",
+    "requirements": "Empire alligned / From Liz Ryder (Rank 3) / 'Outsider' or higher with the Empire.",
+    "modules": {
+        "Distributor": 3,
+        "Power Plant": 5
+    },
+    "blueprints": [
+        "distributor-high-charge-capacity-power-distributor",
+        "distributor-charge-enhanced-power-distributor",
+        "distributor-engine-focused-power-distributor",
+        "distributor-system-focused-power-distributor",
+        "distributor-weapon-focused-power-distributor",
+        "distributor-shielded-power-distributor",
+        "power-plant-armoured-power-plant",
+        "power-plant-overcharged-power-plant",
+        "power-plant-low-emissions-power-plant"
+    ]
+}

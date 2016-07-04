@@ -1,0 +1,174 @@
+{
+    "name": "Shielded FSD",
+    "module": "FSD",
+    "recipes": {
+        "1": {
+            "components": {
+                "Nickel": 1,
+                "Shield Emitters": 2
+            },
+            "effects": {
+                "mass": {
+                    "name": "Mass",
+                    "isPercent": true,
+                    "min": 31,
+                    "max": 25
+                },
+                "integrity": {
+                    "name": "Integrity",
+                    "isPercent": true,
+                    "min": 20,
+                    "max": 25
+                },
+                "thermal-load": {
+                    "name": "Thermal Load",
+                    "isPercent": true,
+                    "min": 0,
+                    "max": -6
+                },
+                "optimised-mass": {
+                    "name": "Optimised Mass",
+                    "isPercent": true,
+                    "min": -4,
+                    "max": 0
+                }
+            }
+        },
+        "2": {
+            "components": {
+                "Carbon": 1,
+                "Filament Composites": 2,
+                "Shielding Sensors": 2,
+                "Insulating Membrane": 1
+            },
+            "effects": {
+                "mass": {
+                    "name": "Mass",
+                    "isPercent": true,
+                    "min": 35,
+                    "max": 20
+                },
+                "integrity": {
+                    "name": "Integrity",
+                    "isPercent": true,
+                    "min": 31,
+                    "max": 50
+                },
+                "thermal-load": {
+                    "name": "Thermal Load",
+                    "isPercent": true,
+                    "min": -6,
+                    "max": -11
+                },
+                "optimised-mass": {
+                    "name": "Optimised Mass",
+                    "isPercent": true,
+                    "min": -6,
+                    "max": -2
+                }
+            }
+        },
+        "3": {
+            "components": {
+                "Carbon": 1,
+                "Filament Composites": 2,
+                "Shielding Sensors": 2,
+                "Micro-Weave Cooling Hoses": 1
+            },
+            "effects": {
+                "mass": {
+                    "name": "Mass",
+                    "isPercent": true,
+                    "min": 39,
+                    "max": 14
+                },
+                "integrity": {
+                    "name": "Integrity",
+                    "isPercent": true,
+                    "min": 39,
+                    "max": 75
+                },
+                "thermal-load": {
+                    "name": "Thermal Load",
+                    "isPercent": true,
+                    "min": -11,
+                    "max": -16
+                },
+                "optimised-mass": {
+                    "name": "Optimised Mass",
+                    "isPercent": true,
+                    "min": -10,
+                    "max": -5
+                }
+            }
+        },
+        "4": {
+            "components": {
+                "Vanadium": 1,
+                "High Density Composites": 2,
+                "Compound Shielding": 2,
+                "Bromellite": 1
+            },
+            "effects": {
+                "mass": {
+                    "name": "Mass",
+                    "isPercent": true,
+                    "min": 45,
+                    "max": 10
+                },
+                "integrity": {
+                    "name": "Integrity",
+                    "isPercent": true,
+                    "min": 50,
+                    "max": 100
+                },
+                "thermal-load": {
+                    "name": "Thermal Load",
+                    "isPercent": true,
+                    "min": 16,
+                    "max": 21
+                },
+                "optimised-mass": {
+                    "name": "Optimised Mass",
+                    "isPercent": true,
+                    "min": -12,
+                    "max": -6
+                }
+            }
+        },
+        "5": {
+            "components": {
+                "Tungsten": 1,
+                "Proprietary Composites": 2,
+                "Imperial Shielding": 1,
+                "Radiation Baffle": 1
+            },
+            "effects": {
+                "mass": {
+                    "name": "Mass",
+                    "isPercent": true,
+                    "min": 50,
+                    "max": 5
+                },
+                "integrity": {
+                    "name": "Integrity",
+                    "isPercent": true,
+                    "min": 61,
+                    "max": 125
+                },
+                "thermal-load": {
+                    "name": "Thermal Load",
+                    "isPercent": true,
+                    "min": 21,
+                    "max": 25
+                },
+                "optimised-mass": {
+                    "name": "Optimised Mass",
+                    "isPercent": true,
+                    "min": -16,
+                    "max": -8
+                }
+            }
+        }
+    }
+}

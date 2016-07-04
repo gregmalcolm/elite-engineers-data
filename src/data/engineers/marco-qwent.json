@@ -1,0 +1,26 @@
+{
+    "name": "Marco Qwent",
+    "location": {
+        "system": "Sirius",
+        "planet": "Lucifer"
+    },
+    "allegiance": "Independent",
+    "specialization": "Ship",
+    "welcomeGift": "25x Modular Terminals",
+    "requirements": "Sirius Corporation Invite / From Elvira Martuuk (Rank 3 ~30%)",
+    "modules": {
+        "Power Plant": 4,
+        "Distributor": 3
+    },
+    "blueprints": [
+        "power-plant-armoured-power-plant",
+        "power-plant-overcharged-power-plant",
+        "power-plant-low-emissions-power-plant",
+        "distributor-high-charge-capacity-power-distributor",
+        "distributor-charge-enhanced-power-distributor",
+        "distributor-engine-focused-power-distributor",
+        "distributor-system-focused-power-distributor",
+        "distributor-weapon-focused-power-distributor",
+        "distributor-shielded-power-distributor"
+    ]
+}

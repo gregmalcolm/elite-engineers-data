@@ -1,0 +1,40 @@
+{
+    "name": "Liz Ryder",
+    "location": {
+        "system": "Euribia",
+        "planet": "Makalu"
+    },
+    "allegiance": "Empire",
+    "specialization": "Weapons",
+    "welcomeGift": "200x Landmines",
+    "requirements": "Cordial reputation rank with Eurybia Blue Mafia",
+    "modules": {
+        "Hull Reinforcement": 1,
+        "Mine Launcher": 3,
+        "Seeker Missile Rack": 4,
+        "Armour": 1,
+        "Torpedo Pylon": 4
+    },
+    "blueprints": [
+        "hull-reinforcement-light-weight-hull-reinforcement",
+        "hull-reinforcement-blast-resistant-hull-reinforcement",
+        "hull-reinforcement-heavy-duty-hull-reinforcement",
+        "hull-reinforcement-kinetic-resistant-hull-reinforcement",
+        "hull-reinforcement-thermal-resistant-hull-reinforcement",
+        "mine-launcher-high-capacity-magazine",
+        "mine-launcher-rapid-fire-modification",
+        "mine-launcher-light-weight-mount",
+        "mine-launcher-sturdy-mount",
+        "seeker-missile-rack-high-capacity-magazine",
+        "seeker-missile-rack-rapid-fire-modification",
+        "seeker-missile-rack-light-weight-mount",
+        "seeker-missile-rack-sturdy-mount",
+        "armour-light-weight-armour",
+        "armour-blast-resistant-armour",
+        "armour-heavy-duty-armour",
+        "armour-kinetic-resistant-armour",
+        "armour-thermal-resistant-armour",
+        "torpedo-pylon-light-weight-mount",
+        "torpedo-pylon-sturdy-mount"
+    ]
+}

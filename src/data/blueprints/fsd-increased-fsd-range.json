@@ -1,0 +1,176 @@
+{
+    "name": "Increased FSD Range",
+    "module": "FSD",
+    "recipes": {
+        "1": {
+            "components": {
+                "Atypical Disrupted Wake Echoes": 2,
+                "Chemical Processors": 2,
+                "Arsenic": 1
+            },
+            "effects": {
+                "mass": {
+                    "name": "Mass",
+                    "isPercent": true,
+                    "min": 10,
+                    "max": 0
+                },
+                "integrity": {
+                    "name": "Integrity",
+                    "isPercent": true,
+                    "min": -5,
+                    "max": 0
+                },
+                "power-draw": {
+                    "name": "Power Draw",
+                    "isPercent": true,
+                    "min": 4,
+                    "max": 0
+                },
+                "optimised-mass": {
+                    "name": "Optimised Mass",
+                    "isPercent": true,
+                    "min": 0,
+                    "max": 4
+                }
+            }
+        },
+        "2": {
+            "components": {
+                "Atypical Disrupted Wake Echoes": 3,
+                "Chemical Processors": 2,
+                "Arsenic": 2,
+                "Praseodymium": 1
+            },
+            "effects": {
+                "mass": {
+                    "name": "Mass",
+                    "isPercent": true,
+                    "min": 20,
+                    "max": 5
+                },
+                "integrity": {
+                    "name": "Integrity",
+                    "isPercent": true,
+                    "min": -10,
+                    "max": -3
+                },
+                "power-draw": {
+                    "name": "Power Draw",
+                    "isPercent": true,
+                    "min": 10,
+                    "max": 2
+                },
+                "optimised-mass": {
+                    "name": "Optimised Mass",
+                    "isPercent": true,
+                    "min": 3,
+                    "max": 14
+                }
+            }
+        },
+        "3": {
+            "components": {
+                "Atypical Disrupted Wake Echoes": 2,
+                "Chemical Processors": 3,
+                "Selenium": 2,
+                "Yttrium": 1,
+                "Modular Terminals": 1
+            },
+            "effects": {
+                "mass": {
+                    "name": "Mass",
+                    "isPercent": true,
+                    "min": 30,
+                    "max": 10
+                },
+                "integrity": {
+                    "name": "Integrity",
+                    "isPercent": true,
+                    "min": -15,
+                    "max": -6
+                },
+                "power-draw": {
+                    "name": "Power Draw",
+                    "isPercent": true,
+                    "min": 14,
+                    "max": 5
+                },
+                "optimised-mass": {
+                    "name": "Optimised Mass",
+                    "isPercent": true,
+                    "min": 8,
+                    "max": 25
+                }
+            }
+        },
+        "4": {
+            "components": {
+                "Anomalous FSD Telemetry": 2,
+                "Chemical Distillery": 3,
+                "Yttrium": 2,
+                "Energy Grid Assembly": 1
+            },
+            "effects": {
+                "mass": {
+                    "name": "Mass",
+                    "isPercent": true,
+                    "min": 39,
+                    "max": 14
+                },
+                "integrity": {
+                    "name": "Integrity",
+                    "isPercent": true,
+                    "min": -20,
+                    "max": -9
+                },
+                "power-draw": {
+                    "name": "Power Draw",
+                    "isPercent": true,
+                    "min": 20,
+                    "max": 9
+                },
+                "optimised-mass": {
+                    "name": "Optimised Mass",
+                    "isPercent": true,
+                    "min": 11,
+                    "max": 35
+                }
+            }
+        },
+        "5": {
+            "components": {
+                "Strange Wake Solutions": 2,
+                "Chemical Manipulators": 2,
+                "Polonium": 2,
+                "Magnetic Emitter Coil": 1
+            },
+            "effects": {
+                "mass": {
+                    "name": "Mass",
+                    "isPercent": true,
+                    "min": 50,
+                    "max": 20
+                },
+                "integrity": {
+                    "name": "Integrity",
+                    "isPercent": true,
+                    "min": -25,
+                    "max": -12
+                },
+                "power-draw": {
+                    "name": "Power Draw",
+                    "isPercent": true,
+                    "min": 25,
+                    "max": 11
+                },
+                "optimised-mass": {
+                    "name": "Optimised Mass",
+                    "isPercent": true,
+                    "min": 15,
+                    "max": 45
+                }
+            }
+        }
+    }
+}

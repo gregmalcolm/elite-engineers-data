@@ -1,0 +1,208 @@
+{
+    "name": "High Capacity Magazine",
+    "module": "Multi-Cannon",
+    "recipes": {
+        "1": {
+            "components": {
+                "Mechanical Scrap": 2,
+                "Vanadium": 2,
+                "Electrochemical Arrays": 1
+            },
+            "effects": {
+                "ammo-clip-size": {
+                    "name": "Ammo Clip Size",
+                    "isPercent": true,
+                    "min": 10,
+                    "max": 61
+                },
+                "ammo-maximum": {
+                    "name": "Ammo Maximum",
+                    "isPercent": true,
+                    "min": 10,
+                    "max": 61
+                },
+                "mass": {
+                    "name": "Mass",
+                    "isPercent": true,
+                    "min": 25,
+                    "max": 10
+                },
+                "reload-time": {
+                    "name": "Reload Time",
+                    "isPercent": true,
+                    "min": 20,
+                    "max": 0
+                },
+                "power-draw": {
+                    "name": "Power Draw",
+                    "isPercent": true,
+                    "min": 20,
+                    "max": 10
+                }
+            }
+        },
+        "2": {
+            "components": {
+                "Mechanical Scrap": 2,
+                "Vanadium": 2,
+                "Niobium": 1,
+                "Polymer Capacitors": 1,
+                "CMM Composite": 1
+            },
+            "effects": {
+                "ammo-clip-size": {
+                    "name": "Ammo Clip Size",
+                    "isPercent": true,
+                    "min": 20,
+                    "max": 70
+                },
+                "ammo-maximum": {
+                    "name": "Ammo Maximum",
+                    "isPercent": true,
+                    "min": 19,
+                    "max": 69
+                },
+                "mass": {
+                    "name": "Mass",
+                    "isPercent": true,
+                    "min": 50,
+                    "max": 20
+                },
+                "reload-time": {
+                    "name": "Reload Time",
+                    "isPercent": true,
+                    "min": 39,
+                    "max": 10
+                },
+                "power-draw": {
+                    "name": "Power Draw",
+                    "isPercent": true,
+                    "min": 25,
+                    "max": 14
+                }
+            }
+        },
+        "3": {
+            "components": {
+                "Mechanical Scrap": 1,
+                "Vanadium": 3,
+                "Niobium": 2,
+                "Polymer Capacitors": 1,
+                "Reinforced Mounting Plate": 1
+            },
+            "effects": {
+                "ammo-clip-size": {
+                    "name": "Ammo Clip Size",
+                    "isPercent": true,
+                    "min": 28,
+                    "max": 81
+                },
+                "ammo-maximum": {
+                    "name": "Ammo Maximum",
+                    "isPercent": true,
+                    "min": 29,
+                    "max": 79
+                },
+                "mass": {
+                    "name": "Mass",
+                    "isPercent": true,
+                    "min": 75,
+                    "max": 29
+                },
+                "reload-time": {
+                    "name": "Reload Time",
+                    "isPercent": true,
+                    "min": 61,
+                    "max": 20
+                },
+                "power-draw": {
+                    "name": "Power Draw",
+                    "isPercent": true,
+                    "min": 29,
+                    "max": 20
+                }
+            }
+        },
+        "4": {
+            "components": {
+                "Mechanical Equipment": 1,
+                "High Density Composites": 3,
+                "Tin": 1,
+                "Military Supercapacitors": 1,
+                "Reinforced Mounting Plate": 1
+            },
+            "effects": {
+                "ammo-clip-size": {
+                    "name": "Ammo Clip Size",
+                    "isPercent": true,
+                    "min": 39,
+                    "max": 90
+                },
+                "ammo-maximum": {
+                    "name": "Ammo Maximum",
+                    "isPercent": true,
+                    "min": 39,
+                    "max": 89
+                },
+                "mass": {
+                    "name": "Mass",
+                    "isPercent": true,
+                    "min": 100,
+                    "max": 39
+                },
+                "reload-time": {
+                    "name": "Reload Time",
+                    "isPercent": true,
+                    "min": 81,
+                    "max": 31
+                },
+                "power-draw": {
+                    "name": "Power Draw",
+                    "isPercent": true,
+                    "min": 35,
+                    "max": 25
+                }
+            }
+        },
+        "5": {
+            "components": {
+                "Mechanical Components": 1,
+                "Proprietary Composites": 2,
+                "Military Supercapacitors": 2,
+                "Reinforced Mounting Plate": 2
+            },
+            "effects": {
+                "ammo-clip-size": {
+                    "name": "Ammo Clip Size",
+                    "isPercent": true,
+                    "min": 50,
+                    "max": 100
+                },
+                "ammo-maximum": {
+                    "name": "Ammo Maximum",
+                    "isPercent": true,
+                    "min": 50,
+                    "max": 100
+                },
+                "mass": {
+                    "name": "Mass",
+                    "isPercent": true,
+                    "min": 125,
+                    "max": 50
+                },
+                "reload-time": {
+                    "name": "Reload Time",
+                    "isPercent": true,
+                    "min": 100,
+                    "max": 39
+                },
+                "power-draw": {
+                    "name": "Power Draw",
+                    "isPercent": true,
+                    "min": 39,
+                    "max": 29
+                }
+            }
+        }
+    }
+}

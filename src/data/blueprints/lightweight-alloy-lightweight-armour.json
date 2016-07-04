@@ -1,0 +1,109 @@
+{
+    "name": "Lightweight Armour",
+    "module": "Lightweight Alloy",
+    "recipes": {
+        "1": {
+            "components": {
+                "Iron": 2,
+                "Conductive Components": 1,
+                "High Density Composites": 1
+            },
+            "effects": {
+                "hull-boost": {
+                    "name": "Hull Boost",
+                    "isPercent": true,
+                    "min": -3,
+                    "max": 0
+                },
+                "kinetic-resistance": {
+                    "name": "Kinetic Resistance",
+                    "isPercent": false,
+                    "min": 0,
+                    "max": 2
+                },
+                "thermal-resistance": {
+                    "name": "Thermal Resistance",
+                    "isPercent": false,
+                    "min": 0,
+                    "max": 2
+                },
+                "explosive-resistance": {
+                    "name": "Explosive Resistance",
+                    "isPercent": false,
+                    "min": 0,
+                    "max": 3
+                }
+            }
+        },
+        "2": {
+            "components": {
+                "Iron": 1,
+                "Conductive Components": 2,
+                "High Density Composites": 2,
+                "Thermic Alloys": 2,
+                "HN Shock Mount": 1
+            },
+            "effects": {
+                "hull-boost": {
+                    "name": "Hull Boost",
+                    "isPercent": true,
+                    "min": -5,
+                    "max": -3
+                },
+                "kinetic-resistance": {
+                    "name": "Kinetic Resistance",
+                    "isPercent": false,
+                    "min": 1,
+                    "max": 5
+                },
+                "thermal-resistance": {
+                    "name": "Thermal Resistance",
+                    "isPercent": false,
+                    "min": 1,
+                    "max": 4
+                },
+                "explosive-resistance": {
+                    "name": "Explosive Resistance",
+                    "isPercent": false,
+                    "min": 1,
+                    "max": 6
+                }
+            }
+        },
+        "3": {
+            "components": {
+                "Iron": 1,
+                "Conductive Components": 3,
+                "High Density Composites": 2,
+                "Thermic Alloys": 2,
+                "Telemetry Suite": 1
+            },
+            "effects": {
+                "hull-boost": {
+                    "name": "Hull Boost",
+                    "isPercent": true,
+                    "min": -7,
+                    "max": -5
+                },
+                "kinetic-resistance": {
+                    "name": "Kinetic Resistance",
+                    "isPercent": false,
+                    "min": 2,
+                    "max": 7
+                },
+                "thermal-resistance": {
+                    "name": "Thermal Resistance",
+                    "isPercent": false,
+                    "min": 2,
+                    "max": 6
+                },
+                "explosive-resistance": {
+                    "name": "Explosive Resistance",
+                    "isPercent": false,
+                    "min": 3,
+                    "max": 8
+                }
+            }
+        }
+    }
+}

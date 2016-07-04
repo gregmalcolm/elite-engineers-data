@@ -1,0 +1,148 @@
+{
+    "name": "Overcharged Power Plant",
+    "module": "Power Plant",
+    "recipes": {
+        "1": {
+            "components": {
+                "Sulphur": 2,
+                "Conductive Components": 1,
+                "Chemical Distillery": 1
+            },
+            "effects": {
+                "power-capacity": {
+                    "name": "Power Capacity",
+                    "isPercent": true,
+                    "min": 0,
+                    "max": 5
+                },
+                "integrity": {
+                    "name": "Integrity",
+                    "isPercent": true,
+                    "min": -11,
+                    "max": 0
+                },
+                "heat-efficiency": {
+                    "name": "Heat Efficiency",
+                    "isPercent": true,
+                    "min": 10,
+                    "max": 0
+                }
+            }
+        },
+        "2": {
+            "components": {
+                "Heat Conduction Wiring": 2,
+                "Conductive Components": 2,
+                "Selenium": 1,
+                "Chemical Manipulators": 1,
+                "Platinum": 1
+            },
+            "effects": {
+                "power-capacity": {
+                    "name": "Power Capacity",
+                    "isPercent": true,
+                    "min": 1,
+                    "max": 11
+                },
+                "integrity": {
+                    "name": "Integrity",
+                    "isPercent": true,
+                    "min": -20,
+                    "max": -5
+                },
+                "heat-efficiency": {
+                    "name": "Heat Efficiency",
+                    "isPercent": true,
+                    "min": 20,
+                    "max": 4
+                }
+            }
+        },
+        "3": {
+            "components": {
+                "Heat Conduction Wiring": 1,
+                "Conductive Components": 2,
+                "Selenium": 2,
+                "Chemical Manipulators": 2,
+                "Emergency Power Cells": 1
+            },
+            "effects": {
+                "power-capacity": {
+                    "name": "Power Capacity",
+                    "isPercent": true,
+                    "min": 3,
+                    "max": 18
+                },
+                "integrity": {
+                    "name": "Integrity",
+                    "isPercent": true,
+                    "min": -30,
+                    "max": -11
+                },
+                "heat-efficiency": {
+                    "name": "Heat Efficiency",
+                    "isPercent": true,
+                    "min": 29,
+                    "max": 10
+                }
+            }
+        },
+        "4": {
+            "components": {
+                "Heat Dispersion Plate": 1,
+                "Conductive Ceramics": 2,
+                "Cadmium": 2,
+                "Pharmaceutical Isolators": 1,
+                "Energy Grid Assembly": 1
+            },
+            "effects": {
+                "power-capacity": {
+                    "name": "Power Capacity",
+                    "isPercent": true,
+                    "min": 5,
+                    "max": 23
+                },
+                "integrity": {
+                    "name": "Integrity",
+                    "isPercent": true,
+                    "min": -40,
+                    "max": -15
+                },
+                "heat-efficiency": {
+                    "name": "Heat Efficiency",
+                    "isPercent": true,
+                    "min": 39,
+                    "max": 14
+                }
+            }
+        },
+        "5": {
+            "components": {
+                "Conductive Ceramics": 1,
+                "Cadmium": 2,
+                "Pharmaceutical Isolators": 2,
+                "Energy Grid Assembly": 1
+            },
+            "effects": {
+                "power-capacity": {
+                    "name": "Power Capacity",
+                    "isPercent": true,
+                    "min": 8,
+                    "max": 29
+                },
+                "integrity": {
+                    "name": "Integrity",
+                    "isPercent": true,
+                    "min": -50,
+                    "max": -20
+                },
+                "heat-efficiency": {
+                    "name": "Heat Efficiency",
+                    "isPercent": true,
+                    "min": 50,
+                    "max": 20
+                }
+            }
+        }
+    }
+}

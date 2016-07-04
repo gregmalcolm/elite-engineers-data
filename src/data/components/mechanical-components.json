@@ -1,0 +1,8 @@
+{
+    "name": "Mechanical Components",
+    "type": "Man",
+    "subtype": "Mechanical Component",
+    "rarity": "Std",
+    "location": [],
+    "missionReward": false
+}

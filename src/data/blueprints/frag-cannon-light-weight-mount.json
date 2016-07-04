@@ -1,0 +1,140 @@
+{
+    "name": "Light Weight Mount",
+    "module": "Frag Cannon",
+    "recipes": {
+        "1": {
+            "components": {
+                "Phosphorus": 2,
+                "Galvanising Alloys": 1
+            },
+            "effects": {
+                "mass": {
+                    "name": "Mass",
+                    "isPercent": true,
+                    "min": 0,
+                    "max": -11
+                },
+                "integrity": {
+                    "name": "Integrity",
+                    "isPercent": true,
+                    "min": -20,
+                    "max": 0
+                },
+                "damage-per-second": {
+                    "name": "Damage Per Second",
+                    "isPercent": true,
+                    "min": -2,
+                    "max": 0
+                },
+                "damage": {
+                    "name": "Damage",
+                    "isPercent": true,
+                    "min": -1,
+                    "max": 0
+                }
+            }
+        },
+        "2": {
+            "components": {
+                "Heat Conduction Wiring": 2,
+                "Manganese": 2,
+                "Phase Alloys": 1,
+                "CMM Composite": 1
+            },
+            "effects": {
+                "mass": {
+                    "name": "Mass",
+                    "isPercent": true,
+                    "min": -11,
+                    "max": -31
+                },
+                "integrity": {
+                    "name": "Integrity",
+                    "isPercent": true,
+                    "min": -31,
+                    "max": -10
+                },
+                "damage-per-second": {
+                    "name": "Damage Per Second",
+                    "isPercent": true,
+                    "min": -2,
+                    "max": 0
+                },
+                "damage": {
+                    "name": "Damage",
+                    "isPercent": true,
+                    "min": -3,
+                    "max": 0
+                }
+            }
+        },
+        "3": {
+            "components": {
+                "Heat Conduction Wiring": 1,
+                "Manganese": 1,
+                "Conductive Ceramics": 2,
+                "Proto Light Alloys": 1,
+                "CMM Composite": 1
+            },
+            "effects": {
+                "mass": {
+                    "name": "Mass",
+                    "isPercent": true,
+                    "min": -20,
+                    "max": -50
+                },
+                "integrity": {
+                    "name": "Integrity",
+                    "isPercent": true,
+                    "min": -40,
+                    "max": -20
+                },
+                "damage-per-second": {
+                    "name": "Damage Per Second",
+                    "isPercent": true,
+                    "min": -3,
+                    "max": 0
+                },
+                "damage": {
+                    "name": "Damage",
+                    "isPercent": true,
+                    "min": -4,
+                    "max": 0
+                }
+            }
+        },
+        "4": {
+            "components": {
+                "Conductive Ceramics": 2,
+                "Proto Light Alloys": 2,
+                "Magnetic Emitter Coil": 1
+            },
+            "effects": {
+                "mass": {
+                    "name": "Mass",
+                    "isPercent": true,
+                    "min": -31,
+                    "max": -70
+                },
+                "integrity": {
+                    "name": "Integrity",
+                    "isPercent": true,
+                    "min": -50,
+                    "max": -31
+                },
+                "damage-per-second": {
+                    "name": "Damage Per Second",
+                    "isPercent": true,
+                    "min": -5,
+                    "max": 0
+                },
+                "damage": {
+                    "name": "Damage",
+                    "isPercent": true,
+                    "min": -5,
+                    "max": 0
+                }
+            }
+        }
+    }
+}

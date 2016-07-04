@@ -1,0 +1,38 @@
+{
+    "name": "Longer Range FSD interdictor",
+    "module": "Interdictor",
+    "recipes": {
+        "1": {
+            "components": {
+                "Iron": 2,
+                "Tagged Encryption Codes": 1
+            },
+            "effects": {
+                "range": {
+                    "name": "Range",
+                    "isPercent": true,
+                    "min": 0,
+                    "max": 10
+                },
+                "mass": {
+                    "name": "Mass",
+                    "isPercent": true,
+                    "min": 10,
+                    "max": 0
+                },
+                "power-draw": {
+                    "name": "Power Draw",
+                    "isPercent": true,
+                    "min": 14,
+                    "max": 0
+                },
+                "facing-limit": {
+                    "name": "Facing Limit",
+                    "isPercent": false,
+                    "min": -11,
+                    "max": 0
+                }
+            }
+        }
+    }
+}

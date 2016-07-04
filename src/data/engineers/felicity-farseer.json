@@ -1,0 +1,37 @@
+{
+    "name": "Felicity Farseer",
+    "location": {
+        "system": "Deciat",
+        "planet": "6 A",
+        "base": "Farseer Inc."
+    },
+    "allegiance": "Federation",
+    "specialization": "Exploration",
+    "welcomeGift": "1x Metal Alloy",
+    "requirements": "Scout Explorer rank",
+    "modules": {
+        "FSD": 5,
+        "Thrusters": 3,
+        "Booster (Shield)": 1,
+        "Power Plant": 1,
+        "Interdictor": 1
+    },
+    "blueprints": [
+        "fsd-faster-fsd-boot-sequence",
+        "fsd-increased-fsd-range",
+        "fsd-shielded-fsd",
+        "thrusters-dirty-drive-tuning",
+        "thrusters-drive-strengthening",
+        "thrusters-clean-drive-tuning",
+        "booster-shield-blast-resistant-shield-booster",
+        "booster-shield-heavy-duty-shield-booster",
+        "booster-shield-kinetic-resistant-shield-booster",
+        "booster-shield-resistance-augmented-shield-booster",
+        "booster-shield-thermal-resistant-shield-booster",
+        "power-plant-armoured-power-plant",
+        "power-plant-overcharged-power-plant",
+        "power-plant-low-emissions-power-plant",
+        "interdictor-expanded-fsd-interdictor-capture-arc",
+        "interdictor-longer-range-fsd-interdictor"
+    ]
+}

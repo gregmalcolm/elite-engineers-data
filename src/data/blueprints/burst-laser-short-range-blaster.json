@@ -1,0 +1,126 @@
+{
+    "name": "Short Range Blaster",
+    "module": "Burst Laser",
+    "recipes": {
+        "1": {
+            "components": {
+                "Nickel": 2,
+                "Modified Consumer Firmware": 1
+            },
+            "effects": {
+                "maximum-range": {
+                    "name": "Maximum Range",
+                    "isPercent": true,
+                    "min": -36,
+                    "max": -11
+                },
+                "damage-per-second": {
+                    "name": "Damage Per Second",
+                    "isPercent": true,
+                    "min": 3,
+                    "max": 8
+                },
+                "damage": {
+                    "name": "Damage",
+                    "isPercent": true,
+                    "min": 3,
+                    "max": 8
+                },
+                "distributor-draw": {
+                    "name": "Distributor Draw",
+                    "isPercent": true,
+                    "min": 10,
+                    "max": -11
+                }
+            }
+        },
+        "2": {
+            "components": {
+                "Nickel": 2,
+                "Modified Consumer Firmware": 2,
+                "Electrochemical Arrays": 1,
+                "Insulating Membrane": 1,
+                "Insulatnig Membrane": 1
+            },
+            "effects": {
+                "maximum-range": {
+                    "name": "Maximum Range",
+                    "isPercent": true,
+                    "min": -45,
+                    "max": -20
+                },
+                "damage-per-second": {
+                    "name": "Damage Per Second",
+                    "isPercent": true,
+                    "min": 8,
+                    "max": 15
+                },
+                "damage": {
+                    "name": "Damage",
+                    "isPercent": true,
+                    "min": 8,
+                    "max": 15
+                },
+                "distributor-draw": {
+                    "name": "Distributor Draw",
+                    "isPercent": true,
+                    "min": 14,
+                    "max": -6
+                },
+                "thermal-load": {
+                    "name": "Thermal Load",
+                    "isPercent": true,
+                    "min": 20,
+                    "max": 10
+                }
+            }
+        },
+        "3": {
+            "components": {
+                "Nickel": 1,
+                "Modified Consumer Firmware": 2,
+                "Electrochemical Arrays": 1,
+                "Conductive Polymers": 1,
+                "Neofabric Insulation": 1
+            },
+            "effects": {
+                "maximum-range": {
+                    "name": "Maximum Range",
+                    "isPercent": true,
+                    "min": -55,
+                    "max": -31
+                },
+                "damage-per-second": {
+                    "name": "Damage Per Second",
+                    "isPercent": true,
+                    "min": 12,
+                    "max": 23
+                },
+                "damage": {
+                    "name": "Damage",
+                    "isPercent": true,
+                    "min": 11,
+                    "max": 23
+                },
+                "distributor-draw": {
+                    "name": "Distributor Draw",
+                    "isPercent": true,
+                    "min": 20,
+                    "max": 0
+                },
+                "thermal-load": {
+                    "name": "Thermal Load",
+                    "isPercent": true,
+                    "min": 29,
+                    "max": 20
+                },
+                "integrity": {
+                    "name": "Integrity",
+                    "isPercent": true,
+                    "min": -20,
+                    "max": -10
+                }
+            }
+        }
+    }
+}

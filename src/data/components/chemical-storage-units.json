@@ -1,0 +1,8 @@
+{
+    "name": "Chemical Storage Units",
+    "type": "Man",
+    "subtype": "Chemical Manipulator",
+    "rarity": "VCom",
+    "location": [],
+    "missionReward": false
+}

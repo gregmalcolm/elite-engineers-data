@@ -1,0 +1,8 @@
+{
+    "name": "Insulating Membrane",
+    "type": "Com",
+    "subtype": "Commodity",
+    "rarity": "Std",
+    "location": [],
+    "missionReward": true
+}

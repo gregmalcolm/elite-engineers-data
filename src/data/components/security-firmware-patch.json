@@ -1,0 +1,8 @@
+{
+    "name": "Security Firmware Patch",
+    "type": "Data",
+    "subtype": "Firmware",
+    "rarity": "Rare",
+    "location": [],
+    "missionReward": true
+}

@@ -1,0 +1,204 @@
+{
+    "name": "Heavy Duty Hull Reinforcement",
+    "module": "Hull Reinforcement",
+    "recipes": {
+        "1": {
+            "components": {
+                "Carbon": 1,
+                "Shield Emitters": 2
+            },
+            "effects": {
+                "mass": {
+                    "name": "Mass",
+                    "isPercent": true,
+                    "min": 8,
+                    "max": 0
+                },
+                "hull-reinforcement": {
+                    "name": "Hull Reinforcement",
+                    "isPercent": false,
+                    "min": 0,
+                    "max": 10
+                },
+                "kinetic-resistance": {
+                    "name": "Kinetic Resistance",
+                    "isPercent": false,
+                    "min": 0,
+                    "max": 3
+                },
+                "thermal-resistance": {
+                    "name": "Thermal Resistance",
+                    "isPercent": false,
+                    "min": 0,
+                    "max": 3
+                },
+                "explosive-resistance": {
+                    "name": "Explosive Resistance",
+                    "isPercent": false,
+                    "min": 0,
+                    "max": 3
+                }
+            }
+        },
+        "2": {
+            "components": {
+                "Carbon": 1,
+                "Shield Emitters": 2,
+                "High Density Composites": 2,
+                "Articulation Motors": 1
+            },
+            "effects": {
+                "mass": {
+                    "name": "Mass",
+                    "isPercent": true,
+                    "min": 15,
+                    "max": 4
+                },
+                "hull-reinforcement": {
+                    "name": "Hull Reinforcement",
+                    "isPercent": false,
+                    "min": 5,
+                    "max": 20
+                },
+                "kinetic-resistance": {
+                    "name": "Kinetic Resistance",
+                    "isPercent": false,
+                    "min": 1,
+                    "max": 6
+                },
+                "thermal-resistance": {
+                    "name": "Thermal Resistance",
+                    "isPercent": false,
+                    "min": 1,
+                    "max": 6
+                },
+                "explosive-resistance": {
+                    "name": "Explosive Resistance",
+                    "isPercent": false,
+                    "min": 1,
+                    "max": 6
+                }
+            }
+        },
+        "3": {
+            "components": {
+                "Carbon": 1,
+                "Shield Emitters": 3,
+                "High Density Composites": 3,
+                "Reinforced Mounting Plate": 1
+            },
+            "effects": {
+                "mass": {
+                    "name": "Mass",
+                    "isPercent": true,
+                    "min": 23,
+                    "max": 10
+                },
+                "hull-reinforcement": {
+                    "name": "Hull Reinforcement",
+                    "isPercent": true,
+                    "min": 10,
+                    "max": 31
+                },
+                "kinetic-resistance": {
+                    "name": "Kinetic Resistance",
+                    "isPercent": false,
+                    "min": 2,
+                    "max": 9
+                },
+                "thermal-resistance": {
+                    "name": "Thermal Resistance",
+                    "isPercent": false,
+                    "min": 2,
+                    "max": 9
+                },
+                "explosive-resistance": {
+                    "name": "Explosive Resistance",
+                    "isPercent": false,
+                    "min": 2,
+                    "max": 9
+                }
+            }
+        },
+        "4": {
+            "components": {
+                "Vanadium": 1,
+                "Shielding Sensors": 3,
+                "Proprietary Composites": 2,
+                "Reinforced Mounting Plate": 1
+            },
+            "effects": {
+                "mass": {
+                    "name": "Mass",
+                    "isPercent": true,
+                    "min": 31,
+                    "max": 14
+                },
+                "hull-reinforcement": {
+                    "name": "Hull Reinforcement",
+                    "isPercent": true,
+                    "min": 14,
+                    "max": 39
+                },
+                "kinetic-resistance": {
+                    "name": "Kinetic Resistance",
+                    "isPercent": false,
+                    "min": 3,
+                    "max": 12
+                },
+                "thermal-resistance": {
+                    "name": "Thermal Resistance",
+                    "isPercent": false,
+                    "min": 3,
+                    "max": 12
+                },
+                "explosive-resistance": {
+                    "name": "Explosive Resistance",
+                    "isPercent": false,
+                    "min": 3,
+                    "max": 12
+                }
+            }
+        },
+        "5": {
+            "components": {
+                "Tungsten": 1,
+                "Compound Shielding": 2,
+                "Core Dynamics Composites": 2,
+                "Reinforced Mounting Plate": 1
+            },
+            "effects": {
+                "mass": {
+                    "name": "Mass",
+                    "isPercent": true,
+                    "min": 39,
+                    "max": 20
+                },
+                "hull-reinforcement": {
+                    "name": "Hull Reinforcement",
+                    "isPercent": true,
+                    "min": 20,
+                    "max": 50
+                },
+                "kinetic-resistance": {
+                    "name": "Kinetic Resistance",
+                    "isPercent": false,
+                    "min": 4,
+                    "max": 15
+                },
+                "thermal-resistance": {
+                    "name": "Thermal Resistance",
+                    "isPercent": false,
+                    "min": 4,
+                    "max": 15
+                },
+                "explosive-resistance": {
+                    "name": "Explosive Resistance",
+                    "isPercent": false,
+                    "min": 4,
+                    "max": 15
+                }
+            }
+        }
+    }
+}

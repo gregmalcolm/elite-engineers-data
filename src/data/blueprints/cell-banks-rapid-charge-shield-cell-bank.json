@@ -1,0 +1,38 @@
+{
+    "name": "Rapid Charge Shield Cell Bank",
+    "module": "Cell Banks",
+    "recipes": {
+        "1": {
+            "components": {
+                "Sulphur": 2,
+                "Heat Dispersion Plate": 2
+            },
+            "effects": {
+                "spin-up-time": {
+                    "name": "Spin Up Time",
+                    "isPercent": true,
+                    "min": 0,
+                    "max": -10
+                },
+                "duration": {
+                    "name": "Duration",
+                    "isPercent": true,
+                    "min": -10,
+                    "max": 0
+                },
+                "shield-reinforcement": {
+                    "name": "Shield Reinforcement",
+                    "isPercent": true,
+                    "min": 1,
+                    "max": 2
+                },
+                "boot-time": {
+                    "name": "Boot Time",
+                    "isPercent": true,
+                    "min": 10,
+                    "max": 0
+                }
+            }
+        }
+    }
+}

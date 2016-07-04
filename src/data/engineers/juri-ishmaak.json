@@ -1,0 +1,28 @@
+{
+    "name": "Juri Ishmaak",
+    "location": {
+        "system": "Giryak",
+        "planet": "2 A"
+    },
+    "allegiance": "Federation",
+    "specialization": "Weapons",
+    "welcomeGift": "1,000,000 Cr in combat bonds",
+    "requirements": "Federation alligned / From Felicity Farseer (Rank 3 ~50%) / Have claimed at least 50 combat bonds",
+    "modules": {
+        "Mine Launcher": 4,
+        "Torpedo Pylon": 3,
+        "Seeker Missile Rack": 4
+    },
+    "blueprints": [
+        "mine-launcher-high-capacity-magazine",
+        "mine-launcher-rapid-fire-modification",
+        "mine-launcher-light-weight-mount",
+        "mine-launcher-sturdy-mount",
+        "torpedo-pylon-light-weight-mount",
+        "torpedo-pylon-sturdy-mount",
+        "seeker-missile-rack-high-capacity-magazine",
+        "seeker-missile-rack-rapid-fire-modification",
+        "seeker-missile-rack-light-weight-mount",
+        "seeker-missile-rack-sturdy-mount"
+    ]
+}

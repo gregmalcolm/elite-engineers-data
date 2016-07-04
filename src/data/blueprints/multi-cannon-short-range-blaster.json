@@ -1,0 +1,234 @@
+{
+    "name": "Short Range Blaster",
+    "module": "Multi-Cannon",
+    "recipes": {
+        "1": {
+            "components": {
+                "Nickel": 2,
+                "Modified Consumer Firmware": 1
+            },
+            "effects": {
+                "maximum-range": {
+                    "name": "Maximum Range",
+                    "isPercent": true,
+                    "min": -35,
+                    "max": -10
+                },
+                "damage-per-second": {
+                    "name": "Damage Per Second",
+                    "isPercent": true,
+                    "min": 3,
+                    "max": 7
+                },
+                "damage": {
+                    "name": "Damage",
+                    "isPercent": true,
+                    "min": 3,
+                    "max": 8
+                },
+                "distributor-draw": {
+                    "name": "Distributor Draw",
+                    "isPercent": true,
+                    "min": 10,
+                    "max": -10
+                },
+                "thermal-load": {
+                    "name": "Thermal Load",
+                    "isPercent": true,
+                    "min": 0,
+                    "max": 0
+                },
+                "integrity": {
+                    "name": "Integrity",
+                    "isPercent": true,
+                    "min": 0,
+                    "max": 0
+                }
+            }
+        },
+        "2": {
+            "components": {
+                "Nickel": 2,
+                "Modified Consumer Firmware": 2,
+                "Electrochemical Arrays": 1,
+                "Insulating Membrane": 1
+            },
+            "effects": {
+                "maximum-range": {
+                    "name": "Maximum Range",
+                    "isPercent": true,
+                    "min": -45,
+                    "max": -20
+                },
+                "damage-per-second": {
+                    "name": "Damage Per Second",
+                    "isPercent": true,
+                    "min": 7,
+                    "max": 15
+                },
+                "damage": {
+                    "name": "Damage",
+                    "isPercent": true,
+                    "min": 8,
+                    "max": 15
+                },
+                "distributor-draw": {
+                    "name": "Distributor Draw",
+                    "isPercent": true,
+                    "min": 15,
+                    "max": -6
+                },
+                "thermal-load": {
+                    "name": "Thermal Load",
+                    "isPercent": true,
+                    "min": 20,
+                    "max": 10
+                },
+                "integrity": {
+                    "name": "Integrity",
+                    "isPercent": true,
+                    "min": 0,
+                    "max": 0
+                }
+            }
+        },
+        "3": {
+            "components": {
+                "Nickel": 1,
+                "Modified Consumer Firmware": 2,
+                "Electrochemical Arrays": 1,
+                "Conductive Polymers": 1,
+                "Neofabric Insulation": 1
+            },
+            "effects": {
+                "maximum-range": {
+                    "name": "Maximum Range",
+                    "isPercent": true,
+                    "min": -55,
+                    "max": -30
+                },
+                "damage-per-second": {
+                    "name": "Damage Per Second",
+                    "isPercent": true,
+                    "min": 11,
+                    "max": 23
+                },
+                "damage": {
+                    "name": "Damage",
+                    "isPercent": true,
+                    "min": 11,
+                    "max": 23
+                },
+                "distributor-draw": {
+                    "name": "Distributor Draw",
+                    "isPercent": true,
+                    "min": 20,
+                    "max": 0
+                },
+                "thermal-load": {
+                    "name": "Thermal Load",
+                    "isPercent": true,
+                    "min": 29,
+                    "max": 20
+                },
+                "integrity": {
+                    "name": "Integrity",
+                    "isPercent": true,
+                    "min": -20,
+                    "max": -10
+                }
+            }
+        },
+        "4": {
+            "components": {
+                "Modified Consumer Firmware": 1,
+                "Electrochemical Arrays": 2,
+                "Conductive Polymers": 2,
+                "Platinum": 1
+            },
+            "effects": {
+                "maximum-range": {
+                    "name": "Maximum Range",
+                    "isPercent": true,
+                    "min": -65,
+                    "max": -40
+                },
+                "damage-per-second": {
+                    "name": "Damage Per Second",
+                    "isPercent": true,
+                    "min": 15,
+                    "max": 32
+                },
+                "damage": {
+                    "name": "Damage",
+                    "isPercent": true,
+                    "min": 15,
+                    "max": 31
+                },
+                "distributor-draw": {
+                    "name": "Distributor Draw",
+                    "isPercent": true,
+                    "min": 25,
+                    "max": 4
+                },
+                "thermal-load": {
+                    "name": "Thermal Load",
+                    "isPercent": true,
+                    "min": 39,
+                    "max": 29
+                },
+                "integrity": {
+                    "name": "Integrity",
+                    "isPercent": true,
+                    "min": -30,
+                    "max": -20
+                }
+            }
+        },
+        "5": {
+            "components": {
+                "Security Firmware Patch": 2,
+                "Improvised Components": 1,
+                "Magnetic Emitter Coil": 1
+            },
+            "effects": {
+                "maximum-range": {
+                    "name": "Maximum Range",
+                    "isPercent": true,
+                    "min": -75,
+                    "max": -50
+                },
+                "damage-per-second": {
+                    "name": "Damage Per Second",
+                    "isPercent": true,
+                    "min": 20,
+                    "max": 39
+                },
+                "damage": {
+                    "name": "Damage",
+                    "isPercent": true,
+                    "min": 20,
+                    "max": 39
+                },
+                "distributor-draw": {
+                    "name": "Distributor Draw",
+                    "isPercent": true,
+                    "min": 29,
+                    "max": 10
+                },
+                "thermal-load": {
+                    "name": "Thermal Load",
+                    "isPercent": true,
+                    "min": 50,
+                    "max": 39
+                },
+                "integrity": {
+                    "name": "Integrity",
+                    "isPercent": true,
+                    "min": -40,
+                    "max": -30
+                }
+            }
+        }
+    }
+}

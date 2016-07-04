@@ -1,0 +1,169 @@
+{
+    "name": "High Capacity Magazine",
+    "module": "Seeker Missile Rack",
+    "recipes": {
+        "1": {
+            "components": {
+                "Mechanical Scrap": 2,
+                "Vanadium": 1,
+                "Electrochemical Arrays": 1
+            },
+            "effects": {
+                "ammo-clip-size": {
+                    "name": "Ammo Clip Size",
+                    "isPercent": true,
+                    "min": 0,
+                    "max": 50
+                },
+                "ammo-maximum": {
+                    "name": "Ammo Maximum",
+                    "isPercent": true,
+                    "min": 0,
+                    "max": 50
+                },
+                "mass": {
+                    "name": "Mass",
+                    "isPercent": true,
+                    "min": 25,
+                    "max": 10
+                },
+                "reload-time": {
+                    "name": "Reload Time",
+                    "isPercent": true,
+                    "min": 20,
+                    "max": 0
+                },
+                "power-draw": {
+                    "name": "Power Draw",
+                    "isPercent": true,
+                    "min": 20,
+                    "max": 10
+                }
+            }
+        },
+        "2": {
+            "components": {
+                "Mechanical Scrap": 2,
+                "Vanadium": 2,
+                "Niobium": 1,
+                "Polymer Capacitors": 1,
+                "CMM Composite": 1
+            },
+            "effects": {
+                "ammo-clip-size": {
+                    "name": "Ammo Clip Size",
+                    "isPercent": true,
+                    "min": 17,
+                    "max": 66
+                },
+                "ammo-maximum": {
+                    "name": "Ammo Maximum",
+                    "isPercent": true,
+                    "min": 17,
+                    "max": 66
+                },
+                "mass": {
+                    "name": "Mass",
+                    "isPercent": true,
+                    "min": 50,
+                    "max": 20
+                },
+                "reload-time": {
+                    "name": "Reload Time",
+                    "isPercent": true,
+                    "min": 39,
+                    "max": 10
+                },
+                "power-draw": {
+                    "name": "Power Draw",
+                    "isPercent": true,
+                    "min": 25,
+                    "max": 14
+                }
+            }
+        },
+        "3": {
+            "components": {
+                "Mechanical Scrap": 1,
+                "Vanadium": 3,
+                "Niobium": 2,
+                "Polymer Capacitors": 1,
+                "Reinforced Mounting Plate": 1
+            },
+            "effects": {
+                "ammo-clip-size": {
+                    "name": "Ammo Clip Size",
+                    "isPercent": true,
+                    "min": 17,
+                    "max": 66
+                },
+                "ammo-maximum": {
+                    "name": "Ammo Maximum",
+                    "isPercent": true,
+                    "min": 28,
+                    "max": 77
+                },
+                "mass": {
+                    "name": "Mass",
+                    "isPercent": true,
+                    "min": 75,
+                    "max": 29
+                },
+                "reload-time": {
+                    "name": "Reload Time",
+                    "isPercent": true,
+                    "min": 61,
+                    "max": 20
+                },
+                "power-draw": {
+                    "name": "Power Draw",
+                    "isPercent": true,
+                    "min": 29,
+                    "max": 20
+                }
+            }
+        },
+        "4": {
+            "components": {
+                "Mechanical Equipment": 1,
+                "High Density Composites": 3,
+                "Tin": 1,
+                "Military Supercapacitors": 1,
+                "Reinforced Mounting Plate": 1,
+                "Mechanical Components": 1
+            },
+            "effects": {
+                "ammo-clip-size": {
+                    "name": "Ammo Clip Size",
+                    "isPercent": true,
+                    "min": 34,
+                    "max": 83
+                },
+                "ammo-maximum": {
+                    "name": "Ammo Maximum",
+                    "isPercent": true,
+                    "min": 38,
+                    "max": 88
+                },
+                "mass": {
+                    "name": "Mass",
+                    "isPercent": true,
+                    "min": 100,
+                    "max": 39
+                },
+                "reload-time": {
+                    "name": "Reload Time",
+                    "isPercent": true,
+                    "min": 79,
+                    "max": 29
+                },
+                "power-draw": {
+                    "name": "Power Draw",
+                    "isPercent": true,
+                    "min": 35,
+                    "max": 25
+                }
+            }
+        }
+    }
+}

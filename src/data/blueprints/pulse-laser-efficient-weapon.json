@@ -1,0 +1,170 @@
+{
+    "name": "Efficient Weapon",
+    "module": "Pulse Laser",
+    "recipes": {
+        "1": {
+            "components": {
+                "Sulphur": 1,
+                "Heat Dispersion Plate": 2
+            },
+            "effects": {
+                "thermal-load": {
+                    "name": "Thermal Load",
+                    "isPercent": true,
+                    "min": -11,
+                    "max": -50
+                },
+                "damage-per-second": {
+                    "name": "Damage Per Second",
+                    "isPercent": true,
+                    "min": -25,
+                    "max": -3
+                },
+                "rate-of-fire": {
+                    "name": "Rate Of Fire",
+                    "isPercent": true,
+                    "min": -20,
+                    "max": -8
+                },
+                "damage": {
+                    "name": "Damage",
+                    "isPercent": true,
+                    "min": -6,
+                    "max": 4
+                }
+            }
+        },
+        "2": {
+            "components": {
+                "Sulphur": 1,
+                "Heat Dispersion Plate": 2,
+                "Heat Exchangers": 1,
+                "Micro-Weave Cooling Hoses": 1
+            },
+            "effects": {
+                "thermal-load": {
+                    "name": "Thermal Load",
+                    "isPercent": true,
+                    "min": -20,
+                    "max": -61
+                },
+                "damage-per-second": {
+                    "name": "Damage Per Second",
+                    "isPercent": true,
+                    "min": -21,
+                    "max": 0
+                },
+                "rate-of-fire": {
+                    "name": "Rate Of Fire",
+                    "isPercent": true,
+                    "min": -17,
+                    "max": -6
+                },
+                "damage": {
+                    "name": "Damage",
+                    "isPercent": true,
+                    "min": -5,
+                    "max": 5
+                },
+                "power-draw": {
+                    "name": "Power Draw",
+                    "isPercent": true,
+                    "min": 0,
+                    "max": -11
+                }
+            }
+        },
+        "3": {
+            "components": {
+                "Heat Conduction Wiring": 2,
+                "Chromium": 2,
+                "Heat Exchangers": 2,
+                "Samarium": 1
+            },
+            "effects": {
+                "thermal-load": {
+                    "name": "Thermal Load",
+                    "isPercent": true,
+                    "min": -31,
+                    "max": -70
+                },
+                "damage-per-second": {
+                    "name": "Damage Per Second",
+                    "isPercent": true,
+                    "min": -16,
+                    "max": 2
+                },
+                "rate-of-fire": {
+                    "name": "Rate Of Fire",
+                    "isPercent": true,
+                    "min": -14,
+                    "max": -4
+                },
+                "damage": {
+                    "name": "Damage",
+                    "isPercent": true,
+                    "min": -3,
+                    "max": 7
+                },
+                "power-draw": {
+                    "name": "Power Draw",
+                    "isPercent": true,
+                    "min": -6,
+                    "max": -20
+                },
+                "distributor-draw": {
+                    "name": "Distributor Draw",
+                    "isPercent": true,
+                    "min": -5,
+                    "max": -20
+                }
+            }
+        },
+        "4": {
+            "components": {
+                "Heat Dispersion Plate": 1,
+                "Selenium": 2,
+                "Heat Vanes": 1,
+                "Heatsink Interlink": 1
+            },
+            "effects": {
+                "thermal-load": {
+                    "name": "Thermal Load",
+                    "isPercent": true,
+                    "min": -40,
+                    "max": -80
+                },
+                "damage-per-second": {
+                    "name": "Damage Per Second",
+                    "isPercent": true,
+                    "min": -11,
+                    "max": 5
+                },
+                "rate-of-fire": {
+                    "name": "Rate Of Fire",
+                    "isPercent": true,
+                    "min": -10,
+                    "max": -2
+                },
+                "damage": {
+                    "name": "Damage",
+                    "isPercent": true,
+                    "min": -2,
+                    "max": 8
+                },
+                "power-draw": {
+                    "name": "Power Draw",
+                    "isPercent": true,
+                    "min": -11,
+                    "max": -31
+                },
+                "distributor-draw": {
+                    "name": "Distributor Draw",
+                    "isPercent": true,
+                    "min": -11,
+                    "max": -31
+                }
+            }
+        }
+    }
+}

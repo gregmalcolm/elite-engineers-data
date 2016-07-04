@@ -1,0 +1,21 @@
+{
+    "name": "Col. Bris Dekker",
+    "location": {
+        "system": "Sol",
+        "planet": "Sol"
+    },
+    "allegiance": "Federation",
+    "specialization": "Exploration",
+    "welcomeGift": "10,000,000 Cr in combat bonds",
+    "requirements": "Federation alligned /  From Juri Ishmaak (Rank 2 (3?)) / Need to be friendly with the Federation",
+    "modules": {
+        "FSD": 3,
+        "Interdictor (FSD)": 4
+    },
+    "blueprints": [
+        "fsd-faster-fsd-boot-sequence",
+        "fsd-increased-fsd-range",
+        "fsd-shielded-fsd",
+        "interdictor-fsd-interdictor-fsd"
+    ]
+}

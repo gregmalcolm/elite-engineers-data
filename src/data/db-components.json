@@ -1,0 +1,1058 @@
+{
+    "aberrant-shield-pattern-analysis": {
+        "name": "Aberrant Shield Pattern Analysis",
+        "type": "Data",
+        "subtype": "Shield Frequency System",
+        "rarity": "Rare",
+        "location": [],
+        "missionReward": true
+    },
+    "abnormal-compact-emission-data": {
+        "name": "Abnormal Compact Emission Data",
+        "type": "Data",
+        "subtype": "Emission Data",
+        "rarity": "VRare",
+        "location": [],
+        "missionReward": true
+    },
+    "adaptive-encryptors-capture": {
+        "name": "Adaptive Encryptors Capture",
+        "type": "Data",
+        "subtype": "Encryption Code",
+        "rarity": "VRare",
+        "location": [],
+        "missionReward": true
+    },
+    "anomalous-bulk-scan-data": {
+        "name": "Anomalous Bulk Scan Data",
+        "type": "Data",
+        "subtype": "Scan Data",
+        "rarity": "VCom",
+        "location": [],
+        "missionReward": true
+    },
+    "anomalous-fsd-telemetry": {
+        "name": "Anomalous FSD Telemetry",
+        "type": "Data",
+        "subtype": "Scan Data",
+        "rarity": "Com",
+        "location": [],
+        "missionReward": true
+    },
+    "antimony": {
+        "name": "Antimony",
+        "type": "Ele",
+        "subtype": "Raw Material",
+        "rarity": "VRare",
+        "location": [],
+        "missionReward": true
+    },
+    "arsenic": {
+        "name": "Arsenic",
+        "type": "Ele",
+        "subtype": "Raw Material",
+        "rarity": "Std",
+        "location": [],
+        "missionReward": false
+    },
+    "articulation-motors": {
+        "name": "Articulation Motors",
+        "type": "Com",
+        "subtype": "Commodity",
+        "rarity": "Std",
+        "location": [],
+        "missionReward": true
+    },
+    "atypical-disrupted-wake-echoes": {
+        "name": "Atypical Disrupted Wake Echoes",
+        "type": "Data",
+        "subtype": "Scan Data",
+        "rarity": "VCom",
+        "location": [],
+        "missionReward": true
+    },
+    "atypical-encryption-archives": {
+        "name": "Atypical Encryption Archives",
+        "type": "Data",
+        "subtype": "Encryption Code",
+        "rarity": "Rare",
+        "location": [],
+        "missionReward": false
+    },
+    "basic-conductors": {
+        "name": "Basic Conductors",
+        "type": "Man",
+        "subtype": "Conductor",
+        "rarity": "VCom",
+        "location": [],
+        "missionReward": false
+    },
+    "biotech-conductors": {
+        "name": "Biotech Conductors",
+        "type": "Man",
+        "subtype": "Conductor",
+        "rarity": "VRare",
+        "location": [],
+        "missionReward": "Only"
+    },
+    "bromellite": {
+        "name": "Bromellite",
+        "type": "Com",
+        "subtype": "Commodity",
+        "rarity": "Std",
+        "location": [],
+        "missionReward": true
+    },
+    "cadmium": {
+        "name": "Cadmium",
+        "type": "Ele",
+        "subtype": "Raw Material",
+        "rarity": "Rare",
+        "location": [],
+        "missionReward": false
+    },
+    "carbon": {
+        "name": "Carbon",
+        "type": "Ele",
+        "subtype": "Raw Material",
+        "rarity": "VCom",
+        "location": [],
+        "missionReward": false
+    },
+    "chemical-distillery": {
+        "name": "Chemical Distillery",
+        "type": "Man",
+        "subtype": "Chemical Manipulator",
+        "rarity": "Std",
+        "location": [],
+        "missionReward": false
+    },
+    "chemical-manipulators": {
+        "name": "Chemical Manipulators",
+        "type": "Man",
+        "subtype": "Chemical Manipulator",
+        "rarity": "Rare",
+        "location": [],
+        "missionReward": true
+    },
+    "chemical-processors": {
+        "name": "Chemical Processors",
+        "type": "Man",
+        "subtype": "Chemical Manipulator",
+        "rarity": "Com",
+        "location": [],
+        "missionReward": true
+    },
+    "chemical-storage-units": {
+        "name": "Chemical Storage Units",
+        "type": "Man",
+        "subtype": "Chemical Manipulator",
+        "rarity": "VCom",
+        "location": [],
+        "missionReward": false
+    },
+    "chromium": {
+        "name": "Chromium",
+        "type": "Ele",
+        "subtype": "Raw Material",
+        "rarity": "Com",
+        "location": [],
+        "missionReward": false
+    },
+    "classified-scan-databanks": {
+        "name": "Classified Scan Databanks",
+        "type": "Data",
+        "subtype": "Scan Data",
+        "rarity": "Std",
+        "location": [],
+        "missionReward": false
+    },
+    "classified-scan-fragment": {
+        "name": "Classified Scan Fragment",
+        "type": "Data",
+        "subtype": "Scan Data",
+        "rarity": "VRare",
+        "location": [],
+        "missionReward": true
+    },
+    "cmm-composite": {
+        "name": "CMM Composite",
+        "type": "Com",
+        "subtype": "Commodity",
+        "rarity": "Std",
+        "location": [],
+        "missionReward": true
+    },
+    "compact-composites": {
+        "name": "Compact Composites",
+        "type": "Man",
+        "subtype": "High Density Composites",
+        "rarity": "VCom",
+        "location": [],
+        "missionReward": false
+    },
+    "compound-shielding": {
+        "name": "Compound Shielding",
+        "type": "Man",
+        "subtype": "Shielding",
+        "rarity": "Rare",
+        "location": [],
+        "missionReward": true
+    },
+    "conductive-ceramics": {
+        "name": "Conductive Ceramics",
+        "type": "Man",
+        "subtype": "Conductor",
+        "rarity": "Std",
+        "location": [],
+        "missionReward": false
+    },
+    "conductive-components": {
+        "name": "Conductive Components",
+        "type": "Man",
+        "subtype": "Conductor",
+        "rarity": "Com",
+        "location": [],
+        "missionReward": false
+    },
+    "conductive-polymers": {
+        "name": "Conductive Polymers",
+        "type": "Man",
+        "subtype": "Conductor",
+        "rarity": "Rare",
+        "location": [],
+        "missionReward": true
+    },
+    "configurable-components": {
+        "name": "Configurable Components",
+        "type": "Man",
+        "subtype": "Mechanical Component",
+        "rarity": "Rare",
+        "location": [],
+        "missionReward": false
+    },
+    "core-dynamics-composites": {
+        "name": "Core Dynamics Composites",
+        "type": "Man",
+        "subtype": "High Density Composites",
+        "rarity": "VRare",
+        "location": [],
+        "missionReward": false
+    },
+    "cracked-industrial-firmware": {
+        "name": "Cracked Industrial Firmware",
+        "type": "Data",
+        "subtype": "Firmware",
+        "rarity": "Std",
+        "location": [],
+        "missionReward": true
+    },
+    "crystal-shards": {
+        "name": "Crystal Shards",
+        "type": "Man",
+        "subtype": "Focusing Crystal",
+        "rarity": "VCom",
+        "location": [],
+        "missionReward": false
+    },
+    "datamined-wake-exceptions": {
+        "name": "Datamined Wake Exceptions",
+        "type": "Data",
+        "subtype": "Scan Data",
+        "rarity": "VRare",
+        "location": [],
+        "missionReward": true
+    },
+    "decoded-emission-data": {
+        "name": "Decoded Emission Data",
+        "type": "Data",
+        "subtype": "Emission Data",
+        "rarity": "Rare",
+        "location": [],
+        "missionReward": true
+    },
+    "distorted-shield-cycle-recordings": {
+        "name": "Distorted Shield Cycle Recordings",
+        "type": "Data",
+        "subtype": "Shield Frequency System",
+        "rarity": "VCom",
+        "location": [],
+        "missionReward": true
+    },
+    "divergent-scan-data": {
+        "name": "Divergent Scan Data",
+        "type": "Data",
+        "subtype": "Scan Data",
+        "rarity": "Rare",
+        "location": [],
+        "missionReward": false
+    },
+    "eccentric-hyperspace-trajectories": {
+        "name": "Eccentric Hyperspace Trajectories",
+        "type": "Data",
+        "subtype": "Scan Data",
+        "rarity": "Rare",
+        "location": [],
+        "missionReward": false
+    },
+    "electrochemical-arrays": {
+        "name": "Electrochemical Arrays",
+        "type": "Man",
+        "subtype": "Capacitor",
+        "rarity": "Std",
+        "location": [],
+        "missionReward": false
+    },
+    "emergency-power-cells": {
+        "name": "Emergency Power Cells",
+        "type": "Com",
+        "subtype": "Commodity",
+        "rarity": "Std",
+        "location": [],
+        "missionReward": true
+    },
+    "energy-grid-assembly": {
+        "name": "Energy Grid Assembly",
+        "type": "Com",
+        "subtype": "Commodity",
+        "rarity": "Std",
+        "location": [],
+        "missionReward": true
+    },
+    "exceptional-scrambled-emission-data": {
+        "name": "Exceptional Scrambled Emission Data",
+        "type": "Data",
+        "subtype": "Emission Data",
+        "rarity": "VCom",
+        "location": [],
+        "missionReward": true
+    },
+    "exhaust-manifold": {
+        "name": "Exhaust Manifold",
+        "type": "Com",
+        "subtype": "Commodity",
+        "rarity": "Std",
+        "location": [],
+        "missionReward": true
+    },
+    "exquisite-focus-crystals": {
+        "name": "Exquisite Focus Crystals",
+        "type": "Man",
+        "subtype": "Focusing Crystal",
+        "rarity": "VRare",
+        "location": [],
+        "missionReward": true
+    },
+    "filament-composites": {
+        "name": "Filament Composites",
+        "type": "Man",
+        "subtype": "High Density Composites",
+        "rarity": "Com",
+        "location": [],
+        "missionReward": false
+    },
+    "flawed-focus-crystals": {
+        "name": "Flawed Focus Crystals",
+        "type": "Man",
+        "subtype": "Focusing Crystal",
+        "rarity": "Com",
+        "location": [],
+        "missionReward": false
+    },
+    "focus-crystals": {
+        "name": "Focus Crystals",
+        "type": "Man",
+        "subtype": "Focusing Crystal",
+        "rarity": "Std",
+        "location": [],
+        "missionReward": false
+    },
+    "galvanising-alloys": {
+        "name": "Galvanising Alloys",
+        "type": "Man",
+        "subtype": "Lightweight Alloy",
+        "rarity": "Com",
+        "location": [],
+        "missionReward": true
+    },
+    "germanium": {
+        "name": "Germanium",
+        "type": "Ele",
+        "subtype": "Raw Material",
+        "rarity": "Com",
+        "location": [],
+        "missionReward": true
+    },
+    "grid-resistors": {
+        "name": "Grid Resistors",
+        "type": "Man",
+        "subtype": "Capacitor",
+        "rarity": "VCom",
+        "location": [],
+        "missionReward": true
+    },
+    "hardware-diagnostic-sensor": {
+        "name": "Hardware Diagnostic Sensor",
+        "type": "Com",
+        "subtype": "Commodity",
+        "rarity": "Std",
+        "location": [],
+        "missionReward": true
+    },
+    "heat-conduction-wiring": {
+        "name": "Heat Conduction Wiring",
+        "type": "Man",
+        "subtype": "Heat Exchanger",
+        "rarity": "VCom",
+        "location": [],
+        "missionReward": true
+    },
+    "heat-dispersion-plate": {
+        "name": "Heat Dispersion Plate",
+        "type": "Man",
+        "subtype": "Heat Exchanger",
+        "rarity": "Com",
+        "location": [],
+        "missionReward": true
+    },
+    "heat-exchangers": {
+        "name": "Heat Exchangers",
+        "type": "Man",
+        "subtype": "Heat Exchanger",
+        "rarity": "Std",
+        "location": [],
+        "missionReward": false
+    },
+    "heat-resistant-ceramics": {
+        "name": "Heat Resistant Ceramics",
+        "type": "Man",
+        "subtype": "Heat Resistant Alloy",
+        "rarity": "Com",
+        "location": [],
+        "missionReward": false
+    },
+    "heat-vanes": {
+        "name": "Heat Vanes",
+        "type": "Man",
+        "subtype": "Heat Exchanger",
+        "rarity": "Rare",
+        "location": [],
+        "missionReward": true
+    },
+    "heatsink-interlink": {
+        "name": "Heatsink Interlink",
+        "type": "Com",
+        "subtype": "Commodity",
+        "rarity": "Std",
+        "location": [],
+        "missionReward": true
+    },
+    "high-density-composites": {
+        "name": "High Density Composites",
+        "type": "Man",
+        "subtype": "High Density Composites",
+        "rarity": "Std",
+        "location": [],
+        "missionReward": false
+    },
+    "hn-shock-mount": {
+        "name": "HN Shock Mount",
+        "type": "Com",
+        "subtype": "Commodity",
+        "rarity": "Std",
+        "location": [],
+        "missionReward": true
+    },
+    "hybrid-capacitors": {
+        "name": "Hybrid Capacitors",
+        "type": "Man",
+        "subtype": "Capacitor",
+        "rarity": "Com",
+        "location": [],
+        "missionReward": true
+    },
+    "imperial-shielding": {
+        "name": "Imperial Shielding",
+        "type": "Man",
+        "subtype": "Shielding",
+        "rarity": "VRare",
+        "location": [],
+        "missionReward": true
+    },
+    "improvised-components": {
+        "name": "Improvised Components",
+        "type": "Man",
+        "subtype": "Mechanical Component",
+        "rarity": "VRare",
+        "location": [],
+        "missionReward": true
+    },
+    "inconsistent-shield-soak-analysis": {
+        "name": "Inconsistent Shield Soak Analysis",
+        "type": "Data",
+        "subtype": "Shield Frequency System",
+        "rarity": "Com",
+        "location": [],
+        "missionReward": true
+    },
+    "insulating-membrane": {
+        "name": "Insulating Membrane",
+        "type": "Com",
+        "subtype": "Commodity",
+        "rarity": "Std",
+        "location": [],
+        "missionReward": true
+    },
+    "ion-distributor": {
+        "name": "Ion Distributor",
+        "type": "Com",
+        "subtype": "Commodity",
+        "rarity": "Std",
+        "location": [],
+        "missionReward": true
+    },
+    "iron": {
+        "name": "Iron",
+        "type": "Ele",
+        "subtype": "Raw Material",
+        "rarity": "VCom",
+        "location": [],
+        "missionReward": false
+    },
+    "irregular-emission-data": {
+        "name": "Irregular Emission Data",
+        "type": "Data",
+        "subtype": "Emission Data",
+        "rarity": "Com",
+        "location": [],
+        "missionReward": true
+    },
+    "magnetic-emitter-coil": {
+        "name": "Magnetic Emitter Coil",
+        "type": "Com",
+        "subtype": "Commodity",
+        "rarity": "Std",
+        "location": [],
+        "missionReward": true
+    },
+    "manganese": {
+        "name": "Manganese",
+        "type": "Ele",
+        "subtype": "Raw Material",
+        "rarity": "Com",
+        "location": [],
+        "missionReward": true
+    },
+    "mechanical-components": {
+        "name": "Mechanical Components",
+        "type": "Man",
+        "subtype": "Mechanical Component",
+        "rarity": "Std",
+        "location": [],
+        "missionReward": false
+    },
+    "mechanical-equipment": {
+        "name": "Mechanical Equipment",
+        "type": "Man",
+        "subtype": "Mechanical Component",
+        "rarity": "Com",
+        "location": [],
+        "missionReward": true
+    },
+    "mechanical-scrap": {
+        "name": "Mechanical Scrap",
+        "type": "Man",
+        "subtype": "Mechanical Component",
+        "rarity": "VCom",
+        "location": [],
+        "missionReward": true
+    },
+    "mercury": {
+        "name": "Mercury",
+        "type": "Ele",
+        "subtype": "Raw Material",
+        "rarity": "Rare",
+        "location": [],
+        "missionReward": false
+    },
+    "micro-controllers": {
+        "name": "Micro Controllers",
+        "type": "Com",
+        "subtype": "Commodity",
+        "rarity": "Rare",
+        "location": [],
+        "missionReward": true
+    },
+    "micro-weave-cooling-hoses": {
+        "name": "Micro-Weave Cooling Hoses",
+        "type": "Com",
+        "subtype": "Commodity",
+        "rarity": "Std",
+        "location": [],
+        "missionReward": true
+    },
+    "military-grade-alloys": {
+        "name": "Military Grade Alloys",
+        "type": "Man",
+        "subtype": "Heat Resistant Alloy",
+        "rarity": "VRare",
+        "location": [],
+        "missionReward": true
+    },
+    "military-supercapacitors": {
+        "name": "Military Supercapacitors",
+        "type": "Man",
+        "subtype": "Capacitor",
+        "rarity": "VRare",
+        "location": [],
+        "missionReward": false
+    },
+    "modified-consumer-firmware": {
+        "name": "Modified Consumer Firmware",
+        "type": "Data",
+        "subtype": "Firmware",
+        "rarity": "Com",
+        "location": [],
+        "missionReward": true
+    },
+    "modified-embedded-firmware": {
+        "name": "Modified Embedded Firmware",
+        "type": "Data",
+        "subtype": "Firmware",
+        "rarity": "VRare",
+        "location": [],
+        "missionReward": true
+    },
+    "modular-terminals": {
+        "name": "Modular Terminals",
+        "type": "Com",
+        "subtype": "Commodity",
+        "rarity": "Std",
+        "location": [],
+        "missionReward": true
+    },
+    "molybdenum": {
+        "name": "Molybdenum",
+        "type": "Ele",
+        "subtype": "Raw Material",
+        "rarity": "Std",
+        "location": [],
+        "missionReward": true
+    },
+    "nanobreakers": {
+        "name": "Nanobreakers",
+        "type": "Com",
+        "subtype": "Commodity",
+        "rarity": "Std",
+        "location": [],
+        "missionReward": true
+    },
+    "neofabric-insulation": {
+        "name": "Neofabric Insulation",
+        "type": "Com",
+        "subtype": "Commodity",
+        "rarity": "Std",
+        "location": [],
+        "missionReward": true
+    },
+    "nickel": {
+        "name": "Nickel",
+        "type": "Ele",
+        "subtype": "Raw Material",
+        "rarity": "VCom",
+        "location": [],
+        "missionReward": false
+    },
+    "niobium": {
+        "name": "Niobium",
+        "type": "Ele",
+        "subtype": "Raw Material",
+        "rarity": "Std",
+        "location": [],
+        "missionReward": true
+    },
+    "open-symmetric-keys": {
+        "name": "Open Symmetric Keys",
+        "type": "Data",
+        "subtype": "Encryption Code",
+        "rarity": "Std",
+        "location": [],
+        "missionReward": true
+    },
+    "osmium": {
+        "name": "Osmium",
+        "type": "Com",
+        "subtype": "Commodity",
+        "rarity": "Std",
+        "location": [],
+        "missionReward": true
+    },
+    "peculiar-shield-frequency-data": {
+        "name": "Peculiar Shield Frequency Data",
+        "type": "Data",
+        "subtype": "Shield Frequency System",
+        "rarity": "VRare",
+        "location": [],
+        "missionReward": true
+    },
+    "pharmaceutical-isolators": {
+        "name": "Pharmaceutical Isolators",
+        "type": "Man",
+        "subtype": "Chemical Manipulator",
+        "rarity": "VRare",
+        "location": [],
+        "missionReward": true
+    },
+    "phase-alloys": {
+        "name": "Phase Alloys",
+        "type": "Man",
+        "subtype": "Lightweight Alloy",
+        "rarity": "Std",
+        "location": [],
+        "missionReward": false
+    },
+    "phosphorus": {
+        "name": "Phosphorus",
+        "type": "Ele",
+        "subtype": "Raw Material",
+        "rarity": "VCom",
+        "location": [],
+        "missionReward": false
+    },
+    "platinum": {
+        "name": "Platinum",
+        "type": "Com",
+        "subtype": "Commodity",
+        "rarity": "Std",
+        "location": [],
+        "missionReward": true
+    },
+    "polonium": {
+        "name": "Polonium",
+        "type": "Ele",
+        "subtype": "Raw Material",
+        "rarity": "VRare",
+        "location": [],
+        "missionReward": false
+    },
+    "polymer-capacitors": {
+        "name": "Polymer Capacitors",
+        "type": "Man",
+        "subtype": "Capacitor",
+        "rarity": "Rare",
+        "location": [],
+        "missionReward": true
+    },
+    "power-converter": {
+        "name": "Power Converter",
+        "type": "Com",
+        "subtype": "Commodity",
+        "rarity": "Std",
+        "location": [],
+        "missionReward": true
+    },
+    "power-transfer-bus": {
+        "name": "Power Transfer Bus",
+        "type": "Com",
+        "subtype": "Commodity",
+        "rarity": "Std",
+        "location": [],
+        "missionReward": true
+    },
+    "praseodymium": {
+        "name": "Praseodymium",
+        "type": "Com",
+        "subtype": "Commodity",
+        "rarity": "Std",
+        "location": [],
+        "missionReward": true
+    },
+    "precipitated-alloys": {
+        "name": "Precipitated Alloys",
+        "type": "Man",
+        "subtype": "Heat Resistant Alloy",
+        "rarity": "Std",
+        "location": [],
+        "missionReward": true
+    },
+    "proprietary-composites": {
+        "name": "Proprietary Composites",
+        "type": "Man",
+        "subtype": "High Density Composites",
+        "rarity": "Rare",
+        "location": [],
+        "missionReward": false
+    },
+    "proto-heat-radiators": {
+        "name": "Proto Heat Radiators",
+        "type": "Man",
+        "subtype": "Heat Exchanger",
+        "rarity": "VRare",
+        "location": [],
+        "missionReward": true
+    },
+    "proto-light-alloys": {
+        "name": "Proto Light Alloys",
+        "type": "Man",
+        "subtype": "Lightweight Alloy",
+        "rarity": "Rare",
+        "location": [],
+        "missionReward": true
+    },
+    "proto-radiolic-alloys": {
+        "name": "Proto Radiolic Alloys",
+        "type": "Man",
+        "subtype": "Lightweight Alloy",
+        "rarity": "VRare",
+        "location": [],
+        "missionReward": false
+    },
+    "radiation-baffle": {
+        "name": "Radiation Baffle",
+        "type": "Com",
+        "subtype": "Commodity",
+        "rarity": "Std",
+        "location": [],
+        "missionReward": true
+    },
+    "refined-focus-crystals": {
+        "name": "Refined Focus Crystals",
+        "type": "Man",
+        "subtype": "Focusing Crystal",
+        "rarity": "Rare",
+        "location": [],
+        "missionReward": true
+    },
+    "reinforced-mounting-plate": {
+        "name": "Reinforced Mounting Plate",
+        "type": "Com",
+        "subtype": "Commodity",
+        "rarity": "Std",
+        "location": [],
+        "missionReward": true
+    },
+    "ruthenium": {
+        "name": "Ruthenium",
+        "type": "Ele",
+        "subtype": "Raw Material",
+        "rarity": "VRare",
+        "location": [],
+        "missionReward": false
+    },
+    "salvaged-alloys": {
+        "name": "Salvaged Alloys",
+        "type": "Man",
+        "subtype": "Lightweight Alloy",
+        "rarity": "VCom",
+        "location": [],
+        "missionReward": false
+    },
+    "samarium": {
+        "name": "Samarium",
+        "type": "Com",
+        "subtype": "Commodity",
+        "rarity": "Std",
+        "location": [],
+        "missionReward": true
+    },
+    "security-firmware-patch": {
+        "name": "Security Firmware Patch",
+        "type": "Data",
+        "subtype": "Firmware",
+        "rarity": "Rare",
+        "location": [],
+        "missionReward": true
+    },
+    "selenium": {
+        "name": "Selenium",
+        "type": "Ele",
+        "subtype": "Raw Material",
+        "rarity": "Std",
+        "location": [],
+        "missionReward": false
+    },
+    "shield-emitters": {
+        "name": "Shield Emitters",
+        "type": "Man",
+        "subtype": "Shielding",
+        "rarity": "Com",
+        "location": [],
+        "missionReward": false
+    },
+    "shielding-sensors": {
+        "name": "Shielding Sensors",
+        "type": "Man",
+        "subtype": "Shielding",
+        "rarity": "Std",
+        "location": [],
+        "missionReward": true
+    },
+    "specialised-legacy-firmware": {
+        "name": "Specialised Legacy Firmware",
+        "type": "Data",
+        "subtype": "Firmware",
+        "rarity": "VCom",
+        "location": [],
+        "missionReward": true
+    },
+    "strange-wake-solutions": {
+        "name": "Strange Wake Solutions",
+        "type": "Data",
+        "subtype": "Scan Data",
+        "rarity": "Std",
+        "location": [],
+        "missionReward": true
+    },
+    "sulphur": {
+        "name": "Sulphur",
+        "type": "Ele",
+        "subtype": "Raw Material",
+        "rarity": "VCom",
+        "location": [],
+        "missionReward": true
+    },
+    "tagged-encryption-codes": {
+        "name": "Tagged Encryption Codes",
+        "type": "Data",
+        "subtype": "Encryption Code",
+        "rarity": "Com",
+        "location": [],
+        "missionReward": true
+    },
+    "technetium": {
+        "name": "Technetium",
+        "type": "Ele",
+        "subtype": "Raw Material",
+        "rarity": "VRare",
+        "location": [],
+        "missionReward": false
+    },
+    "telemetry-suite": {
+        "name": "Telemetry Suite",
+        "type": "Com",
+        "subtype": "Commodity",
+        "rarity": "Std",
+        "location": [],
+        "missionReward": true
+    },
+    "tellurium": {
+        "name": "Tellurium",
+        "type": "Ele",
+        "subtype": "Raw Material",
+        "rarity": "VRare",
+        "location": [],
+        "missionReward": false
+    },
+    "tempered-alloys": {
+        "name": "Tempered Alloys",
+        "type": "Man",
+        "subtype": "Heat Resistant Alloy",
+        "rarity": "VCom",
+        "location": [],
+        "missionReward": false
+    },
+    "thermic-alloys": {
+        "name": "Thermic Alloys",
+        "type": "Man",
+        "subtype": "Heat Resistant Alloy",
+        "rarity": "Rare",
+        "location": [],
+        "missionReward": true
+    },
+    "tin": {
+        "name": "Tin",
+        "type": "Ele",
+        "subtype": "Raw Material",
+        "rarity": "Rare",
+        "location": [],
+        "missionReward": false
+    },
+    "tungsten": {
+        "name": "Tungsten",
+        "type": "Ele",
+        "subtype": "Raw Material",
+        "rarity": "Std",
+        "location": [],
+        "missionReward": false
+    },
+    "unexpected-emission-data": {
+        "name": "Unexpected Emission Data",
+        "type": "Data",
+        "subtype": "Emission Data",
+        "rarity": "Std",
+        "location": [],
+        "missionReward": true
+    },
+    "unidentified-scan-archives": {
+        "name": "Unidentified Scan Archives",
+        "type": "Data",
+        "subtype": "Scan Data",
+        "rarity": "Com",
+        "location": [],
+        "missionReward": true
+    },
+    "unknown-fragment": {
+        "name": "Unknown Fragment",
+        "type": "Man",
+        "subtype": "Unknown",
+        "rarity": "VRare",
+        "location": [],
+        "missionReward": false
+    },
+    "untypical-shield-scans": {
+        "name": "Untypical Shield Scans",
+        "type": "Data",
+        "subtype": "Shield Frequency System",
+        "rarity": "Std",
+        "location": [],
+        "missionReward": false
+    },
+    "unusual-encrypted-files": {
+        "name": "Unusual Encrypted Files",
+        "type": "Data",
+        "subtype": "Encryption Code",
+        "rarity": "VCom",
+        "location": [],
+        "missionReward": true
+    },
+    "vanadium": {
+        "name": "Vanadium",
+        "type": "Ele",
+        "subtype": "Raw Material",
+        "rarity": "Com",
+        "location": [],
+        "missionReward": true
+    },
+    "worn-shield-emitters": {
+        "name": "Worn Shield Emitters",
+        "type": "Man",
+        "subtype": "Shielding",
+        "rarity": "VCom",
+        "location": [],
+        "missionReward": false
+    },
+    "yttrium": {
+        "name": "Yttrium",
+        "type": "Ele",
+        "subtype": "Raw Material",
+        "rarity": "VRare",
+        "location": [],
+        "missionReward": false
+    },
+    "zinc": {
+        "name": "Zinc",
+        "type": "Ele",
+        "subtype": "Raw Material",
+        "rarity": "Com",
+        "location": [],
+        "missionReward": false
+    },
+    "zirconium": {
+        "name": "Zirconium",
+        "type": "Ele",
+        "subtype": "Raw Material",
+        "rarity": "Std",
+        "location": [],
+        "missionReward": false
+    }
+}

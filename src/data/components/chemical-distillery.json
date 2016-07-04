@@ -1,0 +1,8 @@
+{
+    "name": "Chemical Distillery",
+    "type": "Man",
+    "subtype": "Chemical Manipulator",
+    "rarity": "Std",
+    "location": [],
+    "missionReward": false
+}

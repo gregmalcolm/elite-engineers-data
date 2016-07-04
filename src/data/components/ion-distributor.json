@@ -1,0 +1,8 @@
+{
+    "name": "Ion Distributor",
+    "type": "Com",
+    "subtype": "Commodity",
+    "rarity": "Std",
+    "location": [],
+    "missionReward": true
+}

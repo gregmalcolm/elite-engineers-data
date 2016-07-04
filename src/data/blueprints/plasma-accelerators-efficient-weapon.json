@@ -1,0 +1,72 @@
+{
+    "name": "Efficient Weapon",
+    "module": "Plasma Accelerators",
+    "recipes": {
+        "1": {
+            "components": {
+                "Sulphur": 1,
+                "Heat Dispersion Plate": 2
+            },
+            "effects": {
+                "thermal-load": {
+                    "name": "Thermal Load",
+                    "isPercent": true,
+                    "min": -11,
+                    "max": -50
+                },
+                "damage-per-second": {
+                    "name": "Damage Per Second",
+                    "isPercent": true,
+                    "min": -25,
+                    "max": -3
+                },
+                "rate-of-fire": {
+                    "name": "Rate Of Fire",
+                    "isPercent": true,
+                    "min": -20,
+                    "max": -8
+                },
+                "damage": {
+                    "name": "Damage",
+                    "isPercent": true,
+                    "min": 6,
+                    "max": 4
+                }
+            }
+        },
+        "2": {
+            "components": {
+                "Sulphur": 1,
+                "Heat Dispersion Plate": 2,
+                "Heat Exchangers": 1,
+                "Micro-Weave Cooling Hoses": 1
+            },
+            "effects": {
+                "thermal-load": {
+                    "name": "Thermal Load",
+                    "isPercent": true,
+                    "min": -21,
+                    "max": -61
+                },
+                "damage-per-second": {
+                    "name": "Damage Per Second",
+                    "isPercent": true,
+                    "min": -21,
+                    "max": 0
+                },
+                "rate-of-fire": {
+                    "name": "Rate Of Fire",
+                    "isPercent": true,
+                    "min": -17,
+                    "max": -6
+                },
+                "damage": {
+                    "name": "Damage",
+                    "isPercent": true,
+                    "min": 5,
+                    "max": 5
+                }
+            }
+        }
+    }
+}

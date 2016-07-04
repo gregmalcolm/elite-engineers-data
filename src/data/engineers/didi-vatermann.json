@@ -1,0 +1,26 @@
+{
+    "name": "Didi Vatermann",
+    "location": {
+        "system": "Leesti",
+        "planet": "1 A"
+    },
+    "allegiance": "Alliance",
+    "specialization": "Ship",
+    "welcomeGift": "200x Lavian Brandy",
+    "requirements": "Alliance alligned / From Selene Jean (Rank 3) / 'Merchant' trade rank",
+    "modules": {
+        "Shield Generator": 3,
+        "Booster (Shield)": 5
+    },
+    "blueprints": [
+        "shield-generator-kinetic-resistant-shields",
+        "shield-generator-enhanced-low-power-shields",
+        "shield-generator-reinforced-shields",
+        "shield-generator-thermal-resistant-shields",
+        "booster-shield-blast-resistant-shield-booster",
+        "booster-shield-heavy-duty-shield-booster",
+        "booster-shield-kinetic-resistant-shield-booster",
+        "booster-shield-resistance-augmented-shield-booster",
+        "booster-shield-thermal-resistant-shield-booster"
+    ]
+}

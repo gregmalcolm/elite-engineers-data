@@ -1,0 +1,8 @@
+{
+    "name": "Heat Dispersion Plate",
+    "type": "Man",
+    "subtype": "Heat Exchanger",
+    "rarity": "Com",
+    "location": [],
+    "missionReward": true
+}

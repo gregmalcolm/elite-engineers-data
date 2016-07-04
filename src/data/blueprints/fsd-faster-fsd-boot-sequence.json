@@ -1,0 +1,176 @@
+{
+    "name": "Faster FSD Boot Sequence",
+    "module": "FSD",
+    "recipes": {
+        "1": {
+            "components": {
+                "Grid Resistors": 2,
+                "Heat Dispersion Plate": 2
+            },
+            "effects": {
+                "boot-time": {
+                    "name": "Boot Time",
+                    "isPercent": true,
+                    "min": 0,
+                    "max": -15
+                },
+                "thermal-load": {
+                    "name": "Thermal Load",
+                    "isPercent": true,
+                    "min": 4,
+                    "max": 0
+                },
+                "power-draw": {
+                    "name": "Power Draw",
+                    "isPercent": true,
+                    "min": 4,
+                    "max": 0
+                },
+                "integrity": {
+                    "name": "Integrity",
+                    "isPercent": true,
+                    "min": -5,
+                    "max": 0
+                }
+            }
+        },
+        "2": {
+            "components": {
+                "Sulphur": 1,
+                "Hybrid Capacitors": 2,
+                "Heat Exchangers": 2,
+                "Micro Controllers": 1
+            },
+            "effects": {
+                "boot-time": {
+                    "name": "Boot Time",
+                    "isPercent": true,
+                    "min": -10,
+                    "max": -31
+                },
+                "thermal-load": {
+                    "name": "Thermal Load",
+                    "isPercent": true,
+                    "min": 10,
+                    "max": 4
+                },
+                "power-draw": {
+                    "name": "Power Draw",
+                    "isPercent": true,
+                    "min": 10,
+                    "max": 2
+                },
+                "integrity": {
+                    "name": "Integrity",
+                    "isPercent": true,
+                    "min": -10,
+                    "max": -3
+                }
+            }
+        },
+        "3": {
+            "components": {
+                "Sulphur": 1,
+                "Hybrid Capacitors": 2,
+                "Heat Exchangers": 2,
+                "Security Firmware Patch": 1,
+                "Hardware Diagnostic Sensor": 1
+            },
+            "effects": {
+                "boot-time": {
+                    "name": "Boot Time",
+                    "isPercent": true,
+                    "min": -20,
+                    "max": -45
+                },
+                "thermal-load": {
+                    "name": "Thermal Load",
+                    "isPercent": true,
+                    "min": 14,
+                    "max": 10
+                },
+                "power-draw": {
+                    "name": "Power Draw",
+                    "isPercent": true,
+                    "min": 14,
+                    "max": 5
+                },
+                "integrity": {
+                    "name": "Integrity",
+                    "isPercent": true,
+                    "min": -15,
+                    "max": -6
+                }
+            }
+        },
+        "4": {
+            "components": {
+                "Chromium": 1,
+                "Electrochemical Arrays": 2,
+                "Heat Vanes": 2,
+                "Modified Embedded Firmware": 1,
+                "Hardware Diagnostic Sensor": 1
+            },
+            "effects": {
+                "boot-time": {
+                    "name": "Boot Time",
+                    "isPercent": true,
+                    "min": -31,
+                    "max": -61
+                },
+                "thermal-load": {
+                    "name": "Thermal Load",
+                    "isPercent": true,
+                    "min": 20,
+                    "max": 14
+                },
+                "power-draw": {
+                    "name": "Power Draw",
+                    "isPercent": true,
+                    "min": 20,
+                    "max": 9
+                },
+                "integrity": {
+                    "name": "Integrity",
+                    "isPercent": true,
+                    "min": -20,
+                    "max": -9
+                }
+            }
+        },
+        "5": {
+            "components": {
+                "Selenium": 1,
+                "Polymer Capacitors": 2,
+                "Proto Heat Radiators": 2,
+                "Radiation Baffle": 1
+            },
+            "effects": {
+                "boot-time": {
+                    "name": "Boot Time",
+                    "isPercent": true,
+                    "min": -40,
+                    "max": -75
+                },
+                "thermal-load": {
+                    "name": "Thermal Load",
+                    "isPercent": true,
+                    "min": 25,
+                    "max": 20
+                },
+                "power-draw": {
+                    "name": "Power Draw",
+                    "isPercent": true,
+                    "min": 25,
+                    "max": 11
+                },
+                "integrity": {
+                    "name": "Integrity",
+                    "isPercent": true,
+                    "min": -25,
+                    "max": -12
+                }
+            }
+        }
+    }
+}

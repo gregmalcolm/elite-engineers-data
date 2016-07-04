@@ -1,0 +1,8 @@
+{
+    "name": "Classified Scan Databanks",
+    "type": "Data",
+    "subtype": "Scan Data",
+    "rarity": "Std",
+    "location": [],
+    "missionReward": false
+}

@@ -1,0 +1,45 @@
+{
+    "name": "Light Weight Armour",
+    "module": "Armour",
+    "recipes": {
+        "1": {
+            "components": {
+                "Iron": 2,
+                "Conductive Components": 1,
+                "High Density Composites": 1
+            },
+            "effects": {
+                "hull-boost": {
+                    "name": "Hull Boost",
+                    "isPercent": false,
+                    "min": -1,
+                    "max": 0
+                },
+                "mass": {
+                    "name": "Mass",
+                    "isPercent": true,
+                    "min": 0,
+                    "max": 0
+                },
+                "kinetic-resistance": {
+                    "name": "Kinetic Resistance",
+                    "isPercent": false,
+                    "min": 0,
+                    "max": 2
+                },
+                "thermal-resistance": {
+                    "name": "Thermal Resistance",
+                    "isPercent": false,
+                    "min": 0,
+                    "max": 2
+                },
+                "explosive-resistance": {
+                    "name": "Explosive Resistance",
+                    "isPercent": false,
+                    "min": 0,
+                    "max": 3
+                }
+            }
+        }
+    }
+}

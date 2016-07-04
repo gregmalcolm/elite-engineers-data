@@ -1,0 +1,148 @@
+{
+    "name": "Light Weight Hull Reinforcement",
+    "module": "Hull Reinforcement",
+    "recipes": {
+        "1": {
+            "components": {
+                "Iron": 2,
+                "Conductive Components": 1,
+                "High Density Composites": 1
+            },
+            "effects": {
+                "hull-boost": {
+                    "name": "Hull Boost",
+                    "isPercent": false,
+                    "min": 0,
+                    "max": 3
+                },
+                "mass": {
+                    "name": "Mass",
+                    "isPercent": true,
+                    "min": 0,
+                    "max": -3
+                },
+                "hull-reinforcement": {
+                    "name": "Hull Reinforcement",
+                    "isPercent": true,
+                    "min": 6,
+                    "max": 0
+                }
+            }
+        },
+        "2": {
+            "components": {
+                "Iron": 1,
+                "Conductive Components": 2,
+                "High Density Composites": 2,
+                "Thermic Alloys": 1,
+                "HN Shock Mount": 1
+            },
+            "effects": {
+                "hull-boost": {
+                    "name": "Hull Boost",
+                    "isPercent": true,
+                    "min": 2,
+                    "max": 6
+                },
+                "mass": {
+                    "name": "Mass",
+                    "isPercent": true,
+                    "min": 0,
+                    "max": -6
+                },
+                "hull-reinforcement": {
+                    "name": "Hull Reinforcement",
+                    "isPercent": true,
+                    "min": -10,
+                    "max": -6
+                }
+            }
+        },
+        "3": {
+            "components": {
+                "Iron": 1,
+                "Conductive Components": 3,
+                "High Density Composites": 2,
+                "Thermic Alloys": 2,
+                "Telemetry Suite": 1
+            },
+            "effects": {
+                "hull-boost": {
+                    "name": "Hull Boost",
+                    "isPercent": true,
+                    "min": 4,
+                    "max": 8
+                },
+                "mass": {
+                    "name": "Mass",
+                    "isPercent": true,
+                    "min": 0,
+                    "max": -10
+                },
+                "hull-reinforcement": {
+                    "name": "Hull Reinforcement",
+                    "isPercent": true,
+                    "min": -15,
+                    "max": -10
+                }
+            }
+        },
+        "4": {
+            "components": {
+                "Germanium": 2,
+                "Conductive Ceramics": 3,
+                "Proprietary Composites": 2,
+                "Military Grade Alloys": 1,
+                "Hardware Diagnostic Sensor": 1
+            },
+            "effects": {
+                "hull-boost": {
+                    "name": "Hull Boost",
+                    "isPercent": true,
+                    "min": 6,
+                    "max": 12
+                },
+                "mass": {
+                    "name": "Mass",
+                    "isPercent": true,
+                    "min": 0,
+                    "max": -12
+                },
+                "hull-reinforcement": {
+                    "name": "Hull Reinforcement",
+                    "isPercent": true,
+                    "min": -20,
+                    "max": -15
+                }
+            }
+        },
+        "5": {
+            "components": {
+                "Conductive Ceramics": 2,
+                "Tin": 3,
+                "Military Grade Alloys": 2,
+                "Hardware Diagnostic Sensor": 1
+            },
+            "effects": {
+                "hull-boost": {
+                    "name": "Hull Boost",
+                    "isPercent": true,
+                    "min": 8,
+                    "max": 15
+                },
+                "mass": {
+                    "name": "Mass",
+                    "isPercent": true,
+                    "min": 0,
+                    "max": -15
+                },
+                "hull-reinforcement": {
+                    "name": "Hull Reinforcement",
+                    "isPercent": true,
+                    "min": -25,
+                    "max": -20
+                }
+            }
+        }
+    }
+}

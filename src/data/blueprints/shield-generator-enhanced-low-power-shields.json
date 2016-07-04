@@ -1,0 +1,206 @@
+{
+    "name": "Enhanced, Low Power Shields",
+    "module": "Shield Generator",
+    "recipes": {
+        "1": {
+            "components": {
+                "Distorted Shield Cycle Recordings": 2,
+                "Germanium": 1,
+                "Focus Crystals": 1
+            },
+            "effects": {
+                "power-draw": {
+                    "name": "Power Draw",
+                    "isPercent": true,
+                    "min": 0,
+                    "max": -6
+                },
+                "optimal-hull-mass": {
+                    "name": "Optimal Hull Mass",
+                    "isPercent": true,
+                    "min": -3,
+                    "max": 0
+                },
+                "mass": {
+                    "name": "Mass",
+                    "isPercent": true,
+                    "min": 0,
+                    "max": -5
+                },
+                "integrity": {
+                    "name": "Integrity",
+                    "isPercent": true,
+                    "min": -10,
+                    "max": -5
+                },
+                "optimal-strength": {
+                    "name": "Optimal Strength",
+                    "isPercent": true,
+                    "min": -6,
+                    "max": 0
+                }
+            }
+        },
+        "2": {
+            "components": {
+                "Distorted Shield Cycle Recordings": 2,
+                "Germanium": 2,
+                "Focus Crystals": 2,
+                "Micro Controllers": 1
+            },
+            "effects": {
+                "power-draw": {
+                    "name": "Power Draw",
+                    "isPercent": true,
+                    "min": -2,
+                    "max": -11
+                },
+                "optimal-hull-mass": {
+                    "name": "Optimal Hull Mass",
+                    "isPercent": true,
+                    "min": -6,
+                    "max": -1
+                },
+                "mass": {
+                    "name": "Mass",
+                    "isPercent": true,
+                    "min": -2,
+                    "max": -8
+                },
+                "integrity": {
+                    "name": "Integrity",
+                    "isPercent": true,
+                    "min": -20,
+                    "max": -10
+                },
+                "optimal-strength": {
+                    "name": "Optimal Strength",
+                    "isPercent": true,
+                    "min": -5,
+                    "max": 0
+                }
+            }
+        },
+        "3": {
+            "components": {
+                "Distorted Shield Cycle Recordings": 1,
+                "Germanium": 2,
+                "Precipitated Alloys": 2,
+                "Refined Focus Crystals": 1,
+                "Power Transfer Bus": null
+            },
+            "effects": {
+                "power-draw": {
+                    "name": "Power Draw",
+                    "isPercent": true,
+                    "min": -5,
+                    "max": -15
+                },
+                "optimal-hull-mass": {
+                    "name": "Optimal Hull Mass",
+                    "isPercent": true,
+                    "min": -9,
+                    "max": -1
+                },
+                "mass": {
+                    "name": "Mass",
+                    "isPercent": true,
+                    "min": -5,
+                    "max": -12
+                },
+                "integrity": {
+                    "name": "Integrity",
+                    "isPercent": true,
+                    "min": -31,
+                    "max": -15
+                },
+                "optimal-strength": {
+                    "name": "Optimal Strength",
+                    "isPercent": true,
+                    "min": -3,
+                    "max": 1
+                }
+            }
+        },
+        "4": {
+            "components": {
+                "Inconsistent Shield Soak Analysis": 1,
+                "Niobium": 2,
+                "Thermic Alloys": 3,
+                "Nanobreakers": 1
+            },
+            "effects": {
+                "power-draw": {
+                    "name": "Power Draw",
+                    "isPercent": true,
+                    "min": -6,
+                    "max": -20
+                },
+                "optimal-hull-mass": {
+                    "name": "Optimal Hull Mass",
+                    "isPercent": true,
+                    "min": -13,
+                    "max": -4
+                },
+                "mass": {
+                    "name": "Mass",
+                    "isPercent": true,
+                    "min": -6,
+                    "max": -16
+                },
+                "integrity": {
+                    "name": "Integrity",
+                    "isPercent": true,
+                    "min": -40,
+                    "max": -20
+                },
+                "optimal-strength": {
+                    "name": "Optimal Strength",
+                    "isPercent": true,
+                    "min": -1,
+                    "max": 3
+                }
+            }
+        },
+        "5": {
+            "components": {
+                "Untypical Shield Scans": 2,
+                "Tin": 2,
+                "Military Grade Alloys": 2,
+                "Platinum": 1
+            },
+            "effects": {
+                "power-draw": {
+                    "name": "Power Draw",
+                    "isPercent": true,
+                    "min": -8,
+                    "max": -25
+                },
+                "optimal-hull-mass": {
+                    "name": "Optimal Hull Mass",
+                    "isPercent": true,
+                    "min": -16,
+                    "max": -5
+                },
+                "mass": {
+                    "name": "Mass",
+                    "isPercent": true,
+                    "min": -8,
+                    "max": -20
+                },
+                "integrity": {
+                    "name": "Integrity",
+                    "isPercent": true,
+                    "min": -50,
+                    "max": -25
+                },
+                "optimal-strength": {
+                    "name": "Optimal Strength",
+                    "isPercent": true,
+                    "min": -1,
+                    "max": 5
+                }
+            }
+        }
+    }
+}

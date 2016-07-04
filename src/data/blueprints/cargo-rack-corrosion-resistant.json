@@ -1,0 +1,28 @@
+{
+    "name": "Corrosion Resistant",
+    "module": "Cargo Rack",
+    "recipes": {
+        "1": {
+            "components": {},
+            "effects": {
+                "capacity": {
+                    "name": "Capacity",
+                    "isPercent": false,
+                    "min": 1,
+                    "max": 1
+                }
+            }
+        },
+        "2": {
+            "components": {},
+            "effects": {
+                "capacity": {
+                    "name": "Capacity",
+                    "isPercent": false,
+                    "min": 2,
+                    "max": 2
+                }
+            }
+        }
+    }
+}

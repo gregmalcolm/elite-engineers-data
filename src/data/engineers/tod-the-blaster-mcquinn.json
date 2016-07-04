@@ -1,0 +1,41 @@
+{
+    "name": "Tod 'The Blaster' McQuinn",
+    "location": {
+        "system": "Wolf  397",
+        "planet": "Trus Madi"
+    },
+    "allegiance": "Alliance",
+    "specialization": "Weapons",
+    "welcomeGift": "100,000 Cr in bounty claims",
+    "requirements": "Alliance aligned / 15 bounty vouchers to reveal the contact",
+    "modules": {
+        "Cannon": 2,
+        "Frag Cannon": 3,
+        "Multi-Cannon": 5,
+        "Rail Gun": 2
+    },
+    "blueprints": [
+        "cannon-efficient-weapon",
+        "cannon-high-capacity-magazine",
+        "cannon-long-range-weapon",
+        "cannon-short-range-blaster",
+        "cannon-overcharged-weapon",
+        "frag-cannon-double-shot",
+        "frag-cannon-efficient-weapon",
+        "frag-cannon-high-capacity-magazine",
+        "frag-cannon-light-weight-mount",
+        "frag-cannon-overcharged-weapon",
+        "frag-cannon-sturdy-mount",
+        "multi-cannon-efficient-weapon",
+        "multi-cannon-high-capacity-magazine",
+        "multi-cannon-light-weight-mount",
+        "multi-cannon-overcharged-weapon",
+        "multi-cannon-short-range-blaster",
+        "multi-cannon-sturdy-mount",
+        "rail-gun-high-capacity-magazine",
+        "rail-gun-light-weight-mount",
+        "rail-gun-long-range-weapon",
+        "rail-gun-short-range-blaster",
+        "rail-gun-sturdy-mount"
+    ]
+}

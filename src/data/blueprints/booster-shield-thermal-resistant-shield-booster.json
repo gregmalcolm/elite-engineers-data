@@ -1,0 +1,89 @@
+{
+    "name": "Thermal Resistant Shield Booster",
+    "module": "Booster (Shield)",
+    "recipes": {
+        "1": {
+            "components": {
+                "Iron": 2,
+                "Inconsistent Shield Soak Analysis": 1
+            },
+            "effects": {
+                "thermal-resistance": {
+                    "name": "Thermal Resistance",
+                    "isPercent": false,
+                    "min": 0,
+                    "max": 5
+                },
+                "explosive-resistance": {
+                    "name": "Explosive Resistance",
+                    "isPercent": false,
+                    "min": -2,
+                    "max": 0
+                },
+                "kinetic-resistance": {
+                    "name": "Kinetic Resistance",
+                    "isPercent": false,
+                    "min": -2,
+                    "max": 0
+                }
+            }
+        },
+        "2": {
+            "components": {
+                "Heat Conduction Wiring": 2,
+                "Germanium": 2,
+                "Untypical Shield Scans": 1,
+                "Micro Controllers": 1
+            },
+            "effects": {
+                "thermal-resistance": {
+                    "name": "Thermal Resistance",
+                    "isPercent": false,
+                    "min": 5,
+                    "max": 10
+                },
+                "explosive-resistance": {
+                    "name": "Explosive Resistance",
+                    "isPercent": false,
+                    "min": -5,
+                    "max": -3
+                },
+                "kinetic-resistance": {
+                    "name": "Kinetic Resistance",
+                    "isPercent": false,
+                    "min": -5,
+                    "max": -3
+                }
+            }
+        },
+        "3": {
+            "components": {
+                "Heat Conduction Wiring": 1,
+                "Heat Dispersion Plate": 1,
+                "Focus Crystals": 2,
+                "Aberrant Shield Pattern Analysis": 1,
+                "Magnetic Emitter Coil": null
+            },
+            "effects": {
+                "thermal-resistance": {
+                    "name": "Thermal Resistance",
+                    "isPercent": false,
+                    "min": 10,
+                    "max": 15
+                },
+                "explosive-resistance": {
+                    "name": "Explosive Resistance",
+                    "isPercent": false,
+                    "min": -7,
+                    "max": -6
+                },
+                "kinetic-resistance": {
+                    "name": "Kinetic Resistance",
+                    "isPercent": false,
+                    "min": -7,
+                    "max": -6
+                }
+            }
+        }
+    }
+}

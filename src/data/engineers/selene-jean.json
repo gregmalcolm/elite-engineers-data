@@ -1,0 +1,28 @@
+{
+    "name": "Selene Jean",
+    "location": {
+        "system": "Kuk",
+        "planet": "B 3"
+    },
+    "allegiance": "Alliance",
+    "specialization": "Ship",
+    "welcomeGift": "10x Painite",
+    "requirements": "Mining 500T of ore / From Tod McQuinn (Rank 3)",
+    "modules": {
+        "Lightweight Alloy": 5,
+        "Hull Reinforcement": 5
+    },
+    "blueprints": [
+        "lightweight-alloy-lightweight-armour",
+        "lightweight-alloy-blast-resistant-armour",
+        "lightweight-alloy-heavy-duty-armour",
+        "lightweight-alloy-kinetic-resistant-armour",
+        "lightweight-alloy-thermal-resistant-armour",
+        "hull-reinforcement-lightweight-hull-reinforcement",
+        "hull-reinforcement-light-weight-hull-reinforcement",
+        "hull-reinforcement-blast-resistant-hull-reinforcement",
+        "hull-reinforcement-heavy-duty-hull-reinforcement",
+        "hull-reinforcement-kinetic-resistant-hull-reinforcement",
+        "hull-reinforcement-thermal-resistant-hull-reinforcement"
+    ]
+}

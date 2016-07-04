@@ -1,0 +1,85 @@
+{
+    "name": "Focused Weapon",
+    "module": "Plasma Accelerators",
+    "recipes": {
+        "1": {
+            "components": {
+                "Iron": 1,
+                "Conductive Components": 1,
+                "Electrochemical Arrays": 1
+            },
+            "effects": {
+                "maximum-range": {
+                    "name": "Maximum Range",
+                    "isPercent": true,
+                    "min": 10,
+                    "max": 19
+                },
+                "damage-per-second": {
+                    "name": "Damage Per Second",
+                    "isPercent": true,
+                    "min": -20,
+                    "max": -10
+                },
+                "rate-of-fire": {
+                    "name": "Rate Of Fire",
+                    "isPercent": true,
+                    "min": -20,
+                    "max": -10
+                },
+                "thermal-load": {
+                    "name": "Thermal Load",
+                    "isPercent": true,
+                    "min": 50,
+                    "max": 39
+                },
+                "armour-piercing": {
+                    "name": "Armour Piercing",
+                    "isPercent": true,
+                    "min": 0,
+                    "max": 0
+                }
+            }
+        },
+        "2": {
+            "components": {
+                "Iron": 2,
+                "Conductive Components": 2,
+                "Electrochemical Arrays": 2,
+                "Micro Controllers": 1
+            },
+            "effects": {
+                "maximum-range": {
+                    "name": "Maximum Range",
+                    "isPercent": true,
+                    "min": 19,
+                    "max": 39
+                },
+                "damage-per-second": {
+                    "name": "Damage Per Second",
+                    "isPercent": true,
+                    "min": -17,
+                    "max": -7
+                },
+                "rate-of-fire": {
+                    "name": "Rate Of Fire",
+                    "isPercent": true,
+                    "min": -17,
+                    "max": -7
+                },
+                "thermal-load": {
+                    "name": "Thermal Load",
+                    "isPercent": true,
+                    "min": 39,
+                    "max": 29
+                },
+                "armour-piercing": {
+                    "name": "Armour Piercing",
+                    "isPercent": true,
+                    "min": -1,
+                    "max": 10
+                }
+            }
+        }
+    }
+}

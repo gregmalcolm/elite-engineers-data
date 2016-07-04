@@ -1,0 +1,207 @@
+{
+    "name": "Dirty Drive Tuning",
+    "module": "Thrusters",
+    "recipes": {
+        "1": {
+            "components": {
+                "Specialised Legacy Firmware": 2,
+                "Chemical Processors": 2
+            },
+            "effects": {
+                "optimal-multiplier": {
+                    "name": "Optimal Multiplier",
+                    "isPercent": true,
+                    "min": 0,
+                    "max": 4
+                },
+                "thermal-load": {
+                    "name": "Thermal Load",
+                    "isPercent": true,
+                    "min": 20,
+                    "max": 0
+                },
+                "power-draw": {
+                    "name": "Power Draw",
+                    "isPercent": true,
+                    "min": 3,
+                    "max": 0
+                },
+                "integrity": {
+                    "name": "Integrity",
+                    "isPercent": true,
+                    "min": -6,
+                    "max": 0
+                },
+                "optimal-mass": {
+                    "name": "Optimal Mass",
+                    "isPercent": true,
+                    "min": -4,
+                    "max": 0
+                }
+            }
+        },
+        "2": {
+            "components": {
+                "Specialised Legacy Firmware": 2,
+                "Mechanical Equipment": 2,
+                "Chemical Distillery": 1,
+                "Modular Terminals": 1,
+                "Specialsed Legacy Firmware": 2
+            },
+            "effects": {
+                "optimal-multiplier": {
+                    "name": "Optimal Multiplier",
+                    "isPercent": true,
+                    "min": 4,
+                    "max": 10
+                },
+                "thermal-load": {
+                    "name": "Thermal Load",
+                    "isPercent": true,
+                    "min": 39,
+                    "max": 10
+                },
+                "power-draw": {
+                    "name": "Power Draw",
+                    "isPercent": true,
+                    "min": 8,
+                    "max": 2
+                },
+                "integrity": {
+                    "name": "Integrity",
+                    "isPercent": true,
+                    "min": -12,
+                    "max": 1
+                },
+                "optimal-mass": {
+                    "name": "Optimal Mass",
+                    "isPercent": true,
+                    "min": -6,
+                    "max": -1
+                }
+            }
+        },
+        "3": {
+            "components": {
+                "Specialised Legacy Firmware": 1,
+                "Chromium": 2,
+                "Mechanical Components": 2,
+                "Chemical Manipulators": 1,
+                "Micro-Weave Cooling Hoses": 1
+            },
+            "effects": {
+                "optimal-multiplier": {
+                    "name": "Optimal Multiplier",
+                    "isPercent": true,
+                    "min": 10,
+                    "max": 14
+                },
+                "thermal-load": {
+                    "name": "Thermal Load",
+                    "isPercent": true,
+                    "min": 61,
+                    "max": 20
+                },
+                "power-draw": {
+                    "name": "Power Draw",
+                    "isPercent": true,
+                    "min": 11,
+                    "max": 3
+                },
+                "integrity": {
+                    "name": "Integrity",
+                    "isPercent": true,
+                    "min": -18,
+                    "max": 4
+                },
+                "optimal-mass": {
+                    "name": "Optimal Mass",
+                    "isPercent": true,
+                    "min": -10,
+                    "max": -2
+                }
+            }
+        },
+        "4": {
+            "components": {
+                "Modified Consumer Firmware": 2,
+                "Selenium": 3,
+                "Configurable Components": 2,
+                "Pharmaceutical Isolators": 1,
+                "Heatsink Interlink": 1
+            },
+            "effects": {
+                "optimal-multiplier": {
+                    "name": "Optimal Multiplier",
+                    "isPercent": true,
+                    "min": 14,
+                    "max": 20
+                },
+                "thermal-load": {
+                    "name": "Thermal Load",
+                    "isPercent": true,
+                    "min": 79,
+                    "max": 29
+                },
+                "power-draw": {
+                    "name": "Power Draw",
+                    "isPercent": true,
+                    "min": 15,
+                    "max": 5
+                },
+                "integrity": {
+                    "name": "Integrity",
+                    "isPercent": true,
+                    "min": -24,
+                    "max": 5
+                },
+                "optimal-mass": {
+                    "name": "Optimal Mass",
+                    "isPercent": true,
+                    "min": -12,
+                    "max": -4
+                }
+            }
+        },
+        "5": {
+            "components": {
+                "Cracked Industrial Firmware": 2,
+                "Cadmium": 2,
+                "Pharmaceutical Isolators": 2,
+                "Exhaust Manifold": 1
+            },
+            "effects": {
+                "optimal-multiplier": {
+                    "name": "Optimal Multiplier",
+                    "isPercent": true,
+                    "min": 20,
+                    "max": 2
+                },
+                "thermal-load": {
+                    "name": "Thermal Load",
+                    "isPercent": true,
+                    "min": 100,
+                    "max": 29
+                },
+                "power-draw": {
+                    "name": "Power Draw",
+                    "isPercent": true,
+                    "min": 20,
+                    "max": 8
+                },
+                "integrity": {
+                    "name": "Integrity",
+                    "isPercent": true,
+                    "min": -31,
+                    "max": 8
+                },
+                "optimal-mass": {
+                    "name": "Optimal Mass",
+                    "isPercent": true,
+                    "min": -16,
+                    "max": -5
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Anomalous Bulk Scan Data",
+    "type": "Data",
+    "subtype": "Scan Data",
+    "rarity": "VCom",
+    "location": [],
+    "missionReward": true
+}

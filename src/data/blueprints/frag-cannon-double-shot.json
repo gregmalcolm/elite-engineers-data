@@ -1,0 +1,166 @@
+{
+    "name": "Double Shot",
+    "module": "Frag Cannon",
+    "recipes": {
+        "1": {
+            "components": {
+                "Carbon": 2,
+                "Mechanical Equipment": 1
+            },
+            "effects": {
+                "ammo-clip-size": {
+                    "name": "Ammo Clip Size",
+                    "isPercent": true,
+                    "min": 0,
+                    "max": 34
+                },
+                "damage-per-second": {
+                    "name": "Damage Per Second",
+                    "isPercent": true,
+                    "min": 28,
+                    "max": 45
+                },
+                "rate-of-fire": {
+                    "name": "Rate Of Fire",
+                    "isPercent": true,
+                    "min": 28,
+                    "max": 45
+                },
+                "burst-size": {
+                    "name": "Burst Size",
+                    "isPercent": true,
+                    "min": 0,
+                    "max": 1
+                },
+                "maximum-range": {
+                    "name": "Maximum Range",
+                    "isPercent": true,
+                    "min": -25,
+                    "max": -10
+                }
+            }
+        },
+        "2": {
+            "components": {
+                "Carbon": 2,
+                "Mechanical Equipment": 2,
+                "Cracked Industrial Firmware": 1,
+                "Micro Controllers": 1
+            },
+            "effects": {
+                "ammo-clip-size": {
+                    "name": "Ammo Clip Size",
+                    "isPercent": true,
+                    "min": 0,
+                    "max": 34
+                },
+                "damage-per-second": {
+                    "name": "Damage Per Second",
+                    "isPercent": true,
+                    "min": 32,
+                    "max": 48
+                },
+                "rate-of-fire": {
+                    "name": "Rate Of Fire",
+                    "isPercent": true,
+                    "min": 32,
+                    "max": 48
+                },
+                "burst-size": {
+                    "name": "Burst Size",
+                    "isPercent": true,
+                    "min": 0,
+                    "max": 1
+                },
+                "maximum-range": {
+                    "name": "Maximum Range",
+                    "isPercent": true,
+                    "min": -20,
+                    "max": -8
+                }
+            }
+        },
+        "3": {
+            "components": {
+                "Carbon": 1,
+                "Mechanical Equipment": 1,
+                "Cracked Industrial Firmware": 1,
+                "Mercury": 1,
+                "Osmium": 1
+            },
+            "effects": {
+                "ammo-clip-size": {
+                    "name": "Ammo Clip Size",
+                    "isPercent": true,
+                    "min": 34,
+                    "max": 100
+                },
+                "damage-per-second": {
+                    "name": "Damage Per Second",
+                    "isPercent": true,
+                    "min": 37,
+                    "max": 50
+                },
+                "rate-of-fire": {
+                    "name": "Rate Of Fire",
+                    "isPercent": true,
+                    "min": 37,
+                    "max": 50
+                },
+                "burst-size": {
+                    "name": "Burst Size",
+                    "isPercent": true,
+                    "min": 0,
+                    "max": 1
+                },
+                "maximum-range": {
+                    "name": "Maximum Range",
+                    "isPercent": true,
+                    "min": -15,
+                    "max": -6
+                }
+            }
+        },
+        "4": {
+            "components": {
+                "Vanadium": 2,
+                "Mechanical Components": 2,
+                "Security Firmware Patch": 1,
+                "Ruthenium": 1,
+                "Osmium": 1
+            },
+            "effects": {
+                "ammo-clip-size": {
+                    "name": "Ammo Clip Size",
+                    "isPercent": true,
+                    "min": 0,
+                    "max": 100
+                },
+                "damage-per-second": {
+                    "name": "Damage Per Second",
+                    "isPercent": true,
+                    "min": 40,
+                    "max": 52
+                },
+                "rate-of-fire": {
+                    "name": "Rate Of Fire",
+                    "isPercent": true,
+                    "min": 40,
+                    "max": 52
+                },
+                "burst-size": {
+                    "name": "Burst Size",
+                    "isPercent": true,
+                    "min": 0,
+                    "max": 1
+                },
+                "maximum-range": {
+                    "name": "Maximum Range",
+                    "isPercent": true,
+                    "min": -10,
+                    "max": -4
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,115 @@
+{
+    "name": "Sturdy Mount",
+    "module": "Frag Cannon",
+    "recipes": {
+        "1": {
+            "components": {
+                "Nickel": 2,
+                "Vanadium": 2
+            },
+            "effects": {
+                "mass": {
+                    "name": "Mass",
+                    "isPercent": true,
+                    "min": 50,
+                    "max": 0
+                },
+                "integrity": {
+                    "name": "Integrity",
+                    "isPercent": true,
+                    "min": 10,
+                    "max": 25
+                },
+                "armour-piercing": {
+                    "name": "Armour Piercing",
+                    "isPercent": true,
+                    "min": 0,
+                    "max": 0
+                }
+            }
+        },
+        "2": {
+            "components": {
+                "Nickel": 2,
+                "Shield Emitters": 2,
+                "Tungsten": 1,
+                "HN Shock Mount": 1
+            },
+            "effects": {
+                "mass": {
+                    "name": "Mass",
+                    "isPercent": true,
+                    "min": 100,
+                    "max": 50
+                },
+                "integrity": {
+                    "name": "Integrity",
+                    "isPercent": true,
+                    "min": 20,
+                    "max": 50
+                },
+                "armour-piercing": {
+                    "name": "Armour Piercing",
+                    "isPercent": true,
+                    "min": 0,
+                    "max": 0
+                }
+            }
+        },
+        "3": {
+            "components": {
+                "Zinc": 2,
+                "Shielding Sensors": 2,
+                "Molybdenum": 1,
+                "Osmium": 1
+            },
+            "effects": {
+                "mass": {
+                    "name": "Mass",
+                    "isPercent": true,
+                    "min": 150,
+                    "max": 100
+                },
+                "integrity": {
+                    "name": "Integrity",
+                    "isPercent": true,
+                    "min": 31,
+                    "max": 75
+                },
+                "armour-piercing": {
+                    "name": "Armour Piercing",
+                    "isPercent": true,
+                    "min": 0,
+                    "max": 14
+                }
+            }
+        },
+        "4": {
+            "components": {
+                "High Density Composites": 2,
+                "Molybdenum": 2,
+                "Osmium": 1
+            },
+            "effects": {
+                "mass": {
+                    "name": "Mass",
+                    "isPercent": true,
+                    "min": 200,
+                    "max": 150
+                },
+                "integrity": {
+                    "name": "Integrity",
+                    "isPercent": true,
+                    "min": 39,
+                    "max": 100
+                },
+                "armour-piercing": {
+                    "name": "Armour Piercing",
+                    "isPercent": true,
+                    "min": 10,
+                    "max": 31
+                }
+            }
+        }
+    }
+}
