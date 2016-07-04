@@ -2,7 +2,7 @@
     "name": "Imperial Shielding",
     "type": "Man",
     "subtype": "Shielding",
-    "rarity": "VRare",
+    "rarity": 5,
     "location": [
         "Ship Wreck Salvage"
     ],

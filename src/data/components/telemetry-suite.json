@@ -2,7 +2,7 @@
     "name": "Telemetry Suite",
     "type": "Com",
     "subtype": "Commodity",
-    "rarity": "Std",
+    "rarity": 3,
     "location": [],
     "missionReward": true
 }

@@ -2,7 +2,7 @@
     "name": "Heat Conduction Wiring",
     "type": "Man",
     "subtype": "Heat Exchanger",
-    "rarity": "VCom",
+    "rarity": 1,
     "location": [
         "Ship Wreck Salvage"
     ],

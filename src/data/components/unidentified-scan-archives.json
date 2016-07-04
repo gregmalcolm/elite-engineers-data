@@ -2,7 +2,7 @@
     "name": "Unidentified Scan Archives",
     "type": "Data",
     "subtype": "Scan Data",
-    "rarity": "Com",
+    "rarity": 2,
     "location": [
         "NPC Ship Scanning"
     ],

@@ -2,7 +2,7 @@
     "name": "Focus Crystals",
     "type": "Man",
     "subtype": "Focusing Crystal",
-    "rarity": "Std",
+    "rarity": 3,
     "location": [
         "Ship Wreck Salvage"
     ],

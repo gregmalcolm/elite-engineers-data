@@ -2,7 +2,7 @@
     "name": "Mechanical Components",
     "type": "Man",
     "subtype": "Mechanical Component",
-    "rarity": "Std",
+    "rarity": 3,
     "location": [
         "Ship Wreck Salvage"
     ],

@@ -2,7 +2,7 @@
     "name": "Anomalous FSD Telemetry",
     "type": "Data",
     "subtype": "Scan Data",
-    "rarity": "Com",
+    "rarity": 2,
     "location": [
         "High Wake Scanning"
     ],

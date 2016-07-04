@@ -2,7 +2,7 @@
     "name": "Specialised Legacy Firmware",
     "type": "Data",
     "subtype": "Firmware",
-    "rarity": "VCom",
+    "rarity": 1,
     "location": [
         "Ship Wreck Salvage",
         "Satellite USS (ELW)"

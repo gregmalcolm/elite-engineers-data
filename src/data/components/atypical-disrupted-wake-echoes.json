@@ -2,7 +2,7 @@
     "name": "Atypical Disrupted Wake Echoes",
     "type": "Data",
     "subtype": "Scan Data",
-    "rarity": "VCom",
+    "rarity": 1,
     "location": [
         "High Wake Scanning"
     ],

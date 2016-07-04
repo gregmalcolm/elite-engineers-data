@@ -2,7 +2,7 @@
     "name": "Chemical Processors",
     "type": "Man",
     "subtype": "Chemical Manipulator",
-    "rarity": "Com",
+    "rarity": 2,
     "location": [
         "Ship Wreck Salvage"
     ],

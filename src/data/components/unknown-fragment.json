@@ -2,7 +2,7 @@
     "name": "Unknown Fragment",
     "type": "Man",
     "subtype": "Unknown",
-    "rarity": "VRare",
+    "rarity": 5,
     "location": [
         "Destroy Ukwn Artefact"
     ],

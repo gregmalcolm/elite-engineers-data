@@ -421,7 +421,23 @@ function objComponent () {
   this.shipType = null;
 }
 
+/**
+ * Convert rarity name to an integer
+ *
+ * @param  rareName The name of rarity level
+ * @return Integer
+ */
+function getRarityLevel(rareName) {
+  switch(rareName) {
+    case 'VCom':return 1; break;
+    case 'Com':return 2; break;
+    case 'Std':return 3; break;
+    case 'Rare':return 4; break;
+    case 'VRare':return 5; break;
+  }
 
+  return rareName;
+}
 
 /**
  * Convert the flat engineer struture to something muck more usable
@@ -452,7 +468,7 @@ function improveJsonEngineers(rowsData, rowsDataInfos, rowsComponents) {
     objC.name = row.component;
     objC.type = row.type;
     objC.subtype = row.subtype;
-    objC.rarity = row.rarity;
+    objC.rarity = getRarityLevel(row.rarity);
     for(i=1; i<=3; i++) {
       var keyLoc = 'loc'+i;
       if(row[keyLoc] != undefined && row[keyLoc] != '')

@@ -2,7 +2,7 @@
     "name": "Peculiar Shield Frequency Data",
     "type": "Data",
     "subtype": "Shield Frequency System",
-    "rarity": "VRare",
+    "rarity": 5,
     "location": [
         "NPC Ship Scanning"
     ],

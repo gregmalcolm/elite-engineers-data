@@ -2,7 +2,7 @@
     "name": "Distorted Shield Cycle Recordings",
     "type": "Data",
     "subtype": "Shield Frequency System",
-    "rarity": "VCom",
+    "rarity": 1,
     "location": [
         "NPC Ship Scanning"
     ],

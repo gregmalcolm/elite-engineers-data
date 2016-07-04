@@ -2,7 +2,7 @@
     "name": "Anomalous Bulk Scan Data",
     "type": "Data",
     "subtype": "Scan Data",
-    "rarity": "VCom",
+    "rarity": 1,
     "location": [
         "NPC Ship Scanning"
     ],

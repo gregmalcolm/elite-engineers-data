@@ -2,7 +2,7 @@
     "name": "Unexpected Emission Data",
     "type": "Data",
     "subtype": "Emission Data",
-    "rarity": "Std",
+    "rarity": 3,
     "location": [
         "NPC Ship Scanning"
     ],

@@ -2,7 +2,7 @@
     "name": "Strange Wake Solutions",
     "type": "Data",
     "subtype": "Scan Data",
-    "rarity": "Std",
+    "rarity": 3,
     "location": [
         "High Wake Scanning"
     ],

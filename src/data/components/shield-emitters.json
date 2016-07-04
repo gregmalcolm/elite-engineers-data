@@ -2,7 +2,7 @@
     "name": "Shield Emitters",
     "type": "Man",
     "subtype": "Shielding",
-    "rarity": "Com",
+    "rarity": 2,
     "location": [
         "Ship Wreck Salvage",
         "POI"

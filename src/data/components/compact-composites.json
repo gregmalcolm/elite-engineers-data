@@ -2,7 +2,7 @@
     "name": "Compact Composites",
     "type": "Man",
     "subtype": "High Density Composites",
-    "rarity": "VCom",
+    "rarity": 1,
     "location": [
         "Ship Wreck Salvage",
         "POI"

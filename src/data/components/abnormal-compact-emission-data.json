@@ -2,7 +2,7 @@
     "name": "Abnormal Compact Emission Data",
     "type": "Data",
     "subtype": "Emission Data",
-    "rarity": "VRare",
+    "rarity": 5,
     "location": [
         "Ship Wreck Salvage",
         "NPC Ship Scanning"

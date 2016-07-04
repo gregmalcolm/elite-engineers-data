@@ -2,7 +2,7 @@
     "name": "Datamined Wake Exceptions",
     "type": "Data",
     "subtype": "Scan Data",
-    "rarity": "VRare",
+    "rarity": 5,
     "location": [
         "High Wake Scanning"
     ],

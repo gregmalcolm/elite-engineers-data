@@ -2,7 +2,7 @@
     "name": "Untypical Shield Scans",
     "type": "Data",
     "subtype": "Shield Frequency System",
-    "rarity": "Std",
+    "rarity": 3,
     "location": [
         "NPC Ship Scanning"
     ],

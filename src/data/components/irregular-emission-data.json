@@ -2,7 +2,7 @@
     "name": "Irregular Emission Data",
     "type": "Data",
     "subtype": "Emission Data",
-    "rarity": "Com",
+    "rarity": 2,
     "location": [
         "Ship Wreck Salvage"
     ],

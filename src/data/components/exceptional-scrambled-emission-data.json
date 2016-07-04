@@ -2,7 +2,7 @@
     "name": "Exceptional Scrambled Emission Data",
     "type": "Data",
     "subtype": "Emission Data",
-    "rarity": "VCom",
+    "rarity": 1,
     "location": [
         "NPC Ship Scanning",
         "Ship Wreck Salvage"

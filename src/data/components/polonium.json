@@ -2,7 +2,7 @@
     "name": "Polonium",
     "type": "Ele",
     "subtype": "Raw Material",
-    "rarity": "VRare",
+    "rarity": 5,
     "location": [
         "Surface Prospecting"
     ],

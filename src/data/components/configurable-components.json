@@ -2,7 +2,7 @@
     "name": "Configurable Components",
     "type": "Man",
     "subtype": "Mechanical Component",
-    "rarity": "Rare",
+    "rarity": 4,
     "location": [
         "Ship Wreck Salvage"
     ],

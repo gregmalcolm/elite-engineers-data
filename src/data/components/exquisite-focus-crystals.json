@@ -2,7 +2,7 @@
     "name": "Exquisite Focus Crystals",
     "type": "Man",
     "subtype": "Focusing Crystal",
-    "rarity": "VRare",
+    "rarity": 5,
     "location": [],
     "missionReward": true
 }

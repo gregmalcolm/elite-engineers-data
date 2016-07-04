@@ -2,7 +2,7 @@
     "name": "Biotech Conductors",
     "type": "Man",
     "subtype": "Conductor",
-    "rarity": "VRare",
+    "rarity": 5,
     "location": [],
     "missionReward": "Only"
 }

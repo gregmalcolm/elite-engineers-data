@@ -2,7 +2,7 @@
     "name": "Vanadium",
     "type": "Ele",
     "subtype": "Raw Material",
-    "rarity": "Com",
+    "rarity": 2,
     "location": [
         "Surface Prospecting",
         "Ice Rings - Mining"

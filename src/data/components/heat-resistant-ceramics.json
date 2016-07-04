@@ -2,7 +2,7 @@
     "name": "Heat Resistant Ceramics",
     "type": "Man",
     "subtype": "Heat Resistant Alloy",
-    "rarity": "Com",
+    "rarity": 2,
     "location": [
         "Ship Wreck Salvage"
     ],

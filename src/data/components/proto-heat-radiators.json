@@ -2,7 +2,7 @@
     "name": "Proto Heat Radiators",
     "type": "Man",
     "subtype": "Heat Exchanger",
-    "rarity": "VRare",
+    "rarity": 5,
     "location": [
         "Ship Wreck Salvage"
     ],

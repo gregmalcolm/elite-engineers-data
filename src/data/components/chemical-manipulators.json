@@ -2,7 +2,7 @@
     "name": "Chemical Manipulators",
     "type": "Man",
     "subtype": "Chemical Manipulator",
-    "rarity": "Rare",
+    "rarity": 4,
     "location": [
         "Ship Wreck Salvage",
         "POI"

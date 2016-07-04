@@ -2,7 +2,7 @@
     "name": "HN Shock Mount",
     "type": "Com",
     "subtype": "Commodity",
-    "rarity": "Std",
+    "rarity": 3,
     "location": [],
     "missionReward": true
 }

@@ -2,7 +2,7 @@
     "name": "Improvised Components",
     "type": "Man",
     "subtype": "Mechanical Component",
-    "rarity": "VRare",
+    "rarity": 5,
     "location": [
         "Ship Wreck Salvage"
     ],

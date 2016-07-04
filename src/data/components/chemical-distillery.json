@@ -2,7 +2,7 @@
     "name": "Chemical Distillery",
     "type": "Man",
     "subtype": "Chemical Manipulator",
-    "rarity": "Std",
+    "rarity": 3,
     "location": [
         "Ship Wreck Salvage"
     ],

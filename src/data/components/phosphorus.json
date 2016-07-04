@@ -2,7 +2,7 @@
     "name": "Phosphorus",
     "type": "Ele",
     "subtype": "Raw Material",
-    "rarity": "VCom",
+    "rarity": 1,
     "location": [
         "Surface Prospecting",
         "All Rings - Mining"

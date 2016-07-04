@@ -2,7 +2,7 @@
     "name": "Platinum",
     "type": "Com",
     "subtype": "Commodity",
-    "rarity": "Std",
+    "rarity": 3,
     "location": [
         "Mining",
         "POI - Salvage"

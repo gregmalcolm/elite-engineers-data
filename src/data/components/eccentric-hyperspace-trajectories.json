@@ -2,7 +2,7 @@
     "name": "Eccentric Hyperspace Trajectories",
     "type": "Data",
     "subtype": "Scan Data",
-    "rarity": "Rare",
+    "rarity": 4,
     "location": [
         "Ship Wreck Salvage",
         "High Wake Scanning"

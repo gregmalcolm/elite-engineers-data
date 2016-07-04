@@ -3,7 +3,7 @@
         "name": "Aberrant Shield Pattern Analysis",
         "type": "Data",
         "subtype": "Shield Frequency System",
-        "rarity": "Rare",
+        "rarity": 4,
         "location": [
             "NPC Ship Scanning"
         ],
@@ -13,7 +13,7 @@
         "name": "Abnormal Compact Emission Data",
         "type": "Data",
         "subtype": "Emission Data",
-        "rarity": "VRare",
+        "rarity": 5,
         "location": [
             "Ship Wreck Salvage",
             "NPC Ship Scanning"
@@ -24,7 +24,7 @@
         "name": "Adaptive Encryptors Capture",
         "type": "Data",
         "subtype": "Encryption Code",
-        "rarity": "VRare",
+        "rarity": 5,
         "location": [
             "Ship Wreck Salvage",
             "POI"
@@ -35,7 +35,7 @@
         "name": "Anomalous Bulk Scan Data",
         "type": "Data",
         "subtype": "Scan Data",
-        "rarity": "VCom",
+        "rarity": 1,
         "location": [
             "NPC Ship Scanning"
         ],
@@ -45,7 +45,7 @@
         "name": "Anomalous FSD Telemetry",
         "type": "Data",
         "subtype": "Scan Data",
-        "rarity": "Com",
+        "rarity": 2,
         "location": [
             "High Wake Scanning"
         ],
@@ -55,7 +55,7 @@
         "name": "Antimony",
         "type": "Ele",
         "subtype": "Raw Material",
-        "rarity": "VRare",
+        "rarity": 5,
         "location": [
             "Surface Prospecting"
         ],
@@ -65,7 +65,7 @@
         "name": "Arsenic",
         "type": "Ele",
         "subtype": "Raw Material",
-        "rarity": "Std",
+        "rarity": 3,
         "location": [
             "Surface Prospecting",
             "Mining"
@@ -76,7 +76,7 @@
         "name": "Articulation Motors",
         "type": "Com",
         "subtype": "Commodity",
-        "rarity": "Std",
+        "rarity": 3,
         "location": [],
         "missionReward": true
     },
@@ -84,7 +84,7 @@
         "name": "Atypical Disrupted Wake Echoes",
         "type": "Data",
         "subtype": "Scan Data",
-        "rarity": "VCom",
+        "rarity": 1,
         "location": [
             "High Wake Scanning"
         ],
@@ -94,7 +94,7 @@
         "name": "Atypical Encryption Archives",
         "type": "Data",
         "subtype": "Encryption Code",
-        "rarity": "Rare",
+        "rarity": 4,
         "location": [
             "POI"
         ],
@@ -104,7 +104,7 @@
         "name": "Basic Conductors",
         "type": "Man",
         "subtype": "Conductor",
-        "rarity": "VCom",
+        "rarity": 1,
         "location": [
             "Ship Wreck Salvage"
         ],
@@ -114,7 +114,7 @@
         "name": "Biotech Conductors",
         "type": "Man",
         "subtype": "Conductor",
-        "rarity": "VRare",
+        "rarity": 5,
         "location": [],
         "missionReward": "Only"
     },
@@ -122,7 +122,7 @@
         "name": "Bromellite",
         "type": "Com",
         "subtype": "Commodity",
-        "rarity": "Std",
+        "rarity": 3,
         "location": [
             "Mining"
         ],
@@ -132,7 +132,7 @@
         "name": "Cadmium",
         "type": "Ele",
         "subtype": "Raw Material",
-        "rarity": "Rare",
+        "rarity": 4,
         "location": [
             "Surface Prospecting"
         ],
@@ -142,7 +142,7 @@
         "name": "Carbon",
         "type": "Ele",
         "subtype": "Raw Material",
-        "rarity": "VCom",
+        "rarity": 1,
         "location": [
             "Surface Prospecting",
             "All Rings - Mining"
@@ -153,7 +153,7 @@
         "name": "Chemical Distillery",
         "type": "Man",
         "subtype": "Chemical Manipulator",
-        "rarity": "Std",
+        "rarity": 3,
         "location": [
             "Ship Wreck Salvage"
         ],
@@ -163,7 +163,7 @@
         "name": "Chemical Manipulators",
         "type": "Man",
         "subtype": "Chemical Manipulator",
-        "rarity": "Rare",
+        "rarity": 4,
         "location": [
             "Ship Wreck Salvage",
             "POI"
@@ -174,7 +174,7 @@
         "name": "Chemical Processors",
         "type": "Man",
         "subtype": "Chemical Manipulator",
-        "rarity": "Com",
+        "rarity": 2,
         "location": [
             "Ship Wreck Salvage"
         ],
@@ -184,7 +184,7 @@
         "name": "Chemical Storage Units",
         "type": "Man",
         "subtype": "Chemical Manipulator",
-        "rarity": "VCom",
+        "rarity": 1,
         "location": [
             "Ship Wreck Salvage"
         ],
@@ -194,7 +194,7 @@
         "name": "Chromium",
         "type": "Ele",
         "subtype": "Raw Material",
-        "rarity": "Com",
+        "rarity": 2,
         "location": [
             "Surface Prospecting",
             "Mining"
@@ -205,7 +205,7 @@
         "name": "Classified Scan Databanks",
         "type": "Data",
         "subtype": "Scan Data",
-        "rarity": "Std",
+        "rarity": 3,
         "location": [
             "NPC Ship Scanning",
             "POI"
@@ -216,7 +216,7 @@
         "name": "Classified Scan Fragment",
         "type": "Data",
         "subtype": "Scan Data",
-        "rarity": "VRare",
+        "rarity": 5,
         "location": [
             "POI - Settlement"
         ],
@@ -226,7 +226,7 @@
         "name": "CMM Composite",
         "type": "Com",
         "subtype": "Commodity",
-        "rarity": "Std",
+        "rarity": 3,
         "location": [],
         "missionReward": true
     },
@@ -234,7 +234,7 @@
         "name": "Compact Composites",
         "type": "Man",
         "subtype": "High Density Composites",
-        "rarity": "VCom",
+        "rarity": 1,
         "location": [
             "Ship Wreck Salvage",
             "POI"
@@ -245,7 +245,7 @@
         "name": "Compound Shielding",
         "type": "Man",
         "subtype": "Shielding",
-        "rarity": "Rare",
+        "rarity": 4,
         "location": [
             "Ship Wreck Salvage"
         ],
@@ -255,7 +255,7 @@
         "name": "Conductive Ceramics",
         "type": "Man",
         "subtype": "Conductor",
-        "rarity": "Std",
+        "rarity": 3,
         "location": [
             "Ship Wreck Salvage"
         ],
@@ -265,7 +265,7 @@
         "name": "Conductive Components",
         "type": "Man",
         "subtype": "Conductor",
-        "rarity": "Com",
+        "rarity": 2,
         "location": [
             "Ship Wreck Salvage"
         ],
@@ -275,7 +275,7 @@
         "name": "Conductive Polymers",
         "type": "Man",
         "subtype": "Conductor",
-        "rarity": "Rare",
+        "rarity": 4,
         "location": [
             "Ship Wreck Salvage",
             "POI - Crash Site"
@@ -286,7 +286,7 @@
         "name": "Configurable Components",
         "type": "Man",
         "subtype": "Mechanical Component",
-        "rarity": "Rare",
+        "rarity": 4,
         "location": [
             "Ship Wreck Salvage"
         ],
@@ -296,7 +296,7 @@
         "name": "Core Dynamics Composites",
         "type": "Man",
         "subtype": "High Density Composites",
-        "rarity": "VRare",
+        "rarity": 5,
         "location": [
             "Ship Wreck Salvage"
         ],
@@ -306,7 +306,7 @@
         "name": "Cracked Industrial Firmware",
         "type": "Data",
         "subtype": "Firmware",
-        "rarity": "Std",
+        "rarity": 3,
         "location": [
             "POI - Data Point",
             "Ship Wreck Salvage"
@@ -317,7 +317,7 @@
         "name": "Crystal Shards",
         "type": "Man",
         "subtype": "Focusing Crystal",
-        "rarity": "VCom",
+        "rarity": 1,
         "location": [
             "Ship Wreck Salvage",
             "POI"
@@ -328,7 +328,7 @@
         "name": "Datamined Wake Exceptions",
         "type": "Data",
         "subtype": "Scan Data",
-        "rarity": "VRare",
+        "rarity": 5,
         "location": [
             "High Wake Scanning"
         ],
@@ -338,7 +338,7 @@
         "name": "Decoded Emission Data",
         "type": "Data",
         "subtype": "Emission Data",
-        "rarity": "Rare",
+        "rarity": 4,
         "location": [
             "NPC Ship Scanning"
         ],
@@ -348,7 +348,7 @@
         "name": "Distorted Shield Cycle Recordings",
         "type": "Data",
         "subtype": "Shield Frequency System",
-        "rarity": "VCom",
+        "rarity": 1,
         "location": [
             "NPC Ship Scanning"
         ],
@@ -358,7 +358,7 @@
         "name": "Divergent Scan Data",
         "type": "Data",
         "subtype": "Scan Data",
-        "rarity": "Rare",
+        "rarity": 4,
         "location": [
             "POI - Data Point"
         ],
@@ -368,7 +368,7 @@
         "name": "Eccentric Hyperspace Trajectories",
         "type": "Data",
         "subtype": "Scan Data",
-        "rarity": "Rare",
+        "rarity": 4,
         "location": [
             "Ship Wreck Salvage",
             "High Wake Scanning"
@@ -379,7 +379,7 @@
         "name": "Electrochemical Arrays",
         "type": "Man",
         "subtype": "Capacitor",
-        "rarity": "Std",
+        "rarity": 3,
         "location": [
             "Ship Wreck Salvage"
         ],
@@ -389,7 +389,7 @@
         "name": "Emergency Power Cells",
         "type": "Com",
         "subtype": "Commodity",
-        "rarity": "Std",
+        "rarity": 3,
         "location": [],
         "missionReward": true
     },
@@ -397,7 +397,7 @@
         "name": "Energy Grid Assembly",
         "type": "Com",
         "subtype": "Commodity",
-        "rarity": "Std",
+        "rarity": 3,
         "location": [],
         "missionReward": true
     },
@@ -405,7 +405,7 @@
         "name": "Exceptional Scrambled Emission Data",
         "type": "Data",
         "subtype": "Emission Data",
-        "rarity": "VCom",
+        "rarity": 1,
         "location": [
             "NPC Ship Scanning",
             "Ship Wreck Salvage"
@@ -416,7 +416,7 @@
         "name": "Exhaust Manifold",
         "type": "Com",
         "subtype": "Commodity",
-        "rarity": "Std",
+        "rarity": 3,
         "location": [],
         "missionReward": true
     },
@@ -424,7 +424,7 @@
         "name": "Exquisite Focus Crystals",
         "type": "Man",
         "subtype": "Focusing Crystal",
-        "rarity": "VRare",
+        "rarity": 5,
         "location": [],
         "missionReward": true
     },
@@ -432,7 +432,7 @@
         "name": "Filament Composites",
         "type": "Man",
         "subtype": "High Density Composites",
-        "rarity": "Com",
+        "rarity": 2,
         "location": [
             "Ship Wreck Salvage"
         ],
@@ -442,7 +442,7 @@
         "name": "Flawed Focus Crystals",
         "type": "Man",
         "subtype": "Focusing Crystal",
-        "rarity": "Com",
+        "rarity": 2,
         "location": [
             "Ship Wreck Salvage"
         ],
@@ -452,7 +452,7 @@
         "name": "Focus Crystals",
         "type": "Man",
         "subtype": "Focusing Crystal",
-        "rarity": "Std",
+        "rarity": 3,
         "location": [
             "Ship Wreck Salvage"
         ],
@@ -462,7 +462,7 @@
         "name": "Galvanising Alloys",
         "type": "Man",
         "subtype": "Lightweight Alloy",
-        "rarity": "Com",
+        "rarity": 2,
         "location": [
             "Ship Wreck Salvage"
         ],
@@ -472,7 +472,7 @@
         "name": "Germanium",
         "type": "Ele",
         "subtype": "Raw Material",
-        "rarity": "Com",
+        "rarity": 2,
         "location": [
             "Surface Prospecting",
             "Mining"
@@ -483,7 +483,7 @@
         "name": "Grid Resistors",
         "type": "Man",
         "subtype": "Capacitor",
-        "rarity": "VCom",
+        "rarity": 1,
         "location": [
             "Ship Wreck Salvage"
         ],
@@ -493,7 +493,7 @@
         "name": "Hardware Diagnostic Sensor",
         "type": "Com",
         "subtype": "Commodity",
-        "rarity": "Std",
+        "rarity": 3,
         "location": [],
         "missionReward": true
     },
@@ -501,7 +501,7 @@
         "name": "Heat Conduction Wiring",
         "type": "Man",
         "subtype": "Heat Exchanger",
-        "rarity": "VCom",
+        "rarity": 1,
         "location": [
             "Ship Wreck Salvage"
         ],
@@ -511,7 +511,7 @@
         "name": "Heat Dispersion Plate",
         "type": "Man",
         "subtype": "Heat Exchanger",
-        "rarity": "Com",
+        "rarity": 2,
         "location": [
             "Ship Wreck Salvage"
         ],
@@ -521,7 +521,7 @@
         "name": "Heat Exchangers",
         "type": "Man",
         "subtype": "Heat Exchanger",
-        "rarity": "Std",
+        "rarity": 3,
         "location": [
             "Ship Wreck Salvage"
         ],
@@ -531,7 +531,7 @@
         "name": "Heat Resistant Ceramics",
         "type": "Man",
         "subtype": "Heat Resistant Alloy",
-        "rarity": "Com",
+        "rarity": 2,
         "location": [
             "Ship Wreck Salvage"
         ],
@@ -541,7 +541,7 @@
         "name": "Heat Vanes",
         "type": "Man",
         "subtype": "Heat Exchanger",
-        "rarity": "Rare",
+        "rarity": 4,
         "location": [
             "Ship Wreck Salvage"
         ],
@@ -551,7 +551,7 @@
         "name": "Heatsink Interlink",
         "type": "Com",
         "subtype": "Commodity",
-        "rarity": "Std",
+        "rarity": 3,
         "location": [],
         "missionReward": true
     },
@@ -559,7 +559,7 @@
         "name": "High Density Composites",
         "type": "Man",
         "subtype": "High Density Composites",
-        "rarity": "Std",
+        "rarity": 3,
         "location": [],
         "missionReward": false
     },
@@ -567,7 +567,7 @@
         "name": "HN Shock Mount",
         "type": "Com",
         "subtype": "Commodity",
-        "rarity": "Std",
+        "rarity": 3,
         "location": [],
         "missionReward": true
     },
@@ -575,7 +575,7 @@
         "name": "Hybrid Capacitors",
         "type": "Man",
         "subtype": "Capacitor",
-        "rarity": "Com",
+        "rarity": 2,
         "location": [
             "Ship Wreck Salvage"
         ],
@@ -585,7 +585,7 @@
         "name": "Imperial Shielding",
         "type": "Man",
         "subtype": "Shielding",
-        "rarity": "VRare",
+        "rarity": 5,
         "location": [
             "Ship Wreck Salvage"
         ],
@@ -595,7 +595,7 @@
         "name": "Improvised Components",
         "type": "Man",
         "subtype": "Mechanical Component",
-        "rarity": "VRare",
+        "rarity": 5,
         "location": [
             "Ship Wreck Salvage"
         ],
@@ -605,7 +605,7 @@
         "name": "Inconsistent Shield Soak Analysis",
         "type": "Data",
         "subtype": "Shield Frequency System",
-        "rarity": "Com",
+        "rarity": 2,
         "location": [
             "NPC Ship Scanning",
             "POI"
@@ -616,7 +616,7 @@
         "name": "Insulating Membrane",
         "type": "Com",
         "subtype": "Commodity",
-        "rarity": "Std",
+        "rarity": 3,
         "location": [],
         "missionReward": true
     },
@@ -624,7 +624,7 @@
         "name": "Ion Distributor",
         "type": "Com",
         "subtype": "Commodity",
-        "rarity": "Std",
+        "rarity": 3,
         "location": [],
         "missionReward": true
     },
@@ -632,7 +632,7 @@
         "name": "Iron",
         "type": "Ele",
         "subtype": "Raw Material",
-        "rarity": "VCom",
+        "rarity": 1,
         "location": [
             "Surface Prospecting",
             "All Rings - Mining"
@@ -643,7 +643,7 @@
         "name": "Irregular Emission Data",
         "type": "Data",
         "subtype": "Emission Data",
-        "rarity": "Com",
+        "rarity": 2,
         "location": [
             "Ship Wreck Salvage"
         ],
@@ -653,7 +653,7 @@
         "name": "Magnetic Emitter Coil",
         "type": "Com",
         "subtype": "Commodity",
-        "rarity": "Std",
+        "rarity": 3,
         "location": [
             "Virts Dock, Chemaluk"
         ],
@@ -663,7 +663,7 @@
         "name": "Manganese",
         "type": "Ele",
         "subtype": "Raw Material",
-        "rarity": "Com",
+        "rarity": 2,
         "location": [
             "Surface Prospecting"
         ],
@@ -673,7 +673,7 @@
         "name": "Mechanical Components",
         "type": "Man",
         "subtype": "Mechanical Component",
-        "rarity": "Std",
+        "rarity": 3,
         "location": [
             "Ship Wreck Salvage"
         ],
@@ -683,7 +683,7 @@
         "name": "Mechanical Equipment",
         "type": "Man",
         "subtype": "Mechanical Component",
-        "rarity": "Com",
+        "rarity": 2,
         "location": [
             "Ship Wreck Salvage"
         ],
@@ -693,7 +693,7 @@
         "name": "Mechanical Scrap",
         "type": "Man",
         "subtype": "Mechanical Component",
-        "rarity": "VCom",
+        "rarity": 1,
         "location": [
             "Ship Wreck Salvage"
         ],
@@ -703,7 +703,7 @@
         "name": "Mercury",
         "type": "Ele",
         "subtype": "Raw Material",
-        "rarity": "Rare",
+        "rarity": 4,
         "location": [
             "Surface Prospecting"
         ],
@@ -713,7 +713,7 @@
         "name": "Micro Controllers",
         "type": "Com",
         "subtype": "Commodity",
-        "rarity": "Rare",
+        "rarity": 4,
         "location": [],
         "missionReward": true
     },
@@ -721,7 +721,7 @@
         "name": "Micro-Weave Cooling Hoses",
         "type": "Com",
         "subtype": "Commodity",
-        "rarity": "Std",
+        "rarity": 3,
         "location": [],
         "missionReward": true
     },
@@ -729,7 +729,7 @@
         "name": "Military Grade Alloys",
         "type": "Man",
         "subtype": "Heat Resistant Alloy",
-        "rarity": "VRare",
+        "rarity": 5,
         "location": [
             "Ship Wreck Salvage"
         ],
@@ -739,7 +739,7 @@
         "name": "Military Supercapacitors",
         "type": "Man",
         "subtype": "Capacitor",
-        "rarity": "VRare",
+        "rarity": 5,
         "location": [],
         "missionReward": false
     },
@@ -747,7 +747,7 @@
         "name": "Modified Consumer Firmware",
         "type": "Data",
         "subtype": "Firmware",
-        "rarity": "Com",
+        "rarity": 2,
         "location": [
             "POI - Data Point",
             "Ship Wreck Salvage"
@@ -758,7 +758,7 @@
         "name": "Modified Embedded Firmware",
         "type": "Data",
         "subtype": "Firmware",
-        "rarity": "VRare",
+        "rarity": 5,
         "location": [
             "POI - Data Point"
         ],
@@ -768,7 +768,7 @@
         "name": "Modular Terminals",
         "type": "Com",
         "subtype": "Commodity",
-        "rarity": "Std",
+        "rarity": 3,
         "location": [],
         "missionReward": true
     },
@@ -776,7 +776,7 @@
         "name": "Molybdenum",
         "type": "Ele",
         "subtype": "Raw Material",
-        "rarity": "Std",
+        "rarity": 3,
         "location": [
             "Surface Prospecting"
         ],
@@ -786,7 +786,7 @@
         "name": "Nanobreakers",
         "type": "Com",
         "subtype": "Commodity",
-        "rarity": "Std",
+        "rarity": 3,
         "location": [],
         "missionReward": true
     },
@@ -794,7 +794,7 @@
         "name": "Neofabric Insulation",
         "type": "Com",
         "subtype": "Commodity",
-        "rarity": "Std",
+        "rarity": 3,
         "location": [],
         "missionReward": true
     },
@@ -802,7 +802,7 @@
         "name": "Nickel",
         "type": "Ele",
         "subtype": "Raw Material",
-        "rarity": "VCom",
+        "rarity": 1,
         "location": [
             "Surface Prospecting",
             "All Rings - Mining"
@@ -813,7 +813,7 @@
         "name": "Niobium",
         "type": "Ele",
         "subtype": "Raw Material",
-        "rarity": "Std",
+        "rarity": 3,
         "location": [
             "Surface Prospecting"
         ],
@@ -823,7 +823,7 @@
         "name": "Open Symmetric Keys",
         "type": "Data",
         "subtype": "Encryption Code",
-        "rarity": "Std",
+        "rarity": 3,
         "location": [
             "POI - Data Point",
             "Ship Wreck Salvage"
@@ -834,7 +834,7 @@
         "name": "Osmium",
         "type": "Com",
         "subtype": "Commodity",
-        "rarity": "Std",
+        "rarity": 3,
         "location": [
             "Mining"
         ],
@@ -844,7 +844,7 @@
         "name": "Peculiar Shield Frequency Data",
         "type": "Data",
         "subtype": "Shield Frequency System",
-        "rarity": "VRare",
+        "rarity": 5,
         "location": [
             "NPC Ship Scanning"
         ],
@@ -854,7 +854,7 @@
         "name": "Pharmaceutical Isolators",
         "type": "Man",
         "subtype": "Chemical Manipulator",
-        "rarity": "VRare",
+        "rarity": 5,
         "location": [
             "USS (ELW)"
         ],
@@ -864,7 +864,7 @@
         "name": "Phase Alloys",
         "type": "Man",
         "subtype": "Lightweight Alloy",
-        "rarity": "Std",
+        "rarity": 3,
         "location": [
             "Ship Wreck Salvage"
         ],
@@ -874,7 +874,7 @@
         "name": "Phosphorus",
         "type": "Ele",
         "subtype": "Raw Material",
-        "rarity": "VCom",
+        "rarity": 1,
         "location": [
             "Surface Prospecting",
             "All Rings - Mining"
@@ -885,7 +885,7 @@
         "name": "Platinum",
         "type": "Com",
         "subtype": "Commodity",
-        "rarity": "Std",
+        "rarity": 3,
         "location": [
             "Mining",
             "POI - Salvage"
@@ -896,7 +896,7 @@
         "name": "Polonium",
         "type": "Ele",
         "subtype": "Raw Material",
-        "rarity": "VRare",
+        "rarity": 5,
         "location": [
             "Surface Prospecting"
         ],
@@ -906,7 +906,7 @@
         "name": "Polymer Capacitors",
         "type": "Man",
         "subtype": "Capacitor",
-        "rarity": "Rare",
+        "rarity": 4,
         "location": [
             "Ship Wreck Salvage",
             "POI - Settlement"
@@ -917,7 +917,7 @@
         "name": "Power Converter",
         "type": "Com",
         "subtype": "Commodity",
-        "rarity": "Std",
+        "rarity": 3,
         "location": [],
         "missionReward": true
     },
@@ -925,7 +925,7 @@
         "name": "Power Transfer Bus",
         "type": "Com",
         "subtype": "Commodity",
-        "rarity": "Std",
+        "rarity": 3,
         "location": [],
         "missionReward": true
     },
@@ -933,7 +933,7 @@
         "name": "Praseodymium",
         "type": "Com",
         "subtype": "Commodity",
-        "rarity": "Std",
+        "rarity": 3,
         "location": [
             "Mining"
         ],
@@ -943,7 +943,7 @@
         "name": "Precipitated Alloys",
         "type": "Man",
         "subtype": "Heat Resistant Alloy",
-        "rarity": "Std",
+        "rarity": 3,
         "location": [
             "Ship Wreck Salvage"
         ],
@@ -953,7 +953,7 @@
         "name": "Proprietary Composites",
         "type": "Man",
         "subtype": "High Density Composites",
-        "rarity": "Rare",
+        "rarity": 4,
         "location": [
             "Ship Wreck Salvage"
         ],
@@ -963,7 +963,7 @@
         "name": "Proto Heat Radiators",
         "type": "Man",
         "subtype": "Heat Exchanger",
-        "rarity": "VRare",
+        "rarity": 5,
         "location": [
             "Ship Wreck Salvage"
         ],
@@ -973,7 +973,7 @@
         "name": "Proto Light Alloys",
         "type": "Man",
         "subtype": "Lightweight Alloy",
-        "rarity": "Rare",
+        "rarity": 4,
         "location": [
             "Ship Wreck Salvage"
         ],
@@ -983,7 +983,7 @@
         "name": "Proto Radiolic Alloys",
         "type": "Man",
         "subtype": "Lightweight Alloy",
-        "rarity": "VRare",
+        "rarity": 5,
         "location": [
             "Ship Wreck Salvage"
         ],
@@ -993,7 +993,7 @@
         "name": "Radiation Baffle",
         "type": "Com",
         "subtype": "Commodity",
-        "rarity": "Std",
+        "rarity": 3,
         "location": [],
         "missionReward": true
     },
@@ -1001,7 +1001,7 @@
         "name": "Refined Focus Crystals",
         "type": "Man",
         "subtype": "Focusing Crystal",
-        "rarity": "Rare",
+        "rarity": 4,
         "location": [
             "Ship Wreck Salvage"
         ],
@@ -1011,7 +1011,7 @@
         "name": "Reinforced Mounting Plate",
         "type": "Com",
         "subtype": "Commodity",
-        "rarity": "Std",
+        "rarity": 3,
         "location": [],
         "missionReward": true
     },
@@ -1019,7 +1019,7 @@
         "name": "Ruthenium",
         "type": "Ele",
         "subtype": "Raw Material",
-        "rarity": "VRare",
+        "rarity": 5,
         "location": [
             "Surface Prospecting"
         ],
@@ -1029,7 +1029,7 @@
         "name": "Salvaged Alloys",
         "type": "Man",
         "subtype": "Lightweight Alloy",
-        "rarity": "VCom",
+        "rarity": 1,
         "location": [
             "Ship Wreck Salvage"
         ],
@@ -1039,7 +1039,7 @@
         "name": "Samarium",
         "type": "Com",
         "subtype": "Commodity",
-        "rarity": "Std",
+        "rarity": 3,
         "location": [
             "Mining"
         ],
@@ -1049,7 +1049,7 @@
         "name": "Security Firmware Patch",
         "type": "Data",
         "subtype": "Firmware",
-        "rarity": "Rare",
+        "rarity": 4,
         "location": [
             "POI - Settlement"
         ],
@@ -1059,7 +1059,7 @@
         "name": "Selenium",
         "type": "Ele",
         "subtype": "Raw Material",
-        "rarity": "Std",
+        "rarity": 3,
         "location": [
             "Surface Prospecting"
         ],
@@ -1069,7 +1069,7 @@
         "name": "Shield Emitters",
         "type": "Man",
         "subtype": "Shielding",
-        "rarity": "Com",
+        "rarity": 2,
         "location": [
             "Ship Wreck Salvage",
             "POI"
@@ -1080,7 +1080,7 @@
         "name": "Shielding Sensors",
         "type": "Man",
         "subtype": "Shielding",
-        "rarity": "Std",
+        "rarity": 3,
         "location": [],
         "missionReward": true
     },
@@ -1088,7 +1088,7 @@
         "name": "Specialised Legacy Firmware",
         "type": "Data",
         "subtype": "Firmware",
-        "rarity": "VCom",
+        "rarity": 1,
         "location": [
             "Ship Wreck Salvage",
             "Satellite USS (ELW)"
@@ -1099,7 +1099,7 @@
         "name": "Strange Wake Solutions",
         "type": "Data",
         "subtype": "Scan Data",
-        "rarity": "Std",
+        "rarity": 3,
         "location": [
             "High Wake Scanning"
         ],
@@ -1109,7 +1109,7 @@
         "name": "Sulphur",
         "type": "Ele",
         "subtype": "Raw Material",
-        "rarity": "VCom",
+        "rarity": 1,
         "location": [
             "Surface Prospecting",
             "All Rings - Mining"
@@ -1120,7 +1120,7 @@
         "name": "Tagged Encryption Codes",
         "type": "Data",
         "subtype": "Encryption Code",
-        "rarity": "Com",
+        "rarity": 2,
         "location": [
             "POI",
             "Ship Wreck Salvage"
@@ -1131,7 +1131,7 @@
         "name": "Technetium",
         "type": "Ele",
         "subtype": "Raw Material",
-        "rarity": "VRare",
+        "rarity": 5,
         "location": [
             "Surface Prospecting"
         ],
@@ -1141,7 +1141,7 @@
         "name": "Telemetry Suite",
         "type": "Com",
         "subtype": "Commodity",
-        "rarity": "Std",
+        "rarity": 3,
         "location": [],
         "missionReward": true
     },
@@ -1149,7 +1149,7 @@
         "name": "Tellurium",
         "type": "Ele",
         "subtype": "Raw Material",
-        "rarity": "VRare",
+        "rarity": 5,
         "location": [
             "Surface Prospecting"
         ],
@@ -1159,7 +1159,7 @@
         "name": "Tempered Alloys",
         "type": "Man",
         "subtype": "Heat Resistant Alloy",
-        "rarity": "VCom",
+        "rarity": 1,
         "location": [
             "Ship Wreck Salvage"
         ],
@@ -1169,7 +1169,7 @@
         "name": "Thermic Alloys",
         "type": "Man",
         "subtype": "Heat Resistant Alloy",
-        "rarity": "Rare",
+        "rarity": 4,
         "location": [],
         "missionReward": true
     },
@@ -1177,7 +1177,7 @@
         "name": "Tin",
         "type": "Ele",
         "subtype": "Raw Material",
-        "rarity": "Rare",
+        "rarity": 4,
         "location": [
             "Surface Prospecting"
         ],
@@ -1187,7 +1187,7 @@
         "name": "Tungsten",
         "type": "Ele",
         "subtype": "Raw Material",
-        "rarity": "Std",
+        "rarity": 3,
         "location": [
             "Surface Prospecting"
         ],
@@ -1197,7 +1197,7 @@
         "name": "Unexpected Emission Data",
         "type": "Data",
         "subtype": "Emission Data",
-        "rarity": "Std",
+        "rarity": 3,
         "location": [
             "NPC Ship Scanning"
         ],
@@ -1207,7 +1207,7 @@
         "name": "Unidentified Scan Archives",
         "type": "Data",
         "subtype": "Scan Data",
-        "rarity": "Com",
+        "rarity": 2,
         "location": [
             "NPC Ship Scanning"
         ],
@@ -1217,7 +1217,7 @@
         "name": "Unknown Fragment",
         "type": "Man",
         "subtype": "Unknown",
-        "rarity": "VRare",
+        "rarity": 5,
         "location": [
             "Destroy Ukwn Artefact"
         ],
@@ -1227,7 +1227,7 @@
         "name": "Untypical Shield Scans",
         "type": "Data",
         "subtype": "Shield Frequency System",
-        "rarity": "Std",
+        "rarity": 3,
         "location": [
             "NPC Ship Scanning"
         ],
@@ -1237,7 +1237,7 @@
         "name": "Unusual Encrypted Files",
         "type": "Data",
         "subtype": "Encryption Code",
-        "rarity": "VCom",
+        "rarity": 1,
         "location": [
             "POI - Settlement",
             "Ship Wreck Salvage"
@@ -1248,7 +1248,7 @@
         "name": "Vanadium",
         "type": "Ele",
         "subtype": "Raw Material",
-        "rarity": "Com",
+        "rarity": 2,
         "location": [
             "Surface Prospecting",
             "Ice Rings - Mining"
@@ -1259,7 +1259,7 @@
         "name": "Worn Shield Emitters",
         "type": "Man",
         "subtype": "Shielding",
-        "rarity": "VCom",
+        "rarity": 1,
         "location": [
             "Ship Wreck Salvage"
         ],
@@ -1269,7 +1269,7 @@
         "name": "Yttrium",
         "type": "Ele",
         "subtype": "Raw Material",
-        "rarity": "VRare",
+        "rarity": 5,
         "location": [
             "Surface Prospecting"
         ],
@@ -1279,7 +1279,7 @@
         "name": "Zinc",
         "type": "Ele",
         "subtype": "Raw Material",
-        "rarity": "Com",
+        "rarity": 2,
         "location": [
             "Surface Prospecting"
         ],
@@ -1289,7 +1289,7 @@
         "name": "Zirconium",
         "type": "Ele",
         "subtype": "Raw Material",
-        "rarity": "Std",
+        "rarity": 3,
         "location": [
             "Surface Prospecting",
             "Mining"

@@ -2,7 +2,7 @@
     "name": "Filament Composites",
     "type": "Man",
     "subtype": "High Density Composites",
-    "rarity": "Com",
+    "rarity": 2,
     "location": [
         "Ship Wreck Salvage"
     ],

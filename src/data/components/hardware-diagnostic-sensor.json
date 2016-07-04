@@ -2,7 +2,7 @@
     "name": "Hardware Diagnostic Sensor",
     "type": "Com",
     "subtype": "Commodity",
-    "rarity": "Std",
+    "rarity": 3,
     "location": [],
     "missionReward": true
 }

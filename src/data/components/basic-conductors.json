@@ -2,7 +2,7 @@
     "name": "Basic Conductors",
     "type": "Man",
     "subtype": "Conductor",
-    "rarity": "VCom",
+    "rarity": 1,
     "location": [
         "Ship Wreck Salvage"
     ],

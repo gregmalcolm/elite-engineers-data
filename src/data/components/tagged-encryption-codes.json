@@ -2,7 +2,7 @@
     "name": "Tagged Encryption Codes",
     "type": "Data",
     "subtype": "Encryption Code",
-    "rarity": "Com",
+    "rarity": 2,
     "location": [
         "POI",
         "Ship Wreck Salvage"

@@ -2,7 +2,7 @@
     "name": "Adaptive Encryptors Capture",
     "type": "Data",
     "subtype": "Encryption Code",
-    "rarity": "VRare",
+    "rarity": 5,
     "location": [
         "Ship Wreck Salvage",
         "POI"

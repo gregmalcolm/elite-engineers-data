@@ -2,7 +2,7 @@
     "name": "Classified Scan Databanks",
     "type": "Data",
     "subtype": "Scan Data",
-    "rarity": "Std",
+    "rarity": 3,
     "location": [
         "NPC Ship Scanning",
         "POI"

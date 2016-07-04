@@ -2,7 +2,7 @@
     "name": "Grid Resistors",
     "type": "Man",
     "subtype": "Capacitor",
-    "rarity": "VCom",
+    "rarity": 1,
     "location": [
         "Ship Wreck Salvage"
     ],

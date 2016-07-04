@@ -2,7 +2,7 @@
     "name": "Conductive Components",
     "type": "Man",
     "subtype": "Conductor",
-    "rarity": "Com",
+    "rarity": 2,
     "location": [
         "Ship Wreck Salvage"
     ],

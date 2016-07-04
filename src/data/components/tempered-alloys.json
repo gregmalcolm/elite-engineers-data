@@ -2,7 +2,7 @@
     "name": "Tempered Alloys",
     "type": "Man",
     "subtype": "Heat Resistant Alloy",
-    "rarity": "VCom",
+    "rarity": 1,
     "location": [
         "Ship Wreck Salvage"
     ],

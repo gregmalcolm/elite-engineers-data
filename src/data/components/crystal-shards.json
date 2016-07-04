@@ -2,7 +2,7 @@
     "name": "Crystal Shards",
     "type": "Man",
     "subtype": "Focusing Crystal",
-    "rarity": "VCom",
+    "rarity": 1,
     "location": [
         "Ship Wreck Salvage",
         "POI"

@@ -2,7 +2,7 @@
     "name": "Unusual Encrypted Files",
     "type": "Data",
     "subtype": "Encryption Code",
-    "rarity": "VCom",
+    "rarity": 1,
     "location": [
         "POI - Settlement",
         "Ship Wreck Salvage"

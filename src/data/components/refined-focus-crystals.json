@@ -2,7 +2,7 @@
     "name": "Refined Focus Crystals",
     "type": "Man",
     "subtype": "Focusing Crystal",
-    "rarity": "Rare",
+    "rarity": 4,
     "location": [
         "Ship Wreck Salvage"
     ],

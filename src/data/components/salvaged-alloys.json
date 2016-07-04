@@ -2,7 +2,7 @@
     "name": "Salvaged Alloys",
     "type": "Man",
     "subtype": "Lightweight Alloy",
-    "rarity": "VCom",
+    "rarity": 1,
     "location": [
         "Ship Wreck Salvage"
     ],

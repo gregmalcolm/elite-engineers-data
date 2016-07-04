@@ -2,7 +2,7 @@
     "name": "Heat Exchangers",
     "type": "Man",
     "subtype": "Heat Exchanger",
-    "rarity": "Std",
+    "rarity": 3,
     "location": [
         "Ship Wreck Salvage"
     ],

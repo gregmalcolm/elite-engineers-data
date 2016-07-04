@@ -2,7 +2,7 @@
     "name": "Tungsten",
     "type": "Ele",
     "subtype": "Raw Material",
-    "rarity": "Std",
+    "rarity": 3,
     "location": [
         "Surface Prospecting"
     ],

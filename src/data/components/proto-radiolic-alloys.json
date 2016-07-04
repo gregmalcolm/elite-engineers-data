@@ -2,7 +2,7 @@
     "name": "Proto Radiolic Alloys",
     "type": "Man",
     "subtype": "Lightweight Alloy",
-    "rarity": "VRare",
+    "rarity": 5,
     "location": [
         "Ship Wreck Salvage"
     ],

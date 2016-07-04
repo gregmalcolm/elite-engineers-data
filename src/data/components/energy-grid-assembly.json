@@ -2,7 +2,7 @@
     "name": "Energy Grid Assembly",
     "type": "Com",
     "subtype": "Commodity",
-    "rarity": "Std",
+    "rarity": 3,
     "location": [],
     "missionReward": true
 }

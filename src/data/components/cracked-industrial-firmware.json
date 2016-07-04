@@ -2,7 +2,7 @@
     "name": "Cracked Industrial Firmware",
     "type": "Data",
     "subtype": "Firmware",
-    "rarity": "Std",
+    "rarity": 3,
     "location": [
         "POI - Data Point",
         "Ship Wreck Salvage"

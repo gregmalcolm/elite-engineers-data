@@ -2,7 +2,7 @@
     "name": "High Density Composites",
     "type": "Man",
     "subtype": "High Density Composites",
-    "rarity": "Std",
+    "rarity": 3,
     "location": [],
     "missionReward": false
 }

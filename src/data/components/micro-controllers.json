@@ -2,7 +2,7 @@
     "name": "Micro Controllers",
     "type": "Com",
     "subtype": "Commodity",
-    "rarity": "Rare",
+    "rarity": 4,
     "location": [],
     "missionReward": true
 }

@@ -2,7 +2,7 @@
     "name": "Mechanical Scrap",
     "type": "Man",
     "subtype": "Mechanical Component",
-    "rarity": "VCom",
+    "rarity": 1,
     "location": [
         "Ship Wreck Salvage"
     ],

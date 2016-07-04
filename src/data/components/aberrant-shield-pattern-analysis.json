@@ -2,7 +2,7 @@
     "name": "Aberrant Shield Pattern Analysis",
     "type": "Data",
     "subtype": "Shield Frequency System",
-    "rarity": "Rare",
+    "rarity": 4,
     "location": [
         "NPC Ship Scanning"
     ],

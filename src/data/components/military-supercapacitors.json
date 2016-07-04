@@ -2,7 +2,7 @@
     "name": "Military Supercapacitors",
     "type": "Man",
     "subtype": "Capacitor",
-    "rarity": "VRare",
+    "rarity": 5,
     "location": [],
     "missionReward": false
 }

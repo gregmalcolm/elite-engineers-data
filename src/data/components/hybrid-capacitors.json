@@ -2,7 +2,7 @@
     "name": "Hybrid Capacitors",
     "type": "Man",
     "subtype": "Capacitor",
-    "rarity": "Com",
+    "rarity": 2,
     "location": [
         "Ship Wreck Salvage"
     ],

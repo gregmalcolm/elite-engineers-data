@@ -2,7 +2,7 @@
     "name": "Galvanising Alloys",
     "type": "Man",
     "subtype": "Lightweight Alloy",
-    "rarity": "Com",
+    "rarity": 2,
     "location": [
         "Ship Wreck Salvage"
     ],

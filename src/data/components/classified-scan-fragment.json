@@ -2,7 +2,7 @@
     "name": "Classified Scan Fragment",
     "type": "Data",
     "subtype": "Scan Data",
-    "rarity": "VRare",
+    "rarity": 5,
     "location": [
         "POI - Settlement"
     ],
