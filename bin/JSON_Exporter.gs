@@ -495,7 +495,7 @@ function improveJsonEngineers(rowsData, rowsDataInfos, rowsComponents) {
       objE.modules[row.module] = 0;
     }
     if(objE.modules[row.module] < row.modlvl)
-      objE.modules[row.module] = row.modlvl;
+      objE.modules[row.module] = parseInt(row.modlvl);
 
     //-- Blueprint data
 
@@ -590,8 +590,10 @@ function generateKeyObject(nameElem) {
 
   var objKey = nameElem.toLowerCase()
     .replace(/\)/g,'')
-    .replace(/\(/,'')
+    .replace(/\(/g,'')
+    .replace(/,/g,'')
     .replace(/'/g,'')
+    .replace(/\./g,'')
     .replace(/ /g,'-');
 
   return objKey;
