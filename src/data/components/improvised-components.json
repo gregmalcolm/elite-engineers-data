@@ -3,6 +3,8 @@
     "type": "Man",
     "subtype": "Mechanical Component",
     "rarity": "VRare",
-    "location": [],
+    "location": [
+        "Ship Wreck Salvage"
+    ],
     "missionReward": true
 }

@@ -3,6 +3,9 @@
     "type": "Data",
     "subtype": "Firmware",
     "rarity": "VCom",
-    "location": [],
+    "location": [
+        "Ship Wreck Salvage",
+        "Satellite USS (ELW)"
+    ],
     "missionReward": true
 }

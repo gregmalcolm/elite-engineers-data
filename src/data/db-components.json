@@ -4,7 +4,9 @@
         "type": "Data",
         "subtype": "Shield Frequency System",
         "rarity": "Rare",
-        "location": [],
+        "location": [
+            "NPC Ship Scanning"
+        ],
         "missionReward": true
     },
     "abnormal-compact-emission-data": {
@@ -12,7 +14,10 @@
         "type": "Data",
         "subtype": "Emission Data",
         "rarity": "VRare",
-        "location": [],
+        "location": [
+            "Ship Wreck Salvage",
+            "NPC Ship Scanning"
+        ],
         "missionReward": true
     },
     "adaptive-encryptors-capture": {
@@ -20,7 +25,10 @@
         "type": "Data",
         "subtype": "Encryption Code",
         "rarity": "VRare",
-        "location": [],
+        "location": [
+            "Ship Wreck Salvage",
+            "POI"
+        ],
         "missionReward": true
     },
     "anomalous-bulk-scan-data": {
@@ -28,7 +36,9 @@
         "type": "Data",
         "subtype": "Scan Data",
         "rarity": "VCom",
-        "location": [],
+        "location": [
+            "NPC Ship Scanning"
+        ],
         "missionReward": true
     },
     "anomalous-fsd-telemetry": {
@@ -36,7 +46,9 @@
         "type": "Data",
         "subtype": "Scan Data",
         "rarity": "Com",
-        "location": [],
+        "location": [
+            "High Wake Scanning"
+        ],
         "missionReward": true
     },
     "antimony": {
@@ -44,7 +56,9 @@
         "type": "Ele",
         "subtype": "Raw Material",
         "rarity": "VRare",
-        "location": [],
+        "location": [
+            "Surface Prospecting"
+        ],
         "missionReward": true
     },
     "arsenic": {
@@ -52,7 +66,10 @@
         "type": "Ele",
         "subtype": "Raw Material",
         "rarity": "Std",
-        "location": [],
+        "location": [
+            "Surface Prospecting",
+            "Mining"
+        ],
         "missionReward": false
     },
     "articulation-motors": {
@@ -68,7 +85,9 @@
         "type": "Data",
         "subtype": "Scan Data",
         "rarity": "VCom",
-        "location": [],
+        "location": [
+            "High Wake Scanning"
+        ],
         "missionReward": true
     },
     "atypical-encryption-archives": {
@@ -76,7 +95,9 @@
         "type": "Data",
         "subtype": "Encryption Code",
         "rarity": "Rare",
-        "location": [],
+        "location": [
+            "POI"
+        ],
         "missionReward": false
     },
     "basic-conductors": {
@@ -84,7 +105,9 @@
         "type": "Man",
         "subtype": "Conductor",
         "rarity": "VCom",
-        "location": [],
+        "location": [
+            "Ship Wreck Salvage"
+        ],
         "missionReward": false
     },
     "biotech-conductors": {
@@ -100,7 +123,9 @@
         "type": "Com",
         "subtype": "Commodity",
         "rarity": "Std",
-        "location": [],
+        "location": [
+            "Mining"
+        ],
         "missionReward": true
     },
     "cadmium": {
@@ -108,7 +133,9 @@
         "type": "Ele",
         "subtype": "Raw Material",
         "rarity": "Rare",
-        "location": [],
+        "location": [
+            "Surface Prospecting"
+        ],
         "missionReward": false
     },
     "carbon": {
@@ -116,7 +143,10 @@
         "type": "Ele",
         "subtype": "Raw Material",
         "rarity": "VCom",
-        "location": [],
+        "location": [
+            "Surface Prospecting",
+            "All Rings - Mining"
+        ],
         "missionReward": false
     },
     "chemical-distillery": {
@@ -124,7 +154,9 @@
         "type": "Man",
         "subtype": "Chemical Manipulator",
         "rarity": "Std",
-        "location": [],
+        "location": [
+            "Ship Wreck Salvage"
+        ],
         "missionReward": false
     },
     "chemical-manipulators": {
@@ -132,7 +164,10 @@
         "type": "Man",
         "subtype": "Chemical Manipulator",
         "rarity": "Rare",
-        "location": [],
+        "location": [
+            "Ship Wreck Salvage",
+            "POI"
+        ],
         "missionReward": true
     },
     "chemical-processors": {
@@ -140,7 +175,9 @@
         "type": "Man",
         "subtype": "Chemical Manipulator",
         "rarity": "Com",
-        "location": [],
+        "location": [
+            "Ship Wreck Salvage"
+        ],
         "missionReward": true
     },
     "chemical-storage-units": {
@@ -148,7 +185,9 @@
         "type": "Man",
         "subtype": "Chemical Manipulator",
         "rarity": "VCom",
-        "location": [],
+        "location": [
+            "Ship Wreck Salvage"
+        ],
         "missionReward": false
     },
     "chromium": {
@@ -156,7 +195,10 @@
         "type": "Ele",
         "subtype": "Raw Material",
         "rarity": "Com",
-        "location": [],
+        "location": [
+            "Surface Prospecting",
+            "Mining"
+        ],
         "missionReward": false
     },
     "classified-scan-databanks": {
@@ -164,7 +206,10 @@
         "type": "Data",
         "subtype": "Scan Data",
         "rarity": "Std",
-        "location": [],
+        "location": [
+            "NPC Ship Scanning",
+            "POI"
+        ],
         "missionReward": false
     },
     "classified-scan-fragment": {
@@ -172,7 +217,9 @@
         "type": "Data",
         "subtype": "Scan Data",
         "rarity": "VRare",
-        "location": [],
+        "location": [
+            "POI - Settlement"
+        ],
         "missionReward": true
     },
     "cmm-composite": {
@@ -188,7 +235,10 @@
         "type": "Man",
         "subtype": "High Density Composites",
         "rarity": "VCom",
-        "location": [],
+        "location": [
+            "Ship Wreck Salvage",
+            "POI"
+        ],
         "missionReward": false
     },
     "compound-shielding": {
@@ -196,7 +246,9 @@
         "type": "Man",
         "subtype": "Shielding",
         "rarity": "Rare",
-        "location": [],
+        "location": [
+            "Ship Wreck Salvage"
+        ],
         "missionReward": true
     },
     "conductive-ceramics": {
@@ -204,7 +256,9 @@
         "type": "Man",
         "subtype": "Conductor",
         "rarity": "Std",
-        "location": [],
+        "location": [
+            "Ship Wreck Salvage"
+        ],
         "missionReward": false
     },
     "conductive-components": {
@@ -212,7 +266,9 @@
         "type": "Man",
         "subtype": "Conductor",
         "rarity": "Com",
-        "location": [],
+        "location": [
+            "Ship Wreck Salvage"
+        ],
         "missionReward": false
     },
     "conductive-polymers": {
@@ -220,7 +276,10 @@
         "type": "Man",
         "subtype": "Conductor",
         "rarity": "Rare",
-        "location": [],
+        "location": [
+            "Ship Wreck Salvage",
+            "POI - Crash Site"
+        ],
         "missionReward": true
     },
     "configurable-components": {
@@ -228,7 +287,9 @@
         "type": "Man",
         "subtype": "Mechanical Component",
         "rarity": "Rare",
-        "location": [],
+        "location": [
+            "Ship Wreck Salvage"
+        ],
         "missionReward": false
     },
     "core-dynamics-composites": {
@@ -236,7 +297,9 @@
         "type": "Man",
         "subtype": "High Density Composites",
         "rarity": "VRare",
-        "location": [],
+        "location": [
+            "Ship Wreck Salvage"
+        ],
         "missionReward": false
     },
     "cracked-industrial-firmware": {
@@ -244,7 +307,10 @@
         "type": "Data",
         "subtype": "Firmware",
         "rarity": "Std",
-        "location": [],
+        "location": [
+            "POI - Data Point",
+            "Ship Wreck Salvage"
+        ],
         "missionReward": true
     },
     "crystal-shards": {
@@ -252,7 +318,10 @@
         "type": "Man",
         "subtype": "Focusing Crystal",
         "rarity": "VCom",
-        "location": [],
+        "location": [
+            "Ship Wreck Salvage",
+            "POI"
+        ],
         "missionReward": false
     },
     "datamined-wake-exceptions": {
@@ -260,7 +329,9 @@
         "type": "Data",
         "subtype": "Scan Data",
         "rarity": "VRare",
-        "location": [],
+        "location": [
+            "High Wake Scanning"
+        ],
         "missionReward": true
     },
     "decoded-emission-data": {
@@ -268,7 +339,9 @@
         "type": "Data",
         "subtype": "Emission Data",
         "rarity": "Rare",
-        "location": [],
+        "location": [
+            "NPC Ship Scanning"
+        ],
         "missionReward": true
     },
     "distorted-shield-cycle-recordings": {
@@ -276,7 +349,9 @@
         "type": "Data",
         "subtype": "Shield Frequency System",
         "rarity": "VCom",
-        "location": [],
+        "location": [
+            "NPC Ship Scanning"
+        ],
         "missionReward": true
     },
     "divergent-scan-data": {
@@ -284,7 +359,9 @@
         "type": "Data",
         "subtype": "Scan Data",
         "rarity": "Rare",
-        "location": [],
+        "location": [
+            "POI - Data Point"
+        ],
         "missionReward": false
     },
     "eccentric-hyperspace-trajectories": {
@@ -292,7 +369,10 @@
         "type": "Data",
         "subtype": "Scan Data",
         "rarity": "Rare",
-        "location": [],
+        "location": [
+            "Ship Wreck Salvage",
+            "High Wake Scanning"
+        ],
         "missionReward": false
     },
     "electrochemical-arrays": {
@@ -300,7 +380,9 @@
         "type": "Man",
         "subtype": "Capacitor",
         "rarity": "Std",
-        "location": [],
+        "location": [
+            "Ship Wreck Salvage"
+        ],
         "missionReward": false
     },
     "emergency-power-cells": {
@@ -324,7 +406,10 @@
         "type": "Data",
         "subtype": "Emission Data",
         "rarity": "VCom",
-        "location": [],
+        "location": [
+            "NPC Ship Scanning",
+            "Ship Wreck Salvage"
+        ],
         "missionReward": true
     },
     "exhaust-manifold": {
@@ -348,7 +433,9 @@
         "type": "Man",
         "subtype": "High Density Composites",
         "rarity": "Com",
-        "location": [],
+        "location": [
+            "Ship Wreck Salvage"
+        ],
         "missionReward": false
     },
     "flawed-focus-crystals": {
@@ -356,7 +443,9 @@
         "type": "Man",
         "subtype": "Focusing Crystal",
         "rarity": "Com",
-        "location": [],
+        "location": [
+            "Ship Wreck Salvage"
+        ],
         "missionReward": false
     },
     "focus-crystals": {
@@ -364,7 +453,9 @@
         "type": "Man",
         "subtype": "Focusing Crystal",
         "rarity": "Std",
-        "location": [],
+        "location": [
+            "Ship Wreck Salvage"
+        ],
         "missionReward": false
     },
     "galvanising-alloys": {
@@ -372,7 +463,9 @@
         "type": "Man",
         "subtype": "Lightweight Alloy",
         "rarity": "Com",
-        "location": [],
+        "location": [
+            "Ship Wreck Salvage"
+        ],
         "missionReward": true
     },
     "germanium": {
@@ -380,7 +473,10 @@
         "type": "Ele",
         "subtype": "Raw Material",
         "rarity": "Com",
-        "location": [],
+        "location": [
+            "Surface Prospecting",
+            "Mining"
+        ],
         "missionReward": true
     },
     "grid-resistors": {
@@ -388,7 +484,9 @@
         "type": "Man",
         "subtype": "Capacitor",
         "rarity": "VCom",
-        "location": [],
+        "location": [
+            "Ship Wreck Salvage"
+        ],
         "missionReward": true
     },
     "hardware-diagnostic-sensor": {
@@ -404,7 +502,9 @@
         "type": "Man",
         "subtype": "Heat Exchanger",
         "rarity": "VCom",
-        "location": [],
+        "location": [
+            "Ship Wreck Salvage"
+        ],
         "missionReward": true
     },
     "heat-dispersion-plate": {
@@ -412,7 +512,9 @@
         "type": "Man",
         "subtype": "Heat Exchanger",
         "rarity": "Com",
-        "location": [],
+        "location": [
+            "Ship Wreck Salvage"
+        ],
         "missionReward": true
     },
     "heat-exchangers": {
@@ -420,7 +522,9 @@
         "type": "Man",
         "subtype": "Heat Exchanger",
         "rarity": "Std",
-        "location": [],
+        "location": [
+            "Ship Wreck Salvage"
+        ],
         "missionReward": false
     },
     "heat-resistant-ceramics": {
@@ -428,7 +532,9 @@
         "type": "Man",
         "subtype": "Heat Resistant Alloy",
         "rarity": "Com",
-        "location": [],
+        "location": [
+            "Ship Wreck Salvage"
+        ],
         "missionReward": false
     },
     "heat-vanes": {
@@ -436,7 +542,9 @@
         "type": "Man",
         "subtype": "Heat Exchanger",
         "rarity": "Rare",
-        "location": [],
+        "location": [
+            "Ship Wreck Salvage"
+        ],
         "missionReward": true
     },
     "heatsink-interlink": {
@@ -468,7 +576,9 @@
         "type": "Man",
         "subtype": "Capacitor",
         "rarity": "Com",
-        "location": [],
+        "location": [
+            "Ship Wreck Salvage"
+        ],
         "missionReward": true
     },
     "imperial-shielding": {
@@ -476,7 +586,9 @@
         "type": "Man",
         "subtype": "Shielding",
         "rarity": "VRare",
-        "location": [],
+        "location": [
+            "Ship Wreck Salvage"
+        ],
         "missionReward": true
     },
     "improvised-components": {
@@ -484,7 +596,9 @@
         "type": "Man",
         "subtype": "Mechanical Component",
         "rarity": "VRare",
-        "location": [],
+        "location": [
+            "Ship Wreck Salvage"
+        ],
         "missionReward": true
     },
     "inconsistent-shield-soak-analysis": {
@@ -492,7 +606,10 @@
         "type": "Data",
         "subtype": "Shield Frequency System",
         "rarity": "Com",
-        "location": [],
+        "location": [
+            "NPC Ship Scanning",
+            "POI"
+        ],
         "missionReward": true
     },
     "insulating-membrane": {
@@ -516,7 +633,10 @@
         "type": "Ele",
         "subtype": "Raw Material",
         "rarity": "VCom",
-        "location": [],
+        "location": [
+            "Surface Prospecting",
+            "All Rings - Mining"
+        ],
         "missionReward": false
     },
     "irregular-emission-data": {
@@ -524,7 +644,9 @@
         "type": "Data",
         "subtype": "Emission Data",
         "rarity": "Com",
-        "location": [],
+        "location": [
+            "Ship Wreck Salvage"
+        ],
         "missionReward": true
     },
     "magnetic-emitter-coil": {
@@ -532,7 +654,9 @@
         "type": "Com",
         "subtype": "Commodity",
         "rarity": "Std",
-        "location": [],
+        "location": [
+            "Virts Dock, Chemaluk"
+        ],
         "missionReward": true
     },
     "manganese": {
@@ -540,7 +664,9 @@
         "type": "Ele",
         "subtype": "Raw Material",
         "rarity": "Com",
-        "location": [],
+        "location": [
+            "Surface Prospecting"
+        ],
         "missionReward": true
     },
     "mechanical-components": {
@@ -548,7 +674,9 @@
         "type": "Man",
         "subtype": "Mechanical Component",
         "rarity": "Std",
-        "location": [],
+        "location": [
+            "Ship Wreck Salvage"
+        ],
         "missionReward": false
     },
     "mechanical-equipment": {
@@ -556,7 +684,9 @@
         "type": "Man",
         "subtype": "Mechanical Component",
         "rarity": "Com",
-        "location": [],
+        "location": [
+            "Ship Wreck Salvage"
+        ],
         "missionReward": true
     },
     "mechanical-scrap": {
@@ -564,7 +694,9 @@
         "type": "Man",
         "subtype": "Mechanical Component",
         "rarity": "VCom",
-        "location": [],
+        "location": [
+            "Ship Wreck Salvage"
+        ],
         "missionReward": true
     },
     "mercury": {
@@ -572,7 +704,9 @@
         "type": "Ele",
         "subtype": "Raw Material",
         "rarity": "Rare",
-        "location": [],
+        "location": [
+            "Surface Prospecting"
+        ],
         "missionReward": false
     },
     "micro-controllers": {
@@ -596,7 +730,9 @@
         "type": "Man",
         "subtype": "Heat Resistant Alloy",
         "rarity": "VRare",
-        "location": [],
+        "location": [
+            "Ship Wreck Salvage"
+        ],
         "missionReward": true
     },
     "military-supercapacitors": {
@@ -612,7 +748,10 @@
         "type": "Data",
         "subtype": "Firmware",
         "rarity": "Com",
-        "location": [],
+        "location": [
+            "POI - Data Point",
+            "Ship Wreck Salvage"
+        ],
         "missionReward": true
     },
     "modified-embedded-firmware": {
@@ -620,7 +759,9 @@
         "type": "Data",
         "subtype": "Firmware",
         "rarity": "VRare",
-        "location": [],
+        "location": [
+            "POI - Data Point"
+        ],
         "missionReward": true
     },
     "modular-terminals": {
@@ -636,7 +777,9 @@
         "type": "Ele",
         "subtype": "Raw Material",
         "rarity": "Std",
-        "location": [],
+        "location": [
+            "Surface Prospecting"
+        ],
         "missionReward": true
     },
     "nanobreakers": {
@@ -660,7 +803,10 @@
         "type": "Ele",
         "subtype": "Raw Material",
         "rarity": "VCom",
-        "location": [],
+        "location": [
+            "Surface Prospecting",
+            "All Rings - Mining"
+        ],
         "missionReward": false
     },
     "niobium": {
@@ -668,7 +814,9 @@
         "type": "Ele",
         "subtype": "Raw Material",
         "rarity": "Std",
-        "location": [],
+        "location": [
+            "Surface Prospecting"
+        ],
         "missionReward": true
     },
     "open-symmetric-keys": {
@@ -676,7 +824,10 @@
         "type": "Data",
         "subtype": "Encryption Code",
         "rarity": "Std",
-        "location": [],
+        "location": [
+            "POI - Data Point",
+            "Ship Wreck Salvage"
+        ],
         "missionReward": true
     },
     "osmium": {
@@ -684,7 +835,9 @@
         "type": "Com",
         "subtype": "Commodity",
         "rarity": "Std",
-        "location": [],
+        "location": [
+            "Mining"
+        ],
         "missionReward": true
     },
     "peculiar-shield-frequency-data": {
@@ -692,7 +845,9 @@
         "type": "Data",
         "subtype": "Shield Frequency System",
         "rarity": "VRare",
-        "location": [],
+        "location": [
+            "NPC Ship Scanning"
+        ],
         "missionReward": true
     },
     "pharmaceutical-isolators": {
@@ -700,7 +855,9 @@
         "type": "Man",
         "subtype": "Chemical Manipulator",
         "rarity": "VRare",
-        "location": [],
+        "location": [
+            "USS (ELW)"
+        ],
         "missionReward": true
     },
     "phase-alloys": {
@@ -708,7 +865,9 @@
         "type": "Man",
         "subtype": "Lightweight Alloy",
         "rarity": "Std",
-        "location": [],
+        "location": [
+            "Ship Wreck Salvage"
+        ],
         "missionReward": false
     },
     "phosphorus": {
@@ -716,7 +875,10 @@
         "type": "Ele",
         "subtype": "Raw Material",
         "rarity": "VCom",
-        "location": [],
+        "location": [
+            "Surface Prospecting",
+            "All Rings - Mining"
+        ],
         "missionReward": false
     },
     "platinum": {
@@ -724,7 +886,10 @@
         "type": "Com",
         "subtype": "Commodity",
         "rarity": "Std",
-        "location": [],
+        "location": [
+            "Mining",
+            "POI - Salvage"
+        ],
         "missionReward": true
     },
     "polonium": {
@@ -732,7 +897,9 @@
         "type": "Ele",
         "subtype": "Raw Material",
         "rarity": "VRare",
-        "location": [],
+        "location": [
+            "Surface Prospecting"
+        ],
         "missionReward": false
     },
     "polymer-capacitors": {
@@ -740,7 +907,10 @@
         "type": "Man",
         "subtype": "Capacitor",
         "rarity": "Rare",
-        "location": [],
+        "location": [
+            "Ship Wreck Salvage",
+            "POI - Settlement"
+        ],
         "missionReward": true
     },
     "power-converter": {
@@ -764,7 +934,9 @@
         "type": "Com",
         "subtype": "Commodity",
         "rarity": "Std",
-        "location": [],
+        "location": [
+            "Mining"
+        ],
         "missionReward": true
     },
     "precipitated-alloys": {
@@ -772,7 +944,9 @@
         "type": "Man",
         "subtype": "Heat Resistant Alloy",
         "rarity": "Std",
-        "location": [],
+        "location": [
+            "Ship Wreck Salvage"
+        ],
         "missionReward": true
     },
     "proprietary-composites": {
@@ -780,7 +954,9 @@
         "type": "Man",
         "subtype": "High Density Composites",
         "rarity": "Rare",
-        "location": [],
+        "location": [
+            "Ship Wreck Salvage"
+        ],
         "missionReward": false
     },
     "proto-heat-radiators": {
@@ -788,7 +964,9 @@
         "type": "Man",
         "subtype": "Heat Exchanger",
         "rarity": "VRare",
-        "location": [],
+        "location": [
+            "Ship Wreck Salvage"
+        ],
         "missionReward": true
     },
     "proto-light-alloys": {
@@ -796,7 +974,9 @@
         "type": "Man",
         "subtype": "Lightweight Alloy",
         "rarity": "Rare",
-        "location": [],
+        "location": [
+            "Ship Wreck Salvage"
+        ],
         "missionReward": true
     },
     "proto-radiolic-alloys": {
@@ -804,7 +984,9 @@
         "type": "Man",
         "subtype": "Lightweight Alloy",
         "rarity": "VRare",
-        "location": [],
+        "location": [
+            "Ship Wreck Salvage"
+        ],
         "missionReward": false
     },
     "radiation-baffle": {
@@ -820,7 +1002,9 @@
         "type": "Man",
         "subtype": "Focusing Crystal",
         "rarity": "Rare",
-        "location": [],
+        "location": [
+            "Ship Wreck Salvage"
+        ],
         "missionReward": true
     },
     "reinforced-mounting-plate": {
@@ -836,7 +1020,9 @@
         "type": "Ele",
         "subtype": "Raw Material",
         "rarity": "VRare",
-        "location": [],
+        "location": [
+            "Surface Prospecting"
+        ],
         "missionReward": false
     },
     "salvaged-alloys": {
@@ -844,7 +1030,9 @@
         "type": "Man",
         "subtype": "Lightweight Alloy",
         "rarity": "VCom",
-        "location": [],
+        "location": [
+            "Ship Wreck Salvage"
+        ],
         "missionReward": false
     },
     "samarium": {
@@ -852,7 +1040,9 @@
         "type": "Com",
         "subtype": "Commodity",
         "rarity": "Std",
-        "location": [],
+        "location": [
+            "Mining"
+        ],
         "missionReward": true
     },
     "security-firmware-patch": {
@@ -860,7 +1050,9 @@
         "type": "Data",
         "subtype": "Firmware",
         "rarity": "Rare",
-        "location": [],
+        "location": [
+            "POI - Settlement"
+        ],
         "missionReward": true
     },
     "selenium": {
@@ -868,7 +1060,9 @@
         "type": "Ele",
         "subtype": "Raw Material",
         "rarity": "Std",
-        "location": [],
+        "location": [
+            "Surface Prospecting"
+        ],
         "missionReward": false
     },
     "shield-emitters": {
@@ -876,7 +1070,10 @@
         "type": "Man",
         "subtype": "Shielding",
         "rarity": "Com",
-        "location": [],
+        "location": [
+            "Ship Wreck Salvage",
+            "POI"
+        ],
         "missionReward": false
     },
     "shielding-sensors": {
@@ -892,7 +1089,10 @@
         "type": "Data",
         "subtype": "Firmware",
         "rarity": "VCom",
-        "location": [],
+        "location": [
+            "Ship Wreck Salvage",
+            "Satellite USS (ELW)"
+        ],
         "missionReward": true
     },
     "strange-wake-solutions": {
@@ -900,7 +1100,9 @@
         "type": "Data",
         "subtype": "Scan Data",
         "rarity": "Std",
-        "location": [],
+        "location": [
+            "High Wake Scanning"
+        ],
         "missionReward": true
     },
     "sulphur": {
@@ -908,7 +1110,10 @@
         "type": "Ele",
         "subtype": "Raw Material",
         "rarity": "VCom",
-        "location": [],
+        "location": [
+            "Surface Prospecting",
+            "All Rings - Mining"
+        ],
         "missionReward": true
     },
     "tagged-encryption-codes": {
@@ -916,7 +1121,10 @@
         "type": "Data",
         "subtype": "Encryption Code",
         "rarity": "Com",
-        "location": [],
+        "location": [
+            "POI",
+            "Ship Wreck Salvage"
+        ],
         "missionReward": true
     },
     "technetium": {
@@ -924,7 +1132,9 @@
         "type": "Ele",
         "subtype": "Raw Material",
         "rarity": "VRare",
-        "location": [],
+        "location": [
+            "Surface Prospecting"
+        ],
         "missionReward": false
     },
     "telemetry-suite": {
@@ -940,7 +1150,9 @@
         "type": "Ele",
         "subtype": "Raw Material",
         "rarity": "VRare",
-        "location": [],
+        "location": [
+            "Surface Prospecting"
+        ],
         "missionReward": false
     },
     "tempered-alloys": {
@@ -948,7 +1160,9 @@
         "type": "Man",
         "subtype": "Heat Resistant Alloy",
         "rarity": "VCom",
-        "location": [],
+        "location": [
+            "Ship Wreck Salvage"
+        ],
         "missionReward": false
     },
     "thermic-alloys": {
@@ -964,7 +1178,9 @@
         "type": "Ele",
         "subtype": "Raw Material",
         "rarity": "Rare",
-        "location": [],
+        "location": [
+            "Surface Prospecting"
+        ],
         "missionReward": false
     },
     "tungsten": {
@@ -972,7 +1188,9 @@
         "type": "Ele",
         "subtype": "Raw Material",
         "rarity": "Std",
-        "location": [],
+        "location": [
+            "Surface Prospecting"
+        ],
         "missionReward": false
     },
     "unexpected-emission-data": {
@@ -980,7 +1198,9 @@
         "type": "Data",
         "subtype": "Emission Data",
         "rarity": "Std",
-        "location": [],
+        "location": [
+            "NPC Ship Scanning"
+        ],
         "missionReward": true
     },
     "unidentified-scan-archives": {
@@ -988,7 +1208,9 @@
         "type": "Data",
         "subtype": "Scan Data",
         "rarity": "Com",
-        "location": [],
+        "location": [
+            "NPC Ship Scanning"
+        ],
         "missionReward": true
     },
     "unknown-fragment": {
@@ -996,7 +1218,9 @@
         "type": "Man",
         "subtype": "Unknown",
         "rarity": "VRare",
-        "location": [],
+        "location": [
+            "Destroy Ukwn Artefact"
+        ],
         "missionReward": false
     },
     "untypical-shield-scans": {
@@ -1004,7 +1228,9 @@
         "type": "Data",
         "subtype": "Shield Frequency System",
         "rarity": "Std",
-        "location": [],
+        "location": [
+            "NPC Ship Scanning"
+        ],
         "missionReward": false
     },
     "unusual-encrypted-files": {
@@ -1012,7 +1238,10 @@
         "type": "Data",
         "subtype": "Encryption Code",
         "rarity": "VCom",
-        "location": [],
+        "location": [
+            "POI - Settlement",
+            "Ship Wreck Salvage"
+        ],
         "missionReward": true
     },
     "vanadium": {
@@ -1020,7 +1249,10 @@
         "type": "Ele",
         "subtype": "Raw Material",
         "rarity": "Com",
-        "location": [],
+        "location": [
+            "Surface Prospecting",
+            "Ice Rings - Mining"
+        ],
         "missionReward": true
     },
     "worn-shield-emitters": {
@@ -1028,7 +1260,9 @@
         "type": "Man",
         "subtype": "Shielding",
         "rarity": "VCom",
-        "location": [],
+        "location": [
+            "Ship Wreck Salvage"
+        ],
         "missionReward": false
     },
     "yttrium": {
@@ -1036,7 +1270,9 @@
         "type": "Ele",
         "subtype": "Raw Material",
         "rarity": "VRare",
-        "location": [],
+        "location": [
+            "Surface Prospecting"
+        ],
         "missionReward": false
     },
     "zinc": {
@@ -1044,7 +1280,9 @@
         "type": "Ele",
         "subtype": "Raw Material",
         "rarity": "Com",
-        "location": [],
+        "location": [
+            "Surface Prospecting"
+        ],
         "missionReward": false
     },
     "zirconium": {
@@ -1052,7 +1290,10 @@
         "type": "Ele",
         "subtype": "Raw Material",
         "rarity": "Std",
-        "location": [],
+        "location": [
+            "Surface Prospecting",
+            "Mining"
+        ],
         "missionReward": false
     }
 }

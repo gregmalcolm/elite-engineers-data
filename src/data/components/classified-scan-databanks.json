@@ -3,6 +3,9 @@
     "type": "Data",
     "subtype": "Scan Data",
     "rarity": "Std",
-    "location": [],
+    "location": [
+        "NPC Ship Scanning",
+        "POI"
+    ],
     "missionReward": false
 }

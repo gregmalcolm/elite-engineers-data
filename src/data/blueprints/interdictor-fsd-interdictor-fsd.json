@@ -4,10 +4,10 @@
     "recipes": {
         "1": {
             "components": {
-                "Mechanical Scrap": 2,
-                "Anomalous FSD Telemetry": 1,
-                "Iron": 2,
-                "Tagged Encryption Codes": 1
+                "mechanical-scrap": 2,
+                "anomalous-fsd-telemetry": 1,
+                "iron": 2,
+                "tagged-encryption-codes": 1
             },
             "effects": {
                 "facing-limit": {
@@ -38,11 +38,11 @@
         },
         "2": {
             "components": {
-                "Grid Resistors": 2,
-                "Mechanical Equipment": 2,
-                "Strange Wake Solutions": 1,
-                "Anomalous FSD Telemetry": 2,
-                "Open Symmetric Keys": 1
+                "grid-resistors": 2,
+                "mechanical-equipment": 2,
+                "strange-wake-solutions": 1,
+                "anomalous-fsd-telemetry": 2,
+                "open-symmetric-keys": 1
             },
             "effects": {
                 "facing-limit": {
@@ -73,14 +73,14 @@
         },
         "3": {
             "components": {
-                "Grid Resistors": 1,
-                "Hybrid Capacitors": 1,
-                "Mechanical Components": 2,
-                "Eccentric Hyperspace Trajectories": 1,
-                "Iron": 1,
-                "Strange Wake Solutions": 2,
-                "Atypical Encryption Archives": 1,
-                "Nanobreakers": 1
+                "grid-resistors": 1,
+                "hybrid-capacitors": 1,
+                "mechanical-components": 2,
+                "eccentric-hyperspace-trajectories": 1,
+                "iron": 1,
+                "strange-wake-solutions": 2,
+                "atypical-encryption-archives": 1,
+                "nanobreakers": 1
             },
             "effects": {
                 "facing-limit": {
@@ -111,8 +111,8 @@
         },
         "4": {
             "components": {
-                "Mechanical Components": 2,
-                "Eccentric Hyperspace Trajectories": 2
+                "mechanical-components": 2,
+                "eccentric-hyperspace-trajectories": 2
             },
             "effects": {
                 "facing-limit": {

@@ -4,8 +4,8 @@
     "recipes": {
         "1": {
             "components": {
-                "Iron": 1,
-                "Heat Dispersion Plate": 2
+                "iron": 1,
+                "heat-dispersion-plate": 2
             },
             "effects": {
                 "heat-efficiency": {
@@ -30,10 +30,10 @@
         },
         "2": {
             "components": {
-                "Iron": 2,
-                "Irregular Emission Data": 2,
-                "Heat Exchangers": 1,
-                "Micro-Weave Cooling Hoses": 1
+                "iron": 2,
+                "irregular-emission-data": 2,
+                "heat-exchangers": 1,
+                "micro-weave-cooling-hoses": 1
             },
             "effects": {
                 "heat-efficiency": {
@@ -58,10 +58,10 @@
         },
         "3": {
             "components": {
-                "Iron": 1,
-                "Irregular Emission Data": 2,
-                "Heat Exchangers": 2,
-                "Samarium": 1
+                "iron": 1,
+                "irregular-emission-data": 2,
+                "heat-exchangers": 2,
+                "samarium": 1
             },
             "effects": {
                 "heat-efficiency": {

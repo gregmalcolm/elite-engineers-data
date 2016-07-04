@@ -3,6 +3,9 @@
     "type": "Data",
     "subtype": "Encryption Code",
     "rarity": "VCom",
-    "location": [],
+    "location": [
+        "POI - Settlement",
+        "Ship Wreck Salvage"
+    ],
     "missionReward": true
 }

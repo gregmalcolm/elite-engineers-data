@@ -3,6 +3,8 @@
     "type": "Data",
     "subtype": "Scan Data",
     "rarity": "VRare",
-    "location": [],
+    "location": [
+        "POI - Settlement"
+    ],
     "missionReward": true
 }

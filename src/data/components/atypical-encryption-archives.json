@@ -3,6 +3,8 @@
     "type": "Data",
     "subtype": "Encryption Code",
     "rarity": "Rare",
-    "location": [],
+    "location": [
+        "POI"
+    ],
     "missionReward": false
 }

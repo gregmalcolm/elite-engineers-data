@@ -3,6 +3,9 @@
     "type": "Data",
     "subtype": "Encryption Code",
     "rarity": "Std",
-    "location": [],
+    "location": [
+        "POI - Data Point",
+        "Ship Wreck Salvage"
+    ],
     "missionReward": true
 }

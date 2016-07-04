@@ -4,9 +4,9 @@
     "recipes": {
         "1": {
             "components": {
-                "Sulphur": 2,
-                "Irregular Emission Data": 1,
-                "Niobium": 1
+                "sulphur": 2,
+                "irregular-emission-data": 1,
+                "niobium": 1
             },
             "effects": {
                 "optimal-multiplier": {
@@ -43,11 +43,11 @@
         },
         "2": {
             "components": {
-                "Specialised Legacy Firmware": 1,
-                "Conductive Components": 2,
-                "Unexpected Emission Data": 2,
-                "Tin": 1,
-                "Samarium": 1
+                "specialised-legacy-firmware": 1,
+                "conductive-components": 2,
+                "unexpected-emission-data": 2,
+                "tin": 1,
+                "samarium": 1
             },
             "effects": {
                 "optimal-multiplier": {
@@ -84,11 +84,11 @@
         },
         "3": {
             "components": {
-                "Specialised Legacy Firmware": 1,
-                "Conductive Components": 3,
-                "Unexpected Emission Data": 2,
-                "Tin": 2,
-                "Power Converter": 1
+                "specialised-legacy-firmware": 1,
+                "conductive-components": 3,
+                "unexpected-emission-data": 2,
+                "tin": 2,
+                "power-converter": 1
             },
             "effects": {
                 "optimal-multiplier": {
@@ -125,11 +125,11 @@
         },
         "4": {
             "components": {
-                "Modified Consumer Firmware": 2,
-                "Conductive Ceramics": 3,
-                "Decoded Emission Data": 2,
-                "Antimony": 1,
-                "Power Converter": 1
+                "modified-consumer-firmware": 2,
+                "conductive-ceramics": 3,
+                "decoded-emission-data": 2,
+                "antimony": 1,
+                "power-converter": 1
             },
             "effects": {
                 "optimal-multiplier": {
@@ -166,10 +166,10 @@
         },
         "5": {
             "components": {
-                "Conductive Ceramics": 2,
-                "Decoded Emission Data": 3,
-                "Antimony": 2,
-                "Magnetic Emitter Coil": 1
+                "conductive-ceramics": 2,
+                "decoded-emission-data": 3,
+                "antimony": 2,
+                "magnetic-emitter-coil": 1
             },
             "effects": {
                 "optimal-multiplier": {

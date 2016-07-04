@@ -4,8 +4,8 @@
     "recipes": {
         "1": {
             "components": {
-                "Phosphorus": 1,
-                "Conductive Components": 2
+                "phosphorus": 1,
+                "conductive-components": 2
             },
             "effects": {
                 "optimal-strength": {
@@ -54,10 +54,10 @@
         },
         "2": {
             "components": {
-                "Phosphorus": 2,
-                "Conductive Components": 2,
-                "Mechanical Components": 1,
-                "Modular Terminals": 1
+                "phosphorus": 2,
+                "conductive-components": 2,
+                "mechanical-components": 1,
+                "modular-terminals": 1
             },
             "effects": {
                 "optimal-strength": {
@@ -106,10 +106,10 @@
         },
         "3": {
             "components": {
-                "Phosphorus": 1,
-                "Conductive Components": 2,
-                "Mechanical Components": 2,
-                "Magnetic Emitter Coil": 1
+                "phosphorus": 1,
+                "conductive-components": 2,
+                "mechanical-components": 2,
+                "magnetic-emitter-coil": 1
             },
             "effects": {
                 "optimal-strength": {
@@ -158,10 +158,10 @@
         },
         "4": {
             "components": {
-                "Manganese": 1,
-                "Conductive Ceramics": 2,
-                "Configurable Components": 2,
-                "Magnetic Emitter Coil": 1
+                "manganese": 1,
+                "conductive-ceramics": 2,
+                "configurable-components": 2,
+                "magnetic-emitter-coil": 1
             },
             "effects": {
                 "optimal-strength": {
@@ -210,10 +210,10 @@
         },
         "5": {
             "components": {
-                "Arsenic": 1,
-                "Conductive Polymers": 2,
-                "Improvised Components": 1,
-                "Ion Distributor": 1
+                "arsenic": 1,
+                "conductive-polymers": 2,
+                "improvised-components": 1,
+                "ion-distributor": 1
             },
             "effects": {
                 "optimal-strength": {

@@ -4,8 +4,8 @@
     "recipes": {
         "1": {
             "components": {
-                "Nickel": 2,
-                "Modified Consumer Firmware": 1
+                "nickel": 2,
+                "modified-consumer-firmware": 1
             },
             "effects": {
                 "maximum-range": {
@@ -48,10 +48,10 @@
         },
         "2": {
             "components": {
-                "Nickel": 2,
-                "Modified Consumer Firmware": 2,
-                "Electrochemical Arrays": 1,
-                "Insulating Membrane": 1
+                "nickel": 2,
+                "modified-consumer-firmware": 2,
+                "electrochemical-arrays": 1,
+                "insulating-membrane": 1
             },
             "effects": {
                 "maximum-range": {
@@ -94,11 +94,11 @@
         },
         "3": {
             "components": {
-                "Nickel": 1,
-                "Modified Consumer Firmware": 2,
-                "Electrochemical Arrays": 1,
-                "Conductive Polymers": 1,
-                "Neofabric Insulation": 1
+                "nickel": 1,
+                "modified-consumer-firmware": 2,
+                "electrochemical-arrays": 1,
+                "conductive-polymers": 1,
+                "neofabric-insulation": 1
             },
             "effects": {
                 "maximum-range": {
@@ -141,10 +141,10 @@
         },
         "4": {
             "components": {
-                "Modified Consumer Firmware": 1,
-                "Electrochemical Arrays": 2,
-                "Conductive Polymers": 2,
-                "Platinum": 1
+                "modified-consumer-firmware": 1,
+                "electrochemical-arrays": 2,
+                "conductive-polymers": 2,
+                "platinum": 1
             },
             "effects": {
                 "maximum-range": {
@@ -187,9 +187,9 @@
         },
         "5": {
             "components": {
-                "Security Firmware Patch": 2,
-                "Improvised Components": 1,
-                "Magnetic Emitter Coil": 1
+                "security-firmware-patch": 2,
+                "improvised-components": 1,
+                "magnetic-emitter-coil": 1
             },
             "effects": {
                 "maximum-range": {

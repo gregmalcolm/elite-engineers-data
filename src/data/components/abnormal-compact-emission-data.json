@@ -3,6 +3,9 @@
     "type": "Data",
     "subtype": "Emission Data",
     "rarity": "VRare",
-    "location": [],
+    "location": [
+        "Ship Wreck Salvage",
+        "NPC Ship Scanning"
+    ],
     "missionReward": true
 }

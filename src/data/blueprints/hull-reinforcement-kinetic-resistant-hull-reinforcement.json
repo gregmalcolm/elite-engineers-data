@@ -4,8 +4,8 @@
     "recipes": {
         "1": {
             "components": {
-                "Nickel": 2,
-                "Vanadium": 1
+                "nickel": 2,
+                "vanadium": 1
             },
             "effects": {
                 "kinetic-resistance": {
@@ -30,10 +30,10 @@
         },
         "2": {
             "components": {
-                "Nickel": 2,
-                "Vanadium": 2,
-                "Tungsten": 1,
-                "Micro-Weave Cooling Hoses": 1
+                "nickel": 2,
+                "vanadium": 2,
+                "tungsten": 1,
+                "micro-weave-cooling-hoses": 1
             },
             "effects": {
                 "kinetic-resistance": {
@@ -58,11 +58,11 @@
         },
         "3": {
             "components": {
-                "Nickel": 1,
-                "Vanadium": 1,
-                "High Density Composites": 2,
-                "Molybdenum": 1,
-                "CMM Composite": 1
+                "nickel": 1,
+                "vanadium": 1,
+                "high-density-composites": 2,
+                "molybdenum": 1,
+                "cmm-composite": 1
             },
             "effects": {
                 "kinetic-resistance": {

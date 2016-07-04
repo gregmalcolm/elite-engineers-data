@@ -4,8 +4,8 @@
     "recipes": {
         "1": {
             "components": {
-                "Phosphorus": 2,
-                "Galvanising Alloys": 1
+                "phosphorus": 2,
+                "galvanising-alloys": 1
             },
             "effects": {
                 "mass": {
@@ -36,10 +36,10 @@
         },
         "2": {
             "components": {
-                "Heat Conduction Wiring": 2,
-                "Manganese": 2,
-                "Phase Alloys": 1,
-                "CMM Composite": 1
+                "heat-conduction-wiring": 2,
+                "manganese": 2,
+                "phase-alloys": 1,
+                "cmm-composite": 1
             },
             "effects": {
                 "mass": {
@@ -70,11 +70,11 @@
         },
         "3": {
             "components": {
-                "Heat Conduction Wiring": 1,
-                "Manganese": 1,
-                "Conductive Ceramics": 2,
-                "Proto Light Alloys": 1,
-                "CMM Composite": 1
+                "heat-conduction-wiring": 1,
+                "manganese": 1,
+                "conductive-ceramics": 2,
+                "proto-light-alloys": 1,
+                "cmm-composite": 1
             },
             "effects": {
                 "mass": {
@@ -105,9 +105,9 @@
         },
         "4": {
             "components": {
-                "Conductive Ceramics": 2,
-                "Proto Light Alloys": 2,
-                "Magnetic Emitter Coil": 1
+                "conductive-ceramics": 2,
+                "proto-light-alloys": 2,
+                "magnetic-emitter-coil": 1
             },
             "effects": {
                 "mass": {

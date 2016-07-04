@@ -3,6 +3,8 @@
     "type": "Data",
     "subtype": "Scan Data",
     "rarity": "Rare",
-    "location": [],
+    "location": [
+        "POI - Data Point"
+    ],
     "missionReward": false
 }

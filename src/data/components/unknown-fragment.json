@@ -3,6 +3,8 @@
     "type": "Man",
     "subtype": "Unknown",
     "rarity": "VRare",
-    "location": [],
+    "location": [
+        "Destroy Ukwn Artefact"
+    ],
     "missionReward": false
 }

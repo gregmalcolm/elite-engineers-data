@@ -4,8 +4,8 @@
     "recipes": {
         "1": {
             "components": {
-                "Carbon": 1,
-                "Shield Emitters": 2
+                "carbon": 1,
+                "shield-emitters": 2
             },
             "effects": {
                 "mass": {

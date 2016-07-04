@@ -3,6 +3,8 @@
     "type": "Man",
     "subtype": "Chemical Manipulator",
     "rarity": "VCom",
-    "location": [],
+    "location": [
+        "Ship Wreck Salvage"
+    ],
     "missionReward": false
 }

@@ -3,6 +3,8 @@
     "type": "Man",
     "subtype": "Heat Resistant Alloy",
     "rarity": "Std",
-    "location": [],
+    "location": [
+        "Ship Wreck Salvage"
+    ],
     "missionReward": true
 }

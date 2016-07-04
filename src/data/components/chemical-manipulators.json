@@ -3,6 +3,9 @@
     "type": "Man",
     "subtype": "Chemical Manipulator",
     "rarity": "Rare",
-    "location": [],
+    "location": [
+        "Ship Wreck Salvage",
+        "POI"
+    ],
     "missionReward": true
 }

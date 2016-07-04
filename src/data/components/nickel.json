@@ -3,6 +3,9 @@
     "type": "Ele",
     "subtype": "Raw Material",
     "rarity": "VCom",
-    "location": [],
+    "location": [
+        "Surface Prospecting",
+        "All Rings - Mining"
+    ],
     "missionReward": false
 }

@@ -3,6 +3,9 @@
     "type": "Data",
     "subtype": "Emission Data",
     "rarity": "VCom",
-    "location": [],
+    "location": [
+        "NPC Ship Scanning",
+        "Ship Wreck Salvage"
+    ],
     "missionReward": true
 }

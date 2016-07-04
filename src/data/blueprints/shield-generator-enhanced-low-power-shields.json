@@ -4,9 +4,9 @@
     "recipes": {
         "1": {
             "components": {
-                "Distorted Shield Cycle Recordings": 2,
-                "Germanium": 1,
-                "Focus Crystals": 1
+                "distorted-shield-cycle-recordings": 2,
+                "germanium": 1,
+                "focus-crystals": 1
             },
             "effects": {
                 "power-draw": {
@@ -43,10 +43,10 @@
         },
         "2": {
             "components": {
-                "Distorted Shield Cycle Recordings": 2,
-                "Germanium": 2,
-                "Focus Crystals": 2,
-                "Micro Controllers": 1
+                "distorted-shield-cycle-recordings": 2,
+                "germanium": 2,
+                "focus-crystals": 2,
+                "micro-controllers": 1
             },
             "effects": {
                 "power-draw": {
@@ -83,11 +83,11 @@
         },
         "3": {
             "components": {
-                "Distorted Shield Cycle Recordings": 1,
-                "Germanium": 2,
-                "Precipitated Alloys": 2,
-                "Refined Focus Crystals": 1,
-                "Power Transfer Bus": null
+                "distorted-shield-cycle-recordings": 1,
+                "germanium": 2,
+                "precipitated-alloys": 2,
+                "refined-focus-crystals": 1,
+                "power-transfer-bus": null
             },
             "effects": {
                 "power-draw": {
@@ -124,10 +124,10 @@
         },
         "4": {
             "components": {
-                "Inconsistent Shield Soak Analysis": 1,
-                "Niobium": 2,
-                "Thermic Alloys": 3,
-                "Nanobreakers": 1
+                "inconsistent-shield-soak-analysis": 1,
+                "niobium": 2,
+                "thermic-alloys": 3,
+                "nanobreakers": 1
             },
             "effects": {
                 "power-draw": {
@@ -164,10 +164,10 @@
         },
         "5": {
             "components": {
-                "Untypical Shield Scans": 2,
-                "Tin": 2,
-                "Military Grade Alloys": 2,
-                "Platinum": 1
+                "untypical-shield-scans": 2,
+                "tin": 2,
+                "military-grade-alloys": 2,
+                "platinum": 1
             },
             "effects": {
                 "power-draw": {

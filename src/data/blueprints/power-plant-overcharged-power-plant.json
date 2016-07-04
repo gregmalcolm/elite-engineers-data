@@ -4,9 +4,9 @@
     "recipes": {
         "1": {
             "components": {
-                "Sulphur": 2,
-                "Conductive Components": 1,
-                "Chemical Distillery": 1
+                "sulphur": 2,
+                "conductive-components": 1,
+                "chemical-distillery": 1
             },
             "effects": {
                 "power-capacity": {
@@ -31,11 +31,11 @@
         },
         "2": {
             "components": {
-                "Heat Conduction Wiring": 2,
-                "Conductive Components": 2,
-                "Selenium": 1,
-                "Chemical Manipulators": 1,
-                "Platinum": 1
+                "heat-conduction-wiring": 2,
+                "conductive-components": 2,
+                "selenium": 1,
+                "chemical-manipulators": 1,
+                "platinum": 1
             },
             "effects": {
                 "power-capacity": {
@@ -60,11 +60,11 @@
         },
         "3": {
             "components": {
-                "Heat Conduction Wiring": 1,
-                "Conductive Components": 2,
-                "Selenium": 2,
-                "Chemical Manipulators": 2,
-                "Emergency Power Cells": 1
+                "heat-conduction-wiring": 1,
+                "conductive-components": 2,
+                "selenium": 2,
+                "chemical-manipulators": 2,
+                "emergency-power-cells": 1
             },
             "effects": {
                 "power-capacity": {
@@ -89,11 +89,11 @@
         },
         "4": {
             "components": {
-                "Heat Dispersion Plate": 1,
-                "Conductive Ceramics": 2,
-                "Cadmium": 2,
-                "Pharmaceutical Isolators": 1,
-                "Energy Grid Assembly": 1
+                "heat-dispersion-plate": 1,
+                "conductive-ceramics": 2,
+                "cadmium": 2,
+                "pharmaceutical-isolators": 1,
+                "energy-grid-assembly": 1
             },
             "effects": {
                 "power-capacity": {
@@ -118,10 +118,10 @@
         },
         "5": {
             "components": {
-                "Conductive Ceramics": 1,
-                "Cadmium": 2,
-                "Pharmaceutical Isolators": 2,
-                "Energy Grid Assembly": 1
+                "conductive-ceramics": 1,
+                "cadmium": 2,
+                "pharmaceutical-isolators": 2,
+                "energy-grid-assembly": 1
             },
             "effects": {
                 "power-capacity": {

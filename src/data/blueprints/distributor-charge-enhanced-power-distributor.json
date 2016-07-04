@@ -4,8 +4,8 @@
     "recipes": {
         "1": {
             "components": {
-                "Specialised Legacy Firmware": 2,
-                "Chemical Processors": 2
+                "specialised-legacy-firmware": 2,
+                "chemical-processors": 2
             },
             "effects": {
                 "weapons-recharge": {
@@ -48,10 +48,10 @@
         },
         "2": {
             "components": {
-                "Specialised Legacy Firmware": 2,
-                "Chemical Processors": 2,
-                "Focus Crystals": 1,
-                "Nanobreakers": 1
+                "specialised-legacy-firmware": 2,
+                "chemical-processors": 2,
+                "focus-crystals": 1,
+                "nanobreakers": 1
             },
             "effects": {
                 "weapons-recharge": {
@@ -94,11 +94,11 @@
         },
         "3": {
             "components": {
-                "Grid Resistors": 1,
-                "Modified Consumer Firmware": 2,
-                "Chemical Distillery": 2,
-                "Refined Focus Crystals": 1,
-                "Praseodymium": 1
+                "grid-resistors": 1,
+                "modified-consumer-firmware": 2,
+                "chemical-distillery": 2,
+                "refined-focus-crystals": 1,
+                "praseodymium": 1
             },
             "effects": {
                 "weapons-recharge": {
@@ -141,11 +141,11 @@
         },
         "4": {
             "components": {
-                "Hybrid Capacitors": 1,
-                "Cracked Industrial Firmware": 2,
-                "Chemical Manipulators": 2,
-                "Exquisite Focus Crystals": 1,
-                "Ion Distributor": 1
+                "hybrid-capacitors": 1,
+                "cracked-industrial-firmware": 2,
+                "chemical-manipulators": 2,
+                "exquisite-focus-crystals": 1,
+                "ion-distributor": 1
             },
             "effects": {
                 "weapons-recharge": {
@@ -188,10 +188,10 @@
         },
         "5": {
             "components": {
-                "Cracked Industrial Firmware": 3,
-                "Chemical Manipulators": 2,
-                "Exquisite Focus Crystals": 2,
-                "Ion Distributor": 1
+                "cracked-industrial-firmware": 3,
+                "chemical-manipulators": 2,
+                "exquisite-focus-crystals": 2,
+                "ion-distributor": 1
             },
             "effects": {
                 "weapons-recharge": {

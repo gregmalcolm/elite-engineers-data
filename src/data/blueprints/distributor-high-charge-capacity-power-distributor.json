@@ -4,9 +4,9 @@
     "recipes": {
         "1": {
             "components": {
-                "Sulphur": 2,
-                "Zinc": 1,
-                "Electrochemical Arrays": 1
+                "sulphur": 2,
+                "zinc": 1,
+                "electrochemical-arrays": 1
             },
             "effects": {
                 "weapons-capacity": {
@@ -49,11 +49,11 @@
         },
         "2": {
             "components": {
-                "Specialised Legacy Firmware": 2,
-                "Chromium": 2,
-                "High Density Composites": 1,
-                "Polymer Capacitors": 1,
-                "Platinum": 1
+                "specialised-legacy-firmware": 2,
+                "chromium": 2,
+                "high-density-composites": 1,
+                "polymer-capacitors": 1,
+                "platinum": 1
             },
             "effects": {
                 "weapons-capacity": {
@@ -96,11 +96,11 @@
         },
         "3": {
             "components": {
-                "Specialised Legacy Firmware": 1,
-                "Chromium": 3,
-                "High Density Composites": 2,
-                "Polymer Capacitors": 2,
-                "Modular Terminals": 1
+                "specialised-legacy-firmware": 1,
+                "chromium": 3,
+                "high-density-composites": 2,
+                "polymer-capacitors": 2,
+                "modular-terminals": 1
             },
             "effects": {
                 "weapons-capacity": {
@@ -143,11 +143,11 @@
         },
         "4": {
             "components": {
-                "Modified Consumer Firmware": 2,
-                "Selenium": 2,
-                "Proprietary Composites": 2,
-                "Military Supercapacitors": 1,
-                "Modular Terminals": 1
+                "modified-consumer-firmware": 2,
+                "selenium": 2,
+                "proprietary-composites": 2,
+                "military-supercapacitors": 1,
+                "modular-terminals": 1
             },
             "effects": {
                 "weapons-capacity": {
@@ -190,10 +190,10 @@
         },
         "5": {
             "components": {
-                "Cracked Industrial Firmware": 2,
-                "Proprietary Composites": 2,
-                "Military Supercapacitors": 2,
-                "Emergency Power Cells": 1
+                "cracked-industrial-firmware": 2,
+                "proprietary-composites": 2,
+                "military-supercapacitors": 2,
+                "emergency-power-cells": 1
             },
             "effects": {
                 "weapons-capacity": {

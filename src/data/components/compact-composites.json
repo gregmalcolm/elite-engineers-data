@@ -3,6 +3,9 @@
     "type": "Man",
     "subtype": "High Density Composites",
     "rarity": "VCom",
-    "location": [],
+    "location": [
+        "Ship Wreck Salvage",
+        "POI"
+    ],
     "missionReward": false
 }

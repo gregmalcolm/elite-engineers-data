@@ -3,6 +3,9 @@
     "type": "Man",
     "subtype": "Capacitor",
     "rarity": "Rare",
-    "location": [],
+    "location": [
+        "Ship Wreck Salvage",
+        "POI - Settlement"
+    ],
     "missionReward": true
 }

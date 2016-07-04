@@ -4,9 +4,9 @@
     "recipes": {
         "1": {
             "components": {
-                "Iron": 2,
-                "Conductive Components": 1,
-                "High Density Composites": 1
+                "iron": 2,
+                "conductive-components": 1,
+                "high-density-composites": 1
             },
             "effects": {
                 "hull-boost": {
@@ -31,11 +31,11 @@
         },
         "2": {
             "components": {
-                "Iron": 1,
-                "Conductive Components": 2,
-                "High Density Composites": 2,
-                "Thermic Alloys": 1,
-                "HN Shock Mount": 1
+                "iron": 1,
+                "conductive-components": 2,
+                "high-density-composites": 2,
+                "thermic-alloys": 1,
+                "hn-shock-mount": 1
             },
             "effects": {
                 "hull-boost": {
@@ -60,11 +60,11 @@
         },
         "3": {
             "components": {
-                "Iron": 1,
-                "Conductive Components": 3,
-                "High Density Composites": 2,
-                "Thermic Alloys": 2,
-                "Telemetry Suite": 1
+                "iron": 1,
+                "conductive-components": 3,
+                "high-density-composites": 2,
+                "thermic-alloys": 2,
+                "telemetry-suite": 1
             },
             "effects": {
                 "hull-boost": {
@@ -89,11 +89,11 @@
         },
         "4": {
             "components": {
-                "Germanium": 2,
-                "Conductive Ceramics": 3,
-                "Proprietary Composites": 2,
-                "Military Grade Alloys": 1,
-                "Hardware Diagnostic Sensor": 1
+                "germanium": 2,
+                "conductive-ceramics": 3,
+                "proprietary-composites": 2,
+                "military-grade-alloys": 1,
+                "hardware-diagnostic-sensor": 1
             },
             "effects": {
                 "hull-boost": {
@@ -118,10 +118,10 @@
         },
         "5": {
             "components": {
-                "Conductive Ceramics": 2,
-                "Tin": 3,
-                "Military Grade Alloys": 2,
-                "Hardware Diagnostic Sensor": 1
+                "conductive-ceramics": 2,
+                "tin": 3,
+                "military-grade-alloys": 2,
+                "hardware-diagnostic-sensor": 1
             },
             "effects": {
                 "hull-boost": {

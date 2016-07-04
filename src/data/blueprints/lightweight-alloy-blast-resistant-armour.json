@@ -4,8 +4,8 @@
     "recipes": {
         "1": {
             "components": {
-                "Nickel": 2,
-                "Vanadium": 1
+                "nickel": 2,
+                "vanadium": 1
             },
             "effects": {
                 "explosive-resistance": {
@@ -30,10 +30,10 @@
         },
         "2": {
             "components": {
-                "Carbon": 2,
-                "Zinc": 2,
-                "High Density Composites": 1,
-                "CMM Composite": 1
+                "carbon": 2,
+                "zinc": 2,
+                "high-density-composites": 1,
+                "cmm-composite": 1
             },
             "effects": {
                 "explosive-resistance": {
@@ -58,11 +58,11 @@
         },
         "3": {
             "components": {
-                "Carbon": 1,
-                "Zinc": 1,
-                "Zirconium": 2,
-                "Proprietary Composites": 1,
-                "Osmium": 1
+                "carbon": 1,
+                "zinc": 1,
+                "zirconium": 2,
+                "proprietary-composites": 1,
+                "osmium": 1
             },
             "effects": {
                 "explosive-resistance": {

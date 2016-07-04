@@ -4,8 +4,8 @@
     "recipes": {
         "1": {
             "components": {
-                "Grid Resistors": 2,
-                "Heat Dispersion Plate": 2
+                "grid-resistors": 2,
+                "heat-dispersion-plate": 2
             },
             "effects": {
                 "boot-time": {
@@ -36,10 +36,10 @@
         },
         "2": {
             "components": {
-                "Sulphur": 1,
-                "Hybrid Capacitors": 2,
-                "Heat Exchangers": 2,
-                "Micro Controllers": 1
+                "sulphur": 1,
+                "hybrid-capacitors": 2,
+                "heat-exchangers": 2,
+                "micro-controllers": 1
             },
             "effects": {
                 "boot-time": {
@@ -70,11 +70,11 @@
         },
         "3": {
             "components": {
-                "Sulphur": 1,
-                "Hybrid Capacitors": 2,
-                "Heat Exchangers": 2,
-                "Security Firmware Patch": 1,
-                "Hardware Diagnostic Sensor": 1
+                "sulphur": 1,
+                "hybrid-capacitors": 2,
+                "heat-exchangers": 2,
+                "security-firmware-patch": 1,
+                "hardware-diagnostic-sensor": 1
             },
             "effects": {
                 "boot-time": {
@@ -105,11 +105,11 @@
         },
         "4": {
             "components": {
-                "Chromium": 1,
-                "Electrochemical Arrays": 2,
-                "Heat Vanes": 2,
-                "Modified Embedded Firmware": 1,
-                "Hardware Diagnostic Sensor": 1
+                "chromium": 1,
+                "electrochemical-arrays": 2,
+                "heat-vanes": 2,
+                "modified-embedded-firmware": 1,
+                "hardware-diagnostic-sensor": 1
             },
             "effects": {
                 "boot-time": {
@@ -140,10 +140,10 @@
         },
         "5": {
             "components": {
-                "Selenium": 1,
-                "Polymer Capacitors": 2,
-                "Proto Heat Radiators": 2,
-                "Radiation Baffle": 1
+                "selenium": 1,
+                "polymer-capacitors": 2,
+                "proto-heat-radiators": 2,
+                "radiation-baffle": 1
             },
             "effects": {
                 "boot-time": {

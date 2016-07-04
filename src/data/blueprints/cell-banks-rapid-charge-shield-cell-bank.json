@@ -4,8 +4,8 @@
     "recipes": {
         "1": {
             "components": {
-                "Sulphur": 2,
-                "Heat Dispersion Plate": 2
+                "sulphur": 2,
+                "heat-dispersion-plate": 2
             },
             "effects": {
                 "spin-up-time": {

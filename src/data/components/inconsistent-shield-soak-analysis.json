@@ -3,6 +3,9 @@
     "type": "Data",
     "subtype": "Shield Frequency System",
     "rarity": "Com",
-    "location": [],
+    "location": [
+        "NPC Ship Scanning",
+        "POI"
+    ],
     "missionReward": true
 }

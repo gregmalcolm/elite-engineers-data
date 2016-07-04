@@ -4,8 +4,8 @@
     "recipes": {
         "1": {
             "components": {
-                "Nickel": 2,
-                "Vanadium": 1
+                "nickel": 2,
+                "vanadium": 1
             },
             "effects": {
                 "kinetic-resistance": {

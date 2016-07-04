@@ -4,8 +4,8 @@
     "recipes": {
         "1": {
             "components": {
-                "Mechanical Scrap": 2,
-                "Heat Dispersion Plate": 2
+                "mechanical-scrap": 2,
+                "heat-dispersion-plate": 2
             },
             "effects": {
                 "damage-per-second": {
@@ -48,10 +48,10 @@
         },
         "2": {
             "components": {
-                "Mechanical Scrap": 3,
-                "Heat Dispersion Plate": 2,
-                "Tungsten": 1,
-                "HN Shock Mount": 1
+                "mechanical-scrap": 3,
+                "heat-dispersion-plate": 2,
+                "tungsten": 1,
+                "hn-shock-mount": 1
             },
             "effects": {
                 "damage-per-second": {
@@ -94,11 +94,11 @@
         },
         "3": {
             "components": {
-                "Specialised Legacy Firmware": 2,
-                "Mechanical Equipment": 2,
-                "Precipitated Alloys": 1,
-                "Molybdenum": 1,
-                "Osmium": 1
+                "specialised-legacy-firmware": 2,
+                "mechanical-equipment": 2,
+                "precipitated-alloys": 1,
+                "molybdenum": 1,
+                "osmium": 1
             },
             "effects": {
                 "damage-per-second": {
@@ -141,11 +141,11 @@
         },
         "4": {
             "components": {
-                "Modified Consumer Firmware": 1,
-                "Mechanical Components": 1,
-                "Thermic Alloys": 2,
-                "Technetium": 1,
-                "Telemetry Suite": 1
+                "modified-consumer-firmware": 1,
+                "mechanical-components": 1,
+                "thermic-alloys": 2,
+                "technetium": 1,
+                "telemetry-suite": 1
             },
             "effects": {
                 "damage-per-second": {

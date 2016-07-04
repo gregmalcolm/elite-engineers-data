@@ -3,6 +3,8 @@
     "type": "Data",
     "subtype": "Scan Data",
     "rarity": "VRare",
-    "location": [],
+    "location": [
+        "High Wake Scanning"
+    ],
     "missionReward": true
 }

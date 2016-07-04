@@ -453,7 +453,11 @@ function improveJsonEngineers(rowsData, rowsDataInfos, rowsComponents) {
     objC.type = row.type;
     objC.subtype = row.subtype;
     objC.rarity = row.rarity;
-    objC.location = [];
+    for(i=1; i<=3; i++) {
+      var keyLoc = 'loc'+i;
+      if(row[keyLoc] != undefined && row[keyLoc] != '')
+        objC.location.push(row[keyLoc]);
+    }
     objC.missionReward = (row.missionreward == 'Yes');
     if(row.missionreward=='Only') objC.missionReward = 'Only';
     objC.shipType = row.ship_types;
@@ -535,8 +539,7 @@ function improveJsonEngineers(rowsData, rowsDataInfos, rowsComponents) {
         }
 
         //-- Attach component to blueprint
-        var name = row[keyMat];
-        objB.recipes[lvl].components[name] = parseInt(row[qtMat]);
+        objB.recipes[lvl].components[idCmp] = parseInt(row[qtMat]);
 
 
       }

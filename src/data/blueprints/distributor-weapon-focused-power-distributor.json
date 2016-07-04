@@ -4,8 +4,8 @@
     "recipes": {
         "1": {
             "components": {
-                "Sulphur": 2,
-                "Conductive Components": 1
+                "sulphur": 2,
+                "conductive-components": 1
             },
             "effects": {
                 "weapons-capacity": {
@@ -48,10 +48,10 @@
         },
         "2": {
             "components": {
-                "Sulphur": 2,
-                "Conductive Components": 2,
-                "Electrochemical Arrays": 1,
-                "Nanobreakers": 1
+                "sulphur": 2,
+                "conductive-components": 2,
+                "electrochemical-arrays": 1,
+                "nanobreakers": 1
             },
             "effects": {
                 "weapons-capacity": {
@@ -94,10 +94,10 @@
         },
         "3": {
             "components": {
-                "Conductive Components": 1,
-                "Selenium": 2,
-                "Polymer Capacitors": 1,
-                "Nanobreakers": 1
+                "conductive-components": 1,
+                "selenium": 2,
+                "polymer-capacitors": 1,
+                "nanobreakers": 1
             },
             "effects": {
                 "weapons-capacity": {

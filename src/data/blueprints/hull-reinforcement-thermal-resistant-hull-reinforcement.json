@@ -4,8 +4,8 @@
     "recipes": {
         "1": {
             "components": {
-                "Heat Conduction Wiring": 2,
-                "Vanadium": 1
+                "heat-conduction-wiring": 2,
+                "vanadium": 1
             },
             "effects": {
                 "thermal-resistance": {
@@ -30,10 +30,10 @@
         },
         "2": {
             "components": {
-                "Nickel": 2,
-                "Heat Dispersion Plate": 2,
-                "Tungsten": 1,
-                "Neofabric Insulation": 1
+                "nickel": 2,
+                "heat-dispersion-plate": 2,
+                "tungsten": 1,
+                "neofabric-insulation": 1
             },
             "effects": {
                 "thermal-resistance": {
@@ -58,11 +58,11 @@
         },
         "3": {
             "components": {
-                "Nickel": 1,
-                "Zinc": 1,
-                "Heat Exchangers": 2,
-                "Molybdenum": 1,
-                "Bromellite": 1
+                "nickel": 1,
+                "zinc": 1,
+                "heat-exchangers": 2,
+                "molybdenum": 1,
+                "bromellite": 1
             },
             "effects": {
                 "thermal-resistance": {

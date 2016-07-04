@@ -4,8 +4,8 @@
     "recipes": {
         "1": {
             "components": {
-                "Specialised Legacy Firmware": 2,
-                "Chemical Processors": 2
+                "specialised-legacy-firmware": 2,
+                "chemical-processors": 2
             },
             "effects": {
                 "optimal-multiplier": {
@@ -42,11 +42,11 @@
         },
         "2": {
             "components": {
-                "Specialised Legacy Firmware": 2,
-                "Mechanical Equipment": 2,
-                "Chemical Distillery": 1,
-                "Modular Terminals": 1,
-                "Specialsed Legacy Firmware": 2
+                "specialised-legacy-firmware": 2,
+                "mechanical-equipment": 2,
+                "chemical-distillery": 1,
+                "modular-terminals": 1,
+                "specialsed-legacy-firmware": 2
             },
             "effects": {
                 "optimal-multiplier": {
@@ -83,11 +83,11 @@
         },
         "3": {
             "components": {
-                "Specialised Legacy Firmware": 1,
-                "Chromium": 2,
-                "Mechanical Components": 2,
-                "Chemical Manipulators": 1,
-                "Micro-Weave Cooling Hoses": 1
+                "specialised-legacy-firmware": 1,
+                "chromium": 2,
+                "mechanical-components": 2,
+                "chemical-manipulators": 1,
+                "micro-weave-cooling-hoses": 1
             },
             "effects": {
                 "optimal-multiplier": {
@@ -124,11 +124,11 @@
         },
         "4": {
             "components": {
-                "Modified Consumer Firmware": 2,
-                "Selenium": 3,
-                "Configurable Components": 2,
-                "Pharmaceutical Isolators": 1,
-                "Heatsink Interlink": 1
+                "modified-consumer-firmware": 2,
+                "selenium": 3,
+                "configurable-components": 2,
+                "pharmaceutical-isolators": 1,
+                "heatsink-interlink": 1
             },
             "effects": {
                 "optimal-multiplier": {
@@ -165,10 +165,10 @@
         },
         "5": {
             "components": {
-                "Cracked Industrial Firmware": 2,
-                "Cadmium": 2,
-                "Pharmaceutical Isolators": 2,
-                "Exhaust Manifold": 1
+                "cracked-industrial-firmware": 2,
+                "cadmium": 2,
+                "pharmaceutical-isolators": 2,
+                "exhaust-manifold": 1
             },
             "effects": {
                 "optimal-multiplier": {

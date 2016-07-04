@@ -4,8 +4,8 @@
     "recipes": {
         "1": {
             "components": {
-                "Nickel": 2,
-                "Modified Consumer Firmware": 1
+                "nickel": 2,
+                "modified-consumer-firmware": 1
             },
             "effects": {
                 "maximum-range": {
@@ -36,10 +36,10 @@
         },
         "2": {
             "components": {
-                "Nickel": 2,
-                "Modified Consumer Firmware": 2,
-                "Electrochemical Arrays": 1,
-                "Insulating Membrane": 1
+                "nickel": 2,
+                "modified-consumer-firmware": 2,
+                "electrochemical-arrays": 1,
+                "insulating-membrane": 1
             },
             "effects": {
                 "maximum-range": {

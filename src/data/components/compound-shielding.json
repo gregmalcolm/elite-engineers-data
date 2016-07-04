@@ -3,6 +3,8 @@
     "type": "Man",
     "subtype": "Shielding",
     "rarity": "Rare",
-    "location": [],
+    "location": [
+        "Ship Wreck Salvage"
+    ],
     "missionReward": true
 }

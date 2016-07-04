@@ -3,6 +3,8 @@
     "type": "Data",
     "subtype": "Emission Data",
     "rarity": "Com",
-    "location": [],
+    "location": [
+        "Ship Wreck Salvage"
+    ],
     "missionReward": true
 }

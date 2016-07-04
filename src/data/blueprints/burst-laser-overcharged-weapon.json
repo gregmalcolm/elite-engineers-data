@@ -4,9 +4,9 @@
     "recipes": {
         "1": {
             "components": {
-                "Nickel": 1,
-                "Hybrid Capacitors": 1,
-                "Cracked Industrial Firmware": 1
+                "nickel": 1,
+                "hybrid-capacitors": 1,
+                "cracked-industrial-firmware": 1
             },
             "effects": {
                 "damage-per-second": {
@@ -49,11 +49,11 @@
         },
         "2": {
             "components": {
-                "Nickel": 1,
-                "Conductive Components": 2,
-                "Electrochemical Arrays": 1,
-                "Security Firmware Patch": 1,
-                "Praseodymium": 1
+                "nickel": 1,
+                "conductive-components": 2,
+                "electrochemical-arrays": 1,
+                "security-firmware-patch": 1,
+                "praseodymium": 1
             },
             "effects": {
                 "damage-per-second": {
@@ -96,11 +96,11 @@
         },
         "3": {
             "components": {
-                "Nickel": 1,
-                "Conductive Components": 2,
-                "Electrochemical Arrays": 2,
-                "Security Firmware Patch": 2,
-                "Articulation Motors": 1
+                "nickel": 1,
+                "conductive-components": 2,
+                "electrochemical-arrays": 2,
+                "security-firmware-patch": 2,
+                "articulation-motors": 1
             },
             "effects": {
                 "damage-per-second": {

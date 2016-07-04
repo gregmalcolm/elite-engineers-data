@@ -4,8 +4,8 @@
     "recipes": {
         "1": {
             "components": {
-                "Mechanical Scrap": 2,
-                "Anomalous FSD Telemetry": 1
+                "mechanical-scrap": 2,
+                "anomalous-fsd-telemetry": 1
             },
             "effects": {
                 "facing-limit": {

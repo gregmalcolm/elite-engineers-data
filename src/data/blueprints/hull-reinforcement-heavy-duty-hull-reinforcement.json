@@ -4,8 +4,8 @@
     "recipes": {
         "1": {
             "components": {
-                "Carbon": 1,
-                "Shield Emitters": 2
+                "carbon": 1,
+                "shield-emitters": 2
             },
             "effects": {
                 "mass": {
@@ -42,10 +42,10 @@
         },
         "2": {
             "components": {
-                "Carbon": 1,
-                "Shield Emitters": 2,
-                "High Density Composites": 2,
-                "Articulation Motors": 1
+                "carbon": 1,
+                "shield-emitters": 2,
+                "high-density-composites": 2,
+                "articulation-motors": 1
             },
             "effects": {
                 "mass": {
@@ -82,10 +82,10 @@
         },
         "3": {
             "components": {
-                "Carbon": 1,
-                "Shield Emitters": 3,
-                "High Density Composites": 3,
-                "Reinforced Mounting Plate": 1
+                "carbon": 1,
+                "shield-emitters": 3,
+                "high-density-composites": 3,
+                "reinforced-mounting-plate": 1
             },
             "effects": {
                 "mass": {
@@ -122,10 +122,10 @@
         },
         "4": {
             "components": {
-                "Vanadium": 1,
-                "Shielding Sensors": 3,
-                "Proprietary Composites": 2,
-                "Reinforced Mounting Plate": 1
+                "vanadium": 1,
+                "shielding-sensors": 3,
+                "proprietary-composites": 2,
+                "reinforced-mounting-plate": 1
             },
             "effects": {
                 "mass": {
@@ -162,10 +162,10 @@
         },
         "5": {
             "components": {
-                "Tungsten": 1,
-                "Compound Shielding": 2,
-                "Core Dynamics Composites": 2,
-                "Reinforced Mounting Plate": 1
+                "tungsten": 1,
+                "compound-shielding": 2,
+                "core-dynamics-composites": 2,
+                "reinforced-mounting-plate": 1
             },
             "effects": {
                 "mass": {

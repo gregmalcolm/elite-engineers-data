@@ -4,8 +4,8 @@
     "recipes": {
         "1": {
             "components": {
-                "Iron": 2,
-                "Inconsistent Shield Soak Analysis": 1
+                "iron": 2,
+                "inconsistent-shield-soak-analysis": 1
             },
             "effects": {
                 "thermal-resistance": {
@@ -30,10 +30,10 @@
         },
         "2": {
             "components": {
-                "Heat Conduction Wiring": 2,
-                "Germanium": 2,
-                "Untypical Shield Scans": 1,
-                "Micro Controllers": 1
+                "heat-conduction-wiring": 2,
+                "germanium": 2,
+                "untypical-shield-scans": 1,
+                "micro-controllers": 1
             },
             "effects": {
                 "thermal-resistance": {
@@ -58,11 +58,11 @@
         },
         "3": {
             "components": {
-                "Heat Conduction Wiring": 1,
-                "Heat Dispersion Plate": 1,
-                "Focus Crystals": 2,
-                "Aberrant Shield Pattern Analysis": 1,
-                "Magnetic Emitter Coil": null
+                "heat-conduction-wiring": 1,
+                "heat-dispersion-plate": 1,
+                "focus-crystals": 2,
+                "aberrant-shield-pattern-analysis": 1,
+                "magnetic-emitter-coil": null
             },
             "effects": {
                 "thermal-resistance": {

@@ -4,8 +4,8 @@
     "recipes": {
         "1": {
             "components": {
-                "Sulphur": 1,
-                "Heat Dispersion Plate": 2
+                "sulphur": 1,
+                "heat-dispersion-plate": 2
             },
             "effects": {
                 "thermal-load": {
@@ -42,10 +42,10 @@
         },
         "2": {
             "components": {
-                "Sulphur": 1,
-                "Heat Dispersion Plate": 2,
-                "Heat Exchangers": 1,
-                "Micro-Weave Cooling Hoses": 1
+                "sulphur": 1,
+                "heat-dispersion-plate": 2,
+                "heat-exchangers": 1,
+                "micro-weave-cooling-hoses": 1
             },
             "effects": {
                 "thermal-load": {

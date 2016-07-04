@@ -4,8 +4,8 @@
     "recipes": {
         "1": {
             "components": {
-                "Nickel": 2,
-                "Modified Consumer Firmware": 1
+                "nickel": 2,
+                "modified-consumer-firmware": 1
             },
             "effects": {
                 "maximum-range": {
@@ -36,11 +36,11 @@
         },
         "2": {
             "components": {
-                "Nickel": 2,
-                "Modified Consumer Firmware": 2,
-                "Electrochemical Arrays": 1,
-                "Insulating Membrane": 1,
-                "Insulatnig Membrane": 1
+                "nickel": 2,
+                "modified-consumer-firmware": 2,
+                "electrochemical-arrays": 1,
+                "insulating-membrane": 1,
+                "insulatnig-membrane": 1
             },
             "effects": {
                 "maximum-range": {
@@ -77,11 +77,11 @@
         },
         "3": {
             "components": {
-                "Nickel": 1,
-                "Modified Consumer Firmware": 2,
-                "Electrochemical Arrays": 1,
-                "Conductive Polymers": 1,
-                "Neofabric Insulation": 1
+                "nickel": 1,
+                "modified-consumer-firmware": 2,
+                "electrochemical-arrays": 1,
+                "conductive-polymers": 1,
+                "neofabric-insulation": 1
             },
             "effects": {
                 "maximum-range": {

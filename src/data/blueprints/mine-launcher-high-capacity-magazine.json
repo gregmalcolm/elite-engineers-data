@@ -4,9 +4,9 @@
     "recipes": {
         "1": {
             "components": {
-                "Mechanical Scrap": 2,
-                "Vanadium": 1,
-                "Electrochemical Arrays": 1
+                "mechanical-scrap": 2,
+                "vanadium": 1,
+                "electrochemical-arrays": 1
             },
             "effects": {
                 "ammo-clip-size": {
@@ -43,11 +43,11 @@
         },
         "2": {
             "components": {
-                "Mechanical Scrap": 2,
-                "Vanadium": 2,
-                "Niobium": 1,
-                "Polymer Capacitors": 1,
-                "CMM Composite": 1
+                "mechanical-scrap": 2,
+                "vanadium": 2,
+                "niobium": 1,
+                "polymer-capacitors": 1,
+                "cmm-composite": 1
             },
             "effects": {
                 "ammo-clip-size": {
@@ -84,11 +84,11 @@
         },
         "3": {
             "components": {
-                "Mechanical Scrap": 1,
-                "Vanadium": 3,
-                "Niobium": 2,
-                "Polymer Capacitors": 1,
-                "Reinforced Mounting Plate": 1
+                "mechanical-scrap": 1,
+                "vanadium": 3,
+                "niobium": 2,
+                "polymer-capacitors": 1,
+                "reinforced-mounting-plate": 1
             },
             "effects": {
                 "ammo-clip-size": {
@@ -125,11 +125,11 @@
         },
         "4": {
             "components": {
-                "Mechanical Equipment": 1,
-                "High Density Composites": 3,
-                "Tin": 1,
-                "Military Supercapacitors": 1,
-                "Reinforced Mounting Plate": 1
+                "mechanical-equipment": 1,
+                "high-density-composites": 3,
+                "tin": 1,
+                "military-supercapacitors": 1,
+                "reinforced-mounting-plate": 1
             },
             "effects": {
                 "ammo-maximum": {

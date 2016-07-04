@@ -4,8 +4,8 @@
     "recipes": {
         "1": {
             "components": {
-                "Iron": 2,
-                "Tagged Encryption Codes": 1
+                "iron": 2,
+                "tagged-encryption-codes": 1
             },
             "effects": {
                 "range": {

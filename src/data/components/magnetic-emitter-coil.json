@@ -3,6 +3,8 @@
     "type": "Com",
     "subtype": "Commodity",
     "rarity": "Std",
-    "location": [],
+    "location": [
+        "Virts Dock, Chemaluk"
+    ],
     "missionReward": true
 }

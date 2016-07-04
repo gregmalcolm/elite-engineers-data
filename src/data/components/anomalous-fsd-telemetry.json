@@ -3,6 +3,8 @@
     "type": "Data",
     "subtype": "Scan Data",
     "rarity": "Com",
-    "location": [],
+    "location": [
+        "High Wake Scanning"
+    ],
     "missionReward": true
 }

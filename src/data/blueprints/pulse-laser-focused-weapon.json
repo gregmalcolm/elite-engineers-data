@@ -4,9 +4,9 @@
     "recipes": {
         "1": {
             "components": {
-                "Iron": 1,
-                "Conductive Components": 1,
-                "Electrochemical Arrays": 1
+                "iron": 1,
+                "conductive-components": 1,
+                "electrochemical-arrays": 1
             },
             "effects": {
                 "maximum-range": {
@@ -37,10 +37,10 @@
         },
         "2": {
             "components": {
-                "Iron": 2,
-                "Conductive Components": 2,
-                "Electrochemical Arrays": 2,
-                "Micro Controllers": 1
+                "iron": 2,
+                "conductive-components": 2,
+                "electrochemical-arrays": 2,
+                "micro-controllers": 1
             },
             "effects": {
                 "maximum-range": {
@@ -77,12 +77,12 @@
         },
         "3": {
             "components": {
-                "Iron": 1,
-                "Chromium": 3,
-                "Conductive Ceramics": 2,
-                "Polymer Capacitors": 1,
-                "Platinum": 1,
-                "Polmer Capacitors": 1
+                "iron": 1,
+                "chromium": 3,
+                "conductive-ceramics": 2,
+                "polymer-capacitors": 1,
+                "platinum": 1,
+                "polmer-capacitors": 1
             },
             "effects": {
                 "maximum-range": {
@@ -119,10 +119,10 @@
         },
         "4": {
             "components": {
-                "Germanium": 2,
-                "Focus Crystals": 3,
-                "Polymer Capacitors": 2,
-                "Nanobreakers": 1
+                "germanium": 2,
+                "focus-crystals": 3,
+                "polymer-capacitors": 2,
+                "nanobreakers": 1
             },
             "effects": {
                 "maximum-range": {

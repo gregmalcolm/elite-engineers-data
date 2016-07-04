@@ -3,6 +3,9 @@
     "type": "Data",
     "subtype": "Scan Data",
     "rarity": "Rare",
-    "location": [],
+    "location": [
+        "Ship Wreck Salvage",
+        "High Wake Scanning"
+    ],
     "missionReward": false
 }

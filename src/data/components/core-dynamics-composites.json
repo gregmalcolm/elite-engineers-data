@@ -3,6 +3,8 @@
     "type": "Man",
     "subtype": "High Density Composites",
     "rarity": "VRare",
-    "location": [],
+    "location": [
+        "Ship Wreck Salvage"
+    ],
     "missionReward": false
 }

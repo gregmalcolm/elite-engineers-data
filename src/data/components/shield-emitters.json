@@ -3,6 +3,9 @@
     "type": "Man",
     "subtype": "Shielding",
     "rarity": "Com",
-    "location": [],
+    "location": [
+        "Ship Wreck Salvage",
+        "POI"
+    ],
     "missionReward": false
 }

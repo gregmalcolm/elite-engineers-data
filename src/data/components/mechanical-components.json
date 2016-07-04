@@ -3,6 +3,8 @@
     "type": "Man",
     "subtype": "Mechanical Component",
     "rarity": "Std",
-    "location": [],
+    "location": [
+        "Ship Wreck Salvage"
+    ],
     "missionReward": false
 }

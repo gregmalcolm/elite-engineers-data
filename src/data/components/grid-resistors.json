@@ -3,6 +3,8 @@
     "type": "Man",
     "subtype": "Capacitor",
     "rarity": "VCom",
-    "location": [],
+    "location": [
+        "Ship Wreck Salvage"
+    ],
     "missionReward": true
 }

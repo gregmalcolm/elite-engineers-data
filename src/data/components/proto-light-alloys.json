@@ -3,6 +3,8 @@
     "type": "Man",
     "subtype": "Lightweight Alloy",
     "rarity": "Rare",
-    "location": [],
+    "location": [
+        "Ship Wreck Salvage"
+    ],
     "missionReward": true
 }

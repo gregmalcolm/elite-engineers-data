@@ -3,6 +3,8 @@
     "type": "Man",
     "subtype": "Chemical Manipulator",
     "rarity": "VRare",
-    "location": [],
+    "location": [
+        "USS (ELW)"
+    ],
     "missionReward": true
 }

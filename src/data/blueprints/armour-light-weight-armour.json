@@ -4,9 +4,9 @@
     "recipes": {
         "1": {
             "components": {
-                "Iron": 2,
-                "Conductive Components": 1,
-                "High Density Composites": 1
+                "iron": 2,
+                "conductive-components": 1,
+                "high-density-composites": 1
             },
             "effects": {
                 "hull-boost": {

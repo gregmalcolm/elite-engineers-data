@@ -4,8 +4,8 @@
     "recipes": {
         "1": {
             "components": {
-                "Sulphur": 2,
-                "Modified Consumer Firmware": 1
+                "sulphur": 2,
+                "modified-consumer-firmware": 1
             },
             "effects": {
                 "maximum-range": {
@@ -48,10 +48,10 @@
         },
         "2": {
             "components": {
-                "Sulphur": 2,
-                "Modified Consumer Firmware": 2,
-                "Focus Crystals": 1,
-                "Insulating Membrane": 1
+                "sulphur": 2,
+                "modified-consumer-firmware": 2,
+                "focus-crystals": 1,
+                "insulating-membrane": 1
             },
             "effects": {
                 "maximum-range": {
@@ -100,11 +100,11 @@
         },
         "3": {
             "components": {
-                "Sulphur": 1,
-                "Modified Consumer Firmware": 2,
-                "Focus Crystals": 1,
-                "Conductive Polymers": 1,
-                "Neofabric Insulation": 1
+                "sulphur": 1,
+                "modified-consumer-firmware": 2,
+                "focus-crystals": 1,
+                "conductive-polymers": 1,
+                "neofabric-insulation": 1
             },
             "effects": {
                 "maximum-range": {

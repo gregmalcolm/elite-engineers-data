@@ -4,8 +4,8 @@
     "recipes": {
         "1": {
             "components": {
-                "Carbon": 1,
-                "Shield Emitters": 2
+                "carbon": 1,
+                "shield-emitters": 2
             },
             "effects": {
                 "mass": {
@@ -36,10 +36,10 @@
         },
         "2": {
             "components": {
-                "Heat Conduction Wiring": 2,
-                "Vanadium": 2,
-                "Shielding Sensors": 1,
-                "Osmium": 1
+                "heat-conduction-wiring": 2,
+                "vanadium": 2,
+                "shielding-sensors": 1,
+                "osmium": 1
             },
             "effects": {
                 "mass": {
@@ -70,10 +70,10 @@
         },
         "3": {
             "components": {
-                "Heat Conduction Wiring": 1,
-                "Vanadium": 3,
-                "Shielding Sensors": 2,
-                "CMM Composite": 1
+                "heat-conduction-wiring": 1,
+                "vanadium": 3,
+                "shielding-sensors": 2,
+                "cmm-composite": 1
             },
             "effects": {
                 "mass": {
@@ -104,10 +104,10 @@
         },
         "4": {
             "components": {
-                "Heat Dispersion Plate": 1,
-                "High Density Composites": 3,
-                "Compound Shielding": 1,
-                "CMM Composite": 1
+                "heat-dispersion-plate": 1,
+                "high-density-composites": 3,
+                "compound-shielding": 1,
+                "cmm-composite": 1
             },
             "effects": {
                 "mass": {
@@ -138,10 +138,10 @@
         },
         "5": {
             "components": {
-                "Heat Exchangers": 1,
-                "Proprietary Composites": 2,
-                "Imperial Shielding": 1,
-                "Articulation Motors": 1
+                "heat-exchangers": 1,
+                "proprietary-composites": 2,
+                "imperial-shielding": 1,
+                "articulation-motors": 1
             },
             "effects": {
                 "mass": {

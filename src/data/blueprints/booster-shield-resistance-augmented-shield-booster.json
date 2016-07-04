@@ -4,9 +4,9 @@
     "recipes": {
         "1": {
             "components": {
-                "Phosphorus": 2,
-                "Germanium": 1,
-                "Shielding Sensors": 1
+                "phosphorus": 2,
+                "germanium": 1,
+                "shielding-sensors": 1
             },
             "effects": {
                 "power-draw": {
@@ -43,11 +43,11 @@
         },
         "2": {
             "components": {
-                "Phosphorus": 1,
-                "Conductive Components": 2,
-                "Focus Crystals": 2,
-                "Compound Shielding": 1,
-                "Praseodymium": null
+                "phosphorus": 1,
+                "conductive-components": 2,
+                "focus-crystals": 2,
+                "compound-shielding": 1,
+                "praseodymium": null
             },
             "effects": {
                 "power-draw": {
@@ -84,11 +84,11 @@
         },
         "3": {
             "components": {
-                "Phosphorus": 1,
-                "Conductive Components": 3,
-                "Focus Crystals": 2,
-                "Compound Shielding": 2,
-                "Modular Terminals": null
+                "phosphorus": 1,
+                "conductive-components": 3,
+                "focus-crystals": 2,
+                "compound-shielding": 2,
+                "modular-terminals": null
             },
             "effects": {
                 "power-draw": {
@@ -125,11 +125,11 @@
         },
         "4": {
             "components": {
-                "Manganese": 2,
-                "Conductive Ceramics": 3,
-                "Refined Focus Crystals": 2,
-                "Imperial Shielding": 1,
-                "Radiation Baffle": 1
+                "manganese": 2,
+                "conductive-ceramics": 3,
+                "refined-focus-crystals": 2,
+                "imperial-shielding": 1,
+                "radiation-baffle": 1
             },
             "effects": {
                 "power-draw": {
@@ -166,10 +166,10 @@
         },
         "5": {
             "components": {
-                "Conductive Ceramics": 2,
-                "Refined Focus Crystals": 3,
-                "Imperial Shielding": 2,
-                "Radiation Baffle": 1
+                "conductive-ceramics": 2,
+                "refined-focus-crystals": 3,
+                "imperial-shielding": 2,
+                "radiation-baffle": 1
             },
             "effects": {
                 "power-draw": {

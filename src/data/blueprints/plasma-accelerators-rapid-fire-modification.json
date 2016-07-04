@@ -4,8 +4,8 @@
     "recipes": {
         "1": {
             "components": {
-                "Mechanical Scrap": 2,
-                "Heat Dispersion Plate": 2
+                "mechanical-scrap": 2,
+                "heat-dispersion-plate": 2
             },
             "effects": {
                 "damage-per-second": {
@@ -42,10 +42,10 @@
         },
         "2": {
             "components": {
-                "Mechanical Scrap": 3,
-                "Heat Dispersion Plate": 2,
-                "Tungsten": 1,
-                "HN Shock Mount": 1
+                "mechanical-scrap": 3,
+                "heat-dispersion-plate": 2,
+                "tungsten": 1,
+                "hn-shock-mount": 1
             },
             "effects": {
                 "damage-per-second": {

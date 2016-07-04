@@ -3,6 +3,9 @@
     "type": "Com",
     "subtype": "Commodity",
     "rarity": "Std",
-    "location": [],
+    "location": [
+        "Mining",
+        "POI - Salvage"
+    ],
     "missionReward": true
 }

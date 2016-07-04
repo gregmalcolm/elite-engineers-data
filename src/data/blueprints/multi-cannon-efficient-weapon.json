@@ -4,8 +4,8 @@
     "recipes": {
         "1": {
             "components": {
-                "Sulphur": 1,
-                "Heat Dispersion Plate": 2
+                "sulphur": 1,
+                "heat-dispersion-plate": 2
             },
             "effects": {
                 "thermal-load": {
@@ -48,11 +48,10 @@
         },
         "2": {
             "components": {
-                "Sulphur": 1,
-                "Heat Dispersion Plate": 2,
-                "Heat Exchangers": 1,
-                "Micro-Weave Cooling Hoses": 1,
-                "Heat exchangers": 1
+                "sulphur": 1,
+                "heat-dispersion-plate": 2,
+                "heat-exchangers": 1,
+                "micro-weave-cooling-hoses": 1
             },
             "effects": {
                 "thermal-load": {
@@ -95,11 +94,10 @@
         },
         "3": {
             "components": {
-                "Heat Conduction Wiring": 2,
-                "Chromium": 2,
-                "Heat Exchangers": 2,
-                "Samarium": 1,
-                "Heat exchangers": 2
+                "heat-conduction-wiring": 2,
+                "chromium": 2,
+                "heat-exchangers": 2,
+                "samarium": 1
             },
             "effects": {
                 "thermal-load": {
@@ -142,10 +140,10 @@
         },
         "4": {
             "components": {
-                "Heat Dispersion Plate": 1,
-                "Selenium": 2,
-                "Heat Vanes": 1,
-                "Heatsink Interlink": 1
+                "heat-dispersion-plate": 1,
+                "selenium": 2,
+                "heat-vanes": 1,
+                "heatsink-interlink": 1
             },
             "effects": {
                 "thermal-load": {
@@ -188,10 +186,10 @@
         },
         "5": {
             "components": {
-                "Precipitated Alloys": 1,
-                "Cadmium": 2,
-                "Proto Heat Radiators": 1,
-                "Heatsink Interlink": 1
+                "precipitated-alloys": 1,
+                "cadmium": 2,
+                "proto-heat-radiators": 1,
+                "heatsink-interlink": 1
             },
             "effects": {
                 "thermal-load": {

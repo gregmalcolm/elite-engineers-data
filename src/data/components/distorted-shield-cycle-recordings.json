@@ -3,6 +3,8 @@
     "type": "Data",
     "subtype": "Shield Frequency System",
     "rarity": "VCom",
-    "location": [],
+    "location": [
+        "NPC Ship Scanning"
+    ],
     "missionReward": true
 }

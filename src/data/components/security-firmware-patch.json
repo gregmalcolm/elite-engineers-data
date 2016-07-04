@@ -3,6 +3,8 @@
     "type": "Data",
     "subtype": "Firmware",
     "rarity": "Rare",
-    "location": [],
+    "location": [
+        "POI - Settlement"
+    ],
     "missionReward": true
 }

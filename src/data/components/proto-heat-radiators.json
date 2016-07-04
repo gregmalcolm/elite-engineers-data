@@ -3,6 +3,8 @@
     "type": "Man",
     "subtype": "Heat Exchanger",
     "rarity": "VRare",
-    "location": [],
+    "location": [
+        "Ship Wreck Salvage"
+    ],
     "missionReward": true
 }

@@ -3,6 +3,9 @@
     "type": "Man",
     "subtype": "Conductor",
     "rarity": "Rare",
-    "location": [],
+    "location": [
+        "Ship Wreck Salvage",
+        "POI - Crash Site"
+    ],
     "missionReward": true
 }

@@ -3,6 +3,9 @@
     "type": "Data",
     "subtype": "Firmware",
     "rarity": "Com",
-    "location": [],
+    "location": [
+        "POI - Data Point",
+        "Ship Wreck Salvage"
+    ],
     "missionReward": true
 }

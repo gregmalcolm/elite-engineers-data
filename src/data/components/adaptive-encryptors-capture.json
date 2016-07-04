@@ -3,6 +3,9 @@
     "type": "Data",
     "subtype": "Encryption Code",
     "rarity": "VRare",
-    "location": [],
+    "location": [
+        "Ship Wreck Salvage",
+        "POI"
+    ],
     "missionReward": true
 }

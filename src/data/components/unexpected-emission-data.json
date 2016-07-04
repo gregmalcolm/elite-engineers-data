@@ -3,6 +3,8 @@
     "type": "Data",
     "subtype": "Emission Data",
     "rarity": "Std",
-    "location": [],
+    "location": [
+        "NPC Ship Scanning"
+    ],
     "missionReward": true
 }

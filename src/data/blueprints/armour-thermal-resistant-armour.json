@@ -4,8 +4,8 @@
     "recipes": {
         "1": {
             "components": {
-                "Heat Conduction Wiring": 2,
-                "Vanadium": 1
+                "heat-conduction-wiring": 2,
+                "vanadium": 1
             },
             "effects": {
                 "thermal-resistance": {

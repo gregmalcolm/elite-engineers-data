@@ -4,8 +4,8 @@
     "recipes": {
         "1": {
             "components": {
-                "Carbon": 2,
-                "Mechanical Equipment": 1
+                "carbon": 2,
+                "mechanical-equipment": 1
             },
             "effects": {
                 "ammo-clip-size": {
@@ -42,10 +42,10 @@
         },
         "2": {
             "components": {
-                "Carbon": 2,
-                "Mechanical Equipment": 2,
-                "Cracked Industrial Firmware": 1,
-                "Micro Controllers": 1
+                "carbon": 2,
+                "mechanical-equipment": 2,
+                "cracked-industrial-firmware": 1,
+                "micro-controllers": 1
             },
             "effects": {
                 "ammo-clip-size": {
@@ -82,11 +82,11 @@
         },
         "3": {
             "components": {
-                "Carbon": 1,
-                "Mechanical Equipment": 1,
-                "Cracked Industrial Firmware": 1,
-                "Mercury": 1,
-                "Osmium": 1
+                "carbon": 1,
+                "mechanical-equipment": 1,
+                "cracked-industrial-firmware": 1,
+                "mercury": 1,
+                "osmium": 1
             },
             "effects": {
                 "ammo-clip-size": {
@@ -123,11 +123,11 @@
         },
         "4": {
             "components": {
-                "Vanadium": 2,
-                "Mechanical Components": 2,
-                "Security Firmware Patch": 1,
-                "Ruthenium": 1,
-                "Osmium": 1
+                "vanadium": 2,
+                "mechanical-components": 2,
+                "security-firmware-patch": 1,
+                "ruthenium": 1,
+                "osmium": 1
             },
             "effects": {
                 "ammo-clip-size": {

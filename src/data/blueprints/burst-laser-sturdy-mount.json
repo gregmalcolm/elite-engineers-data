@@ -4,8 +4,8 @@
     "recipes": {
         "1": {
             "components": {
-                "Nickel": 2,
-                "Vanadium": 1
+                "nickel": 2,
+                "vanadium": 1
             },
             "effects": {
                 "mass": {
@@ -24,10 +24,10 @@
         },
         "2": {
             "components": {
-                "Nickel": 2,
-                "Shield Emitters": 2,
-                "Tungsten": 1,
-                "HN Shock Mount": 1
+                "nickel": 2,
+                "shield-emitters": 2,
+                "tungsten": 1,
+                "hn-shock-mount": 1
             },
             "effects": {
                 "mass": {
@@ -46,10 +46,10 @@
         },
         "3": {
             "components": {
-                "Zinc": 2,
-                "Shielding Sensors": 2,
-                "Molybdenum": 1,
-                "Osmium": 1
+                "zinc": 2,
+                "shielding-sensors": 2,
+                "molybdenum": 1,
+                "osmium": 1
             },
             "effects": {
                 "mass": {

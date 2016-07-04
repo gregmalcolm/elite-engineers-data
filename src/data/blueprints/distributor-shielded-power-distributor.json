@@ -4,8 +4,8 @@
     "recipes": {
         "1": {
             "components": {
-                "Worn Shield Emitters": 1,
-                "Vanadium": 2
+                "worn-shield-emitters": 1,
+                "vanadium": 2
             },
             "effects": {
                 "integrity": {
@@ -24,10 +24,10 @@
         },
         "2": {
             "components": {
-                "Carbon": 2,
-                "Shield Emitters": 2,
-                "High Density Composites": 1,
-                "CMM Composite": 1
+                "carbon": 2,
+                "shield-emitters": 2,
+                "high-density-composites": 1,
+                "cmm-composite": 1
             },
             "effects": {
                 "integrity": {
@@ -46,10 +46,10 @@
         },
         "3": {
             "components": {
-                "Carbon": 1,
-                "Shield Emitters": 3,
-                "High Density Composites": 2,
-                "Osmium": 1
+                "carbon": 1,
+                "shield-emitters": 3,
+                "high-density-composites": 2,
+                "osmium": 1
             },
             "effects": {
                 "integrity": {
@@ -68,10 +68,10 @@
         },
         "4": {
             "components": {
-                "Vanadium": 1,
-                "Shielding Sensors": 3,
-                "Proprietary Composites": 2,
-                "Reinforced Mounting Plate": 1
+                "vanadium": 1,
+                "shielding-sensors": 3,
+                "proprietary-composites": 2,
+                "reinforced-mounting-plate": 1
             },
             "effects": {
                 "integrity": {
@@ -90,10 +90,10 @@
         },
         "5": {
             "components": {
-                "Tungsten": 1,
-                "Compound Shielding": 3,
-                "Core Dynamics Composites": 1,
-                "Reinforced Mounting Plate": 1
+                "tungsten": 1,
+                "compound-shielding": 3,
+                "core-dynamics-composites": 1,
+                "reinforced-mounting-plate": 1
             },
             "effects": {
                 "integrity": {

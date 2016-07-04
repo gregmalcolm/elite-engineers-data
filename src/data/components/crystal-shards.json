@@ -3,6 +3,9 @@
     "type": "Man",
     "subtype": "Focusing Crystal",
     "rarity": "VCom",
-    "location": [],
+    "location": [
+        "Ship Wreck Salvage",
+        "POI"
+    ],
     "missionReward": false
 }

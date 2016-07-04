@@ -3,6 +3,9 @@
     "type": "Ele",
     "subtype": "Raw Material",
     "rarity": "Std",
-    "location": [],
+    "location": [
+        "Surface Prospecting",
+        "Mining"
+    ],
     "missionReward": false
 }

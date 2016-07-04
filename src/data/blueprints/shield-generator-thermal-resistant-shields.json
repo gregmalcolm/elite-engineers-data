@@ -4,8 +4,8 @@
     "recipes": {
         "1": {
             "components": {
-                "Distorted Shield Cycle Recordings": 2,
-                "Germanium": 1
+                "distorted-shield-cycle-recordings": 2,
+                "germanium": 1
             },
             "effects": {
                 "thermal-resistance": {
@@ -24,10 +24,10 @@
         },
         "2": {
             "components": {
-                "Distorted Shield Cycle Recordings": 2,
-                "Germanium": 2,
-                "Zirconium": 1,
-                "Micro-Weave Cooling Hoses": 1
+                "distorted-shield-cycle-recordings": 2,
+                "germanium": 2,
+                "zirconium": 1,
+                "micro-weave-cooling-hoses": 1
             },
             "effects": {
                 "thermal-resistance": {
@@ -46,11 +46,11 @@
         },
         "3": {
             "components": {
-                "Distorted Shield Cycle Recordings": 1,
-                "Germanium": 1,
-                "Selenium": 2,
-                "Mercury": 1,
-                "Micro-Weave Cooling Hoses": null
+                "distorted-shield-cycle-recordings": 1,
+                "germanium": 1,
+                "selenium": 2,
+                "mercury": 1,
+                "micro-weave-cooling-hoses": null
             },
             "effects": {
                 "thermal-resistance": {
@@ -69,9 +69,9 @@
         },
         "4": {
             "components": {
-                "Untypical Shield Scans": 2,
-                "Refined Focus Crystals": 2,
-                "Ion Distributor": 1
+                "untypical-shield-scans": 2,
+                "refined-focus-crystals": 2,
+                "ion-distributor": 1
             },
             "effects": {
                 "thermal-resistance": {
@@ -90,9 +90,9 @@
         },
         "5": {
             "components": {
-                "Aberrant Shield Pattern Analysis": 2,
-                "Exquisite Focus Crystals": 1,
-                "Ion Distributor": 1
+                "aberrant-shield-pattern-analysis": 2,
+                "exquisite-focus-crystals": 1,
+                "ion-distributor": 1
             },
             "effects": {
                 "thermal-resistance": {

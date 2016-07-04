@@ -4,8 +4,8 @@
     "recipes": {
         "1": {
             "components": {
-                "Iron": 2,
-                "Inconsistent Shield Soak Analysis": 1
+                "iron": 2,
+                "inconsistent-shield-soak-analysis": 1
             },
             "effects": {
                 "kinetic-resistance": {
@@ -30,10 +30,10 @@
         },
         "2": {
             "components": {
-                "Grid Resistors": 2,
-                "Germanium": 2,
-                "Untypical Shield Scans": 1,
-                "Micro Controllers": 1
+                "grid-resistors": 2,
+                "germanium": 2,
+                "untypical-shield-scans": 1,
+                "micro-controllers": 1
             },
             "effects": {
                 "kinetic-resistance": {
@@ -58,11 +58,11 @@
         },
         "3": {
             "components": {
-                "Grid Resistors": 1,
-                "Hybrid Capacitors": 1,
-                "Focus Crystals": 2,
-                "Aberrant Shield Pattern Analysis": 1,
-                "Magnetic Emitter Coil": null
+                "grid-resistors": 1,
+                "hybrid-capacitors": 1,
+                "focus-crystals": 2,
+                "aberrant-shield-pattern-analysis": 1,
+                "magnetic-emitter-coil": null
             },
             "effects": {
                 "kinetic-resistance": {

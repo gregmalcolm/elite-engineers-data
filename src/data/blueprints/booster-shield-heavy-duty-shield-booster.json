@@ -4,8 +4,8 @@
     "recipes": {
         "1": {
             "components": {
-                "Grid Resistors": 1,
-                "Germanium": 2
+                "grid-resistors": 1,
+                "germanium": 2
             },
             "effects": {
                 "shield-boost": {
@@ -36,10 +36,10 @@
         },
         "2": {
             "components": {
-                "Distorted Shield Cycle Recordings": 1,
-                "Hybrid Capacitors": 2,
-                "Niobium": 2,
-                "CMM Composite": 1
+                "distorted-shield-cycle-recordings": 1,
+                "hybrid-capacitors": 2,
+                "niobium": 2,
+                "cmm-composite": 1
             },
             "effects": {
                 "shield-boost": {
@@ -70,10 +70,10 @@
         },
         "3": {
             "components": {
-                "Distorted Shield Cycle Recordings": 1,
-                "Hybrid Capacitors": 3,
-                "Niobium": 3,
-                "Magnetic Emitter Coil": 1
+                "distorted-shield-cycle-recordings": 1,
+                "hybrid-capacitors": 3,
+                "niobium": 3,
+                "magnetic-emitter-coil": 1
             },
             "effects": {
                 "shield-boost": {
@@ -104,10 +104,10 @@
         },
         "4": {
             "components": {
-                "Inconsistent Shield Soak Analysis": 1,
-                "Electrochemical Arrays": 3,
-                "Tin": 2,
-                "Emergency Power Cells": 1
+                "inconsistent-shield-soak-analysis": 1,
+                "electrochemical-arrays": 3,
+                "tin": 2,
+                "emergency-power-cells": 1
             },
             "effects": {
                 "shield-boost": {
@@ -138,10 +138,10 @@
         },
         "5": {
             "components": {
-                "Untypical Shield Scans": 1,
-                "Polymer Capacitors": 2,
-                "Antimony": 2,
-                "Emergency Power Cells": 1
+                "untypical-shield-scans": 1,
+                "polymer-capacitors": 2,
+                "antimony": 2,
+                "emergency-power-cells": 1
             },
             "effects": {
                 "shield-boost": {
